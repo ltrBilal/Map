@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+
+<?import javafx.scene.text.Text?>
+<StackPane xmlns="http://javafx.com/javafx/16" fx:controller="fr.maps.ConnexionController" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <ImageView>
+            <image>
+                <Image url="https://lesglobeblogueurs.com/wp-content/uploads/2019/12/map-2685795bluebridge-pixabay-6-1920x1280.jpg"/>
+            </image>
+        </ImageView>
+        <VBox spacing="400" alignment="TOP_CENTER">
+            <Text text="SpringMap"  style="-fx-font-size: 80px;"/>
+            <Button fx:id="connectButton" onAction="#connect" text="Se connecter" style="-fx-background-color: black;-fx-font-size: 24px; -fx-text-fill: white;" />
+        </VBox>
+    </children>
+</StackPane>

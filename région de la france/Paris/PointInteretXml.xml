@@ -1,0 +1,3072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-05-09T09:32:09Z"/>
+
+  <way id="79719442">
+    <bounds minlat="48.8268921" minlon="2.3197992" maxlat="48.8273039" maxlon="2.3203667"/>
+    <nd ref="930307539" lat="48.8273039" lon="2.3201287"/>
+    <nd ref="930294258" lat="48.8270922" lon="2.3199039"/>
+    <nd ref="930343910" lat="48.8271049" lon="2.3198763"/>
+    <nd ref="930336371" lat="48.8271091" lon="2.3198609"/>
+    <nd ref="930310620" lat="48.8271077" lon="2.3198465"/>
+    <nd ref="930309136" lat="48.8271028" lon="2.3198379"/>
+    <nd ref="930343698" lat="48.8270990" lon="2.3198342"/>
+    <nd ref="930289062" lat="48.8270925" lon="2.3198322"/>
+    <nd ref="930342385" lat="48.8270882" lon="2.3198332"/>
+    <nd ref="930342939" lat="48.8270817" lon="2.3198379"/>
+    <nd ref="930313406" lat="48.8270644" lon="2.3198751"/>
+    <nd ref="930314727" lat="48.8269927" lon="2.3197992"/>
+    <nd ref="930312157" lat="48.8268921" lon="2.3200183"/>
+    <nd ref="930324697" lat="48.8269069" lon="2.3200346"/>
+    <nd ref="930312949" lat="48.8268970" lon="2.3200570"/>
+    <nd ref="930293669" lat="48.8271907" lon="2.3203667"/>
+    <nd ref="930338402" lat="48.8272599" lon="2.3202212"/>
+    <nd ref="930307539" lat="48.8273039" lon="2.3201287"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:street" v="Rue des Plantes"/>
+    <tag k="building" v="hospital"/>
+    <tag k="building:levels" v="8"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="79717561">
+    <bounds minlat="48.8237082" minlon="2.3239329" maxlat="48.8239276" maxlon="2.3242925"/>
+    <nd ref="930342217" lat="48.8238559" lon="2.3241596"/>
+    <nd ref="930289859" lat="48.8238590" lon="2.3241489"/>
+    <nd ref="930342931" lat="48.8238752" lon="2.3241388"/>
+    <nd ref="930295804" lat="48.8238823" lon="2.3241113"/>
+    <nd ref="930332820" lat="48.8238737" lon="2.3240848"/>
+    <nd ref="930311793" lat="48.8238498" lon="2.3240724"/>
+    <nd ref="930305945" lat="48.8238556" lon="2.3240480"/>
+    <nd ref="930310779" lat="48.8239143" lon="2.3240779"/>
+    <nd ref="930330954" lat="48.8239276" lon="2.3240147"/>
+    <nd ref="930334766" lat="48.8238836" lon="2.3239904"/>
+    <nd ref="930316726" lat="48.8237709" lon="2.3239329"/>
+    <nd ref="1775401304" lat="48.8237618" lon="2.3239737"/>
+    <nd ref="1775401306" lat="48.8237218" lon="2.3241532"/>
+    <nd ref="930336067" lat="48.8237082" lon="2.3242140"/>
+    <nd ref="930324966" lat="48.8238045" lon="2.3242604"/>
+    <nd ref="930294071" lat="48.8238686" lon="2.3242925"/>
+    <nd ref="930314792" lat="48.8238909" lon="2.3241875"/>
+    <nd ref="930325376" lat="48.8238927" lon="2.3241788"/>
+    <nd ref="930342217" lat="48.8238559" lon="2.3241596"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:country" v="FR"/>
+    <tag k="addr:housenumber" v="185"/>
+    <tag k="addr:postcode" v="75014"/>
+    <tag k="addr:street" v="Boulevard Brune"/>
+    <tag k="brand" v="Mercure"/>
+    <tag k="brand:wikidata" v="Q1709809"/>
+    <tag k="brand:wikipedia" v="fr:Mercure (hôtels)"/>
+    <tag k="building" v="hotel"/>
+    <tag k="building:levels" v="9"/>
+    <tag k="name" v="Mercure Paris Alesia"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="stars" v="4"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="http://www.mercure.com/de/hotel-9734-hotel-mercure-paris-alesia-/index.shtml"/>
+  </way>
+  <way id="79804145">
+    <bounds minlat="48.8236326" minlon="2.3327411" maxlat="48.8237554" maxlon="2.3328494"/>
+    <nd ref="931573019" lat="48.8237455" lon="2.3327411"/>
+    <nd ref="931568836" lat="48.8236635" lon="2.3327627"/>
+    <nd ref="931571185" lat="48.8236439" lon="2.3327679"/>
+    <nd ref="930818626" lat="48.8236326" lon="2.3328178"/>
+    <nd ref="931566156" lat="48.8236510" lon="2.3328276"/>
+    <nd ref="930828123" lat="48.8236916" lon="2.3328494"/>
+    <nd ref="930821306" lat="48.8237554" lon="2.3328286"/>
+    <nd ref="931573019" lat="48.8237455" lon="2.3327411"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:postcode" v="75014"/>
+    <tag k="addr:street" v="Avenue Reille"/>
+    <tag k="architect" v="Le Corbusier"/>
+    <tag k="building" v="detached"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="heritage" v="3"/>
+    <tag k="heritage:operator" v="mhs"/>
+    <tag k="mhs:inscription_date" v="1975-01-15"/>
+    <tag k="name" v="Maison Ozenfant"/>
+    <tag k="ref:mhs" v="PA00086629"/>
+    <tag k="source" v="Cadastre. Mise à jour : 2010 ; data.gouv.fr:Ministère de la Culture - 08/2011;knowledge;survey"/>
+    <tag k="source:heritage" v="Ministère de la Culture - 06/2019"/>
+    <tag k="wikidata" v="Q22922153"/>
+  </way>
+  <way id="79804883">
+    <bounds minlat="48.8262263" minlon="2.3324233" maxlat="48.8263528" maxlon="2.3326256"/>
+    <nd ref="930820677" lat="48.8263353" lon="2.3326256"/>
+    <nd ref="931566182" lat="48.8263528" lon="2.3324476"/>
+    <nd ref="931573321" lat="48.8262904" lon="2.3324325"/>
+    <nd ref="931567027" lat="48.8262456" lon="2.3324233"/>
+    <nd ref="931568081" lat="48.8262263" lon="2.3325993"/>
+    <nd ref="930817940" lat="48.8262573" lon="2.3326079"/>
+    <nd ref="930820677" lat="48.8263353" lon="2.3326256"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Villa Seurat"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="name" v="Maison Émile Just Bachelet"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="79805060">
+    <bounds minlat="48.8260099" minlon="2.3326339" maxlat="48.8261643" maxlon="2.3327700"/>
+    <nd ref="930829615" lat="48.8261643" lon="2.3326707"/>
+    <nd ref="930817643" lat="48.8260219" lon="2.3326339"/>
+    <nd ref="930823567" lat="48.8260137" lon="2.3327019"/>
+    <nd ref="931569255" lat="48.8260099" lon="2.3327338"/>
+    <nd ref="930820556" lat="48.8260624" lon="2.3327455"/>
+    <nd ref="931572250" lat="48.8260617" lon="2.3327473"/>
+    <nd ref="931569256" lat="48.8260932" lon="2.3327546"/>
+    <nd ref="930818989" lat="48.8261533" lon="2.3327700"/>
+    <nd ref="1789288576" lat="48.8261588" lon="2.3327200"/>
+    <nd ref="930829615" lat="48.8261643" lon="2.3326707"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="7 bis"/>
+    <tag k="addr:postcode" v="75014"/>
+    <tag k="addr:street" v="Villa Seurat"/>
+    <tag k="architect" v="Auguste Perret"/>
+    <tag k="building" v="yes"/>
+    <tag k="email" v="info@chana-orloff.org"/>
+    <tag k="facebook" v="https://www.facebook.com/ChanaOrloffOfficial"/>
+    <tag k="name" v="Maison Chana Orloff"/>
+    <tag k="phone" v="+33 6 60 92 22 17"/>
+    <tag k="ref:structurae" v="s0044573"/>
+    <tag k="source" v="Cadastre. Mise à jour : 2010;knowledge"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="https://www.chana-orloff.org/"/>
+    <tag k="website:structurae" v="http://structurae.info/structures/data/index.cfm?id=s0044573"/>
+  </way>
+  <way id="78493024">
+    <bounds minlat="48.8237717" minlon="2.3417732" maxlat="48.8239581" maxlon="2.3419367"/>
+    <nd ref="921158519" lat="48.8239581" lon="2.3418016"/>
+    <nd ref="921159540" lat="48.8238093" lon="2.3417882"/>
+    <nd ref="921156517" lat="48.8238096" lon="2.3417754"/>
+    <nd ref="921165942" lat="48.8237792" lon="2.3417732"/>
+    <nd ref="921168365" lat="48.8237717" lon="2.3419332"/>
+    <nd ref="921164873" lat="48.8238020" lon="2.3419367"/>
+    <nd ref="921168588" lat="48.8238021" lon="2.3419287"/>
+    <nd ref="921158870" lat="48.8238066" lon="2.3419290"/>
+    <nd ref="921165763" lat="48.8238069" lon="2.3419222"/>
+    <nd ref="921158437" lat="48.8239518" lon="2.3419331"/>
+    <nd ref="921158519" lat="48.8239581" lon="2.3418016"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housename" v="B"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:postcode" v="75013"/>
+    <tag k="addr:street" v="Rue de l'Amiral Mouchez"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="7"/>
+    <tag k="roof:shape" v="flat"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="78493308">
+    <bounds minlat="48.8237818" minlon="2.3415636" maxlat="48.8239693" maxlon="2.3417152"/>
+    <nd ref="921155519" lat="48.8237818" lon="2.3417120"/>
+    <nd ref="921159310" lat="48.8238155" lon="2.3417152"/>
+    <nd ref="921160618" lat="48.8238157" lon="2.3417118"/>
+    <nd ref="921168320" lat="48.8238202" lon="2.3417124"/>
+    <nd ref="921165565" lat="48.8238205" lon="2.3417017"/>
+    <nd ref="921158608" lat="48.8239624" lon="2.3417136"/>
+    <nd ref="921163637" lat="48.8239671" lon="2.3416178"/>
+    <nd ref="921156768" lat="48.8239693" lon="2.3415781"/>
+    <nd ref="1940554751" lat="48.8239265" lon="2.3415746"/>
+    <nd ref="1940554752" lat="48.8238161" lon="2.3415657"/>
+    <nd ref="921168443" lat="48.8237897" lon="2.3415636"/>
+    <nd ref="921155519" lat="48.8237818" lon="2.3417120"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housename" v="A"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:postcode" v="75013"/>
+    <tag k="addr:street" v="Rue de l'Amiral Mouchez"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="7"/>
+    <tag k="roof:shape" v="flat"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="78493922">
+    <bounds minlat="48.8241948" minlon="2.3423912" maxlat="48.8244911" maxlon="2.3428502"/>
+    <nd ref="921162162" lat="48.8242020" lon="2.3426685"/>
+    <nd ref="921158394" lat="48.8241948" lon="2.3428410"/>
+    <nd ref="921159063" lat="48.8242792" lon="2.3428467"/>
+    <nd ref="921159041" lat="48.8242794" lon="2.3426517"/>
+    <nd ref="921158860" lat="48.8243570" lon="2.3426565"/>
+    <nd ref="921166804" lat="48.8243565" lon="2.3428462"/>
+    <nd ref="921161128" lat="48.8244517" lon="2.3428502"/>
+    <nd ref="921164033" lat="48.8244525" lon="2.3426273"/>
+    <nd ref="921157657" lat="48.8244911" lon="2.3426265"/>
+    <nd ref="921168192" lat="48.8244903" lon="2.3425183"/>
+    <nd ref="921160101" lat="48.8244580" lon="2.3425183"/>
+    <nd ref="921154203" lat="48.8244569" lon="2.3423949"/>
+    <nd ref="921155297" lat="48.8243875" lon="2.3423912"/>
+    <nd ref="921165077" lat="48.8243858" lon="2.3424409"/>
+    <nd ref="921159474" lat="48.8242121" lon="2.3424286"/>
+    <nd ref="921157557" lat="48.8242086" lon="2.3425093"/>
+    <nd ref="921162162" lat="48.8242020" lon="2.3426685"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:postcode" v="75013"/>
+    <tag k="addr:street" v="Rue Brillat-Savarin"/>
+    <tag k="building" v="kindergarten"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="École Maternelle Brillat-Savarin"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="flat"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="78494089">
+    <bounds minlat="48.8237613" minlon="2.3419937" maxlat="48.8239473" maxlon="2.3421596"/>
+    <nd ref="921156753" lat="48.8237613" lon="2.3421561"/>
+    <nd ref="921155269" lat="48.8237919" lon="2.3421596"/>
+    <nd ref="921168665" lat="48.8237923" lon="2.3421527"/>
+    <nd ref="921154985" lat="48.8237969" lon="2.3421527"/>
+    <nd ref="921162779" lat="48.8237969" lon="2.3421431"/>
+    <nd ref="921162711" lat="48.8239410" lon="2.3421539"/>
+    <nd ref="921158343" lat="48.8239439" lon="2.3420944"/>
+    <nd ref="921168042" lat="48.8239473" lon="2.3420242"/>
+    <nd ref="921160957" lat="48.8237981" lon="2.3420114"/>
+    <nd ref="921158620" lat="48.8237988" lon="2.3419960"/>
+    <nd ref="921165388" lat="48.8237688" lon="2.3419937"/>
+    <nd ref="921156753" lat="48.8237613" lon="2.3421561"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housename" v="C"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:postcode" v="75013"/>
+    <tag k="addr:street" v="Rue de l'Amiral Mouchez"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="7"/>
+    <tag k="roof:shape" v="flat"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="939257968">
+    <bounds minlat="48.8275628" minlon="2.3475227" maxlat="48.8277204" maxlon="2.3477255"/>
+    <nd ref="920922059" lat="48.8277204" lon="2.3475900"/>
+    <nd ref="920917408" lat="48.8276775" lon="2.3477255"/>
+    <nd ref="8700801283" lat="48.8275628" lon="2.3476390"/>
+    <nd ref="8700801284" lat="48.8275830" lon="2.3475761"/>
+    <nd ref="8700801285" lat="48.8276078" lon="2.3475942"/>
+    <nd ref="8700801286" lat="48.8276307" lon="2.3475227"/>
+    <nd ref="920921258" lat="48.8276341" lon="2.3475252"/>
+    <nd ref="920924188" lat="48.8276478" lon="2.3475355"/>
+    <nd ref="920922059" lat="48.8277204" lon="2.3475900"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:postcode" v="75013"/>
+    <tag k="addr:street" v="Rue de la Butte aux Cailles"/>
+    <tag k="building" v="apartments"/>
+  </way>
+  <way id="939257969">
+    <bounds minlat="48.8273589" minlon="2.3476864" maxlat="48.8275171" maxlon="2.3478721"/>
+    <nd ref="8700801287" lat="48.8275171" lon="2.3477664"/>
+    <nd ref="8700801288" lat="48.8274931" lon="2.3478457"/>
+    <nd ref="8700801289" lat="48.8274208" lon="2.3477923"/>
+    <nd ref="8700801290" lat="48.8273973" lon="2.3478671"/>
+    <nd ref="8700801291" lat="48.8273991" lon="2.3478683"/>
+    <nd ref="8700801292" lat="48.8273975" lon="2.3478721"/>
+    <nd ref="920924393" lat="48.8273599" lon="2.3478450"/>
+    <nd ref="8700801293" lat="48.8273589" lon="2.3478443"/>
+    <nd ref="8700801294" lat="48.8274098" lon="2.3476864"/>
+    <nd ref="8700801287" lat="48.8275171" lon="2.3477664"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="75013"/>
+    <tag k="addr:street" v="Rue de la Butte aux Cailles"/>
+    <tag k="building" v="apartments"/>
+  </way>
+  <way id="79686967">
+    <bounds minlat="48.8345455" minlon="2.3195238" maxlat="48.8347021" maxlon="2.3197771"/>
+    <nd ref="929968382" lat="48.8346466" lon="2.3197771"/>
+    <nd ref="929949032" lat="48.8347021" lon="2.3196699"/>
+    <nd ref="2996097794" lat="48.8346631" lon="2.3195964"/>
+    <nd ref="929965810" lat="48.8346246" lon="2.3195238"/>
+    <nd ref="929959958" lat="48.8345455" lon="2.3196761"/>
+    <nd ref="929958033" lat="48.8345557" lon="2.3196881"/>
+    <nd ref="929958064" lat="48.8345625" lon="2.3196753"/>
+    <nd ref="929962704" lat="48.8346068" lon="2.3197291"/>
+    <nd ref="929968382" lat="48.8346466" lon="2.3197771"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Rue Raymond Losserand"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="6"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="79686972">
+    <bounds minlat="48.8343997" minlon="2.3184449" maxlat="48.8345782" maxlon="2.3187140"/>
+    <nd ref="929963276" lat="48.8345782" lon="2.3185772"/>
+    <nd ref="929959222" lat="48.8345350" lon="2.3184995"/>
+    <nd ref="929949084" lat="48.8345047" lon="2.3184449"/>
+    <nd ref="929968778" lat="48.8344669" lon="2.3184906"/>
+    <nd ref="929964713" lat="48.8344760" lon="2.3185066"/>
+    <nd ref="929957821" lat="48.8344862" lon="2.3185047"/>
+    <nd ref="929945875" lat="48.8344924" lon="2.3185162"/>
+    <nd ref="929951628" lat="48.8344652" lon="2.3185519"/>
+    <nd ref="929951813" lat="48.8344519" lon="2.3185289"/>
+    <nd ref="929955216" lat="48.8344358" lon="2.3185517"/>
+    <nd ref="929965873" lat="48.8344482" lon="2.3185744"/>
+    <nd ref="929956656" lat="48.8344306" lon="2.3185978"/>
+    <nd ref="929956009" lat="48.8344109" lon="2.3185601"/>
+    <nd ref="929957839" lat="48.8343997" lon="2.3185739"/>
+    <nd ref="929951563" lat="48.8344718" lon="2.3187140"/>
+    <nd ref="2996093182" lat="48.8345260" lon="2.3186444"/>
+    <nd ref="929963276" lat="48.8345782" lon="2.3185772"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Rue Niepce"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="5"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="79688081">
+    <bounds minlat="48.8344500" minlon="2.3182871" maxlat="48.8346671" maxlon="2.3185772"/>
+    <nd ref="929966456" lat="48.8346148" lon="2.3183734"/>
+    <nd ref="929946804" lat="48.8345763" lon="2.3184234"/>
+    <nd ref="929966733" lat="48.8344965" lon="2.3182871"/>
+    <nd ref="929952137" lat="48.8344500" lon="2.3183465"/>
+    <nd ref="929947541" lat="48.8344913" lon="2.3184205"/>
+    <nd ref="929965596" lat="48.8345066" lon="2.3183998"/>
+    <nd ref="929946273" lat="48.8345494" lon="2.3184773"/>
+    <nd ref="929959222" lat="48.8345350" lon="2.3184995"/>
+    <nd ref="929963276" lat="48.8345782" lon="2.3185772"/>
+    <nd ref="2996092644" lat="48.8346264" lon="2.3185151"/>
+    <nd ref="929951428" lat="48.8346671" lon="2.3184627"/>
+    <nd ref="929966456" lat="48.8346148" lon="2.3183734"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Rue Niepce"/>
+    <tag k="building" v="apartments"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="79688361">
+    <bounds minlat="48.8345233" minlon="2.3186233" maxlat="48.8349238" maxlon="2.3191234"/>
+    <nd ref="929948306" lat="48.8348827" lon="2.3189184"/>
+    <nd ref="8235552413" lat="48.8348234" lon="2.3188087"/>
+    <nd ref="8235552415" lat="48.8348105" lon="2.3187850"/>
+    <nd ref="929956259" lat="48.8347231" lon="2.3186233"/>
+    <nd ref="2996092771" lat="48.8347144" lon="2.3186345"/>
+    <nd ref="2996093486" lat="48.8346276" lon="2.3187461"/>
+    <nd ref="2996093688" lat="48.8345544" lon="2.3188402"/>
+    <nd ref="929967392" lat="48.8345233" lon="2.3188802"/>
+    <nd ref="929965955" lat="48.8346098" lon="2.3190375"/>
+    <nd ref="929946660" lat="48.8347071" lon="2.3189133"/>
+    <nd ref="929956931" lat="48.8347638" lon="2.3190143"/>
+    <nd ref="929962597" lat="48.8348248" lon="2.3191234"/>
+    <nd ref="929966632" lat="48.8349238" lon="2.3189942"/>
+    <nd ref="929948306" lat="48.8348827" lon="2.3189184"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Rue Niepce"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="7"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="15784059">
+    <bounds minlat="48.8316575" minlon="2.3258703" maxlat="48.8320253" maxlon="2.3264948"/>
+    <nd ref="158270524" lat="48.8320253" lon="2.3259946"/>
+    <nd ref="9040840913" lat="48.8320172" lon="2.3260257"/>
+    <nd ref="9346380997" lat="48.8319034" lon="2.3264623"/>
+    <nd ref="158270526" lat="48.8318949" lon="2.3264948"/>
+    <nd ref="9031997748" lat="48.8317157" lon="2.3263863"/>
+    <nd ref="641335434" lat="48.8316575" lon="2.3263510"/>
+    <nd ref="641335435" lat="48.8317829" lon="2.3258703"/>
+    <nd ref="8629626090" lat="48.8318404" lon="2.3259050"/>
+    <nd ref="9040840916" lat="48.8319631" lon="2.3259791"/>
+    <nd ref="9040840915" lat="48.8319671" lon="2.3259607"/>
+    <nd ref="158270524" lat="48.8320253" lon="2.3259946"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="75014"/>
+    <tag k="addr:street" v="Rue Saillard"/>
+    <tag k="building" v="public"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="covered" v="yes"/>
+    <tag k="leisure" v="sports_centre"/>
+    <tag k="name" v="Piscine Aspirant Dunand"/>
+    <tag k="roof:levels" v="flat"/>
+    <tag k="sport" v="swimming"/>
+    <tag k="website" v="https://www.paris.fr/equipements/piscine-aspirant-dunand-2931"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="79688840">
+    <bounds minlat="48.8316790" minlon="2.3202831" maxlat="48.8320137" maxlon="2.3206907"/>
+    <nd ref="929950148" lat="48.8319889" lon="2.3204763"/>
+    <nd ref="929945728" lat="48.8320137" lon="2.3204153"/>
+    <nd ref="10010137605" lat="48.8318422" lon="2.3202987"/>
+    <nd ref="929957381" lat="48.8318193" lon="2.3202831"/>
+    <nd ref="10010137574" lat="48.8317785" lon="2.3203001"/>
+    <nd ref="10010137606" lat="48.8317502" lon="2.3203120"/>
+    <nd ref="929967408" lat="48.8316790" lon="2.3204736"/>
+    <nd ref="929947417" lat="48.8318952" lon="2.3206907"/>
+    <nd ref="929946317" lat="48.8319170" lon="2.3206422"/>
+    <nd ref="929956663" lat="48.8319260" lon="2.3206209"/>
+    <nd ref="929957504" lat="48.8319455" lon="2.3205753"/>
+    <nd ref="929949352" lat="48.8319786" lon="2.3204996"/>
+    <nd ref="929950148" lat="48.8319889" lon="2.3204763"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:postcode" v="75014"/>
+    <tag k="addr:street" v="Rue Didot"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="9"/>
+    <tag k="name" v="CLJT Didot"/>
+    <tag k="phone" v="+33 1 45 43 21 56"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="website" v="http://www.cljt.com/foyer-CLJT-Didot"/>
+  </way>
+  <way id="79628901">
+    <bounds minlat="48.8295507" minlon="2.3323354" maxlat="48.8296975" maxlon="2.3324749"/>
+    <nd ref="929204848" lat="48.8296975" lon="2.3324669"/>
+    <nd ref="2996092410" lat="48.8296927" lon="2.3323354"/>
+    <nd ref="929201761" lat="48.8296692" lon="2.3323372"/>
+    <nd ref="929196547" lat="48.8295507" lon="2.3323463"/>
+    <nd ref="929201763" lat="48.8295548" lon="2.3324749"/>
+    <nd ref="929204848" lat="48.8296975" lon="2.3324669"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Rue Rémy Dumoncel"/>
+    <tag k="building" v="public"/>
+    <tag k="email" v="mdee14.ddee@paris.fr"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="internet_access:operator" v="Mairie de Paris"/>
+    <tag k="name" v="Maison des entreprises et de l'emploi"/>
+    <tag k="opening_hours" v="Mo-Th 9:30-17:30; Fr 13:30-17:30"/>
+    <tag k="phone" v="+33 1 56 54 29 60"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2014"/>
+    <tag k="source:internet_access" v="Paris Open Data"/>
+  </way>
+  <way id="79629270">
+    <bounds minlat="48.8297564" minlon="2.3305930" maxlat="48.8298134" maxlon="2.3307209"/>
+    <nd ref="929205274" lat="48.8297884" lon="2.3305930"/>
+    <nd ref="929206246" lat="48.8297627" lon="2.3305976"/>
+    <nd ref="929194162" lat="48.8297564" lon="2.3307209"/>
+    <nd ref="929194478" lat="48.8297644" lon="2.3307199"/>
+    <nd ref="929196899" lat="48.8298087" lon="2.3307136"/>
+    <nd ref="929193176" lat="48.8298134" lon="2.3306224"/>
+    <nd ref="929204476" lat="48.8297879" lon="2.3306256"/>
+    <nd ref="929205274" lat="48.8297884" lon="2.3305930"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="Rue Rémy Dumoncel"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="79633603">
+    <bounds minlat="48.8338255" minlon="2.3286678" maxlat="48.8339341" maxlon="2.3288455"/>
+    <nd ref="929241950" lat="48.8339341" lon="2.3287199"/>
+    <nd ref="929241287" lat="48.8338710" lon="2.3286678"/>
+    <nd ref="8653508613" lat="48.8338609" lon="2.3286976"/>
+    <nd ref="929241620" lat="48.8338255" lon="2.3287951"/>
+    <nd ref="2996094197" lat="48.8338445" lon="2.3288103"/>
+    <nd ref="929242203" lat="48.8338885" lon="2.3288455"/>
+    <nd ref="929241950" lat="48.8339341" lon="2.3287199"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="75014"/>
+    <tag k="addr:street" v="Rue Boulard"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="7"/>
+    <tag k="contact:fax" v="+33 1 43 21 08 21"/>
+    <tag k="contact:phone" v="+33 1 43 21 08 20"/>
+    <tag k="email" v="contact@solarhotel.fr"/>
+    <tag k="name" v="Solar Hôtel"/>
+    <tag k="organic" v="only"/>
+    <tag k="roof:levels" v="1"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="http://www.solarhotel.fr/"/>
+  </way>
+  <way id="79633680">
+    <bounds minlat="48.8309166" minlon="2.3281532" maxlat="48.8310431" maxlon="2.3283652"/>
+    <nd ref="929239654" lat="48.8310431" lon="2.3282245"/>
+    <nd ref="9041902681" lat="48.8309696" lon="2.3281811"/>
+    <nd ref="929243120" lat="48.8309223" lon="2.3281532"/>
+    <nd ref="929237781" lat="48.8309188" lon="2.3281663"/>
+    <nd ref="929244876" lat="48.8309491" lon="2.3281838"/>
+    <nd ref="929239584" lat="48.8309166" lon="2.3283072"/>
+    <nd ref="929239570" lat="48.8310064" lon="2.3283652"/>
+    <nd ref="929239654" lat="48.8310431" lon="2.3282245"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="75014"/>
+    <tag k="addr:street" v="Rue Brézin"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="6"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="79634323">
+    <bounds minlat="48.8308597" minlon="2.3283072" maxlat="48.8310064" maxlon="2.3285800"/>
+    <nd ref="929239570" lat="48.8310064" lon="2.3283652"/>
+    <nd ref="929239584" lat="48.8309166" lon="2.3283072"/>
+    <nd ref="929244174" lat="48.8308597" lon="2.3285245"/>
+    <nd ref="929240402" lat="48.8309503" lon="2.3285800"/>
+    <nd ref="2996098391" lat="48.8309823" lon="2.3284574"/>
+    <nd ref="929239570" lat="48.8310064" lon="2.3283652"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="75014"/>
+    <tag k="addr:street" v="Rue Brézin"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="6"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="79621617">
+    <bounds minlat="48.8406347" minlon="2.3218396" maxlat="48.8407894" maxlon="2.3220753"/>
+    <nd ref="929140415" lat="48.8407894" lon="2.3220479"/>
+    <nd ref="929142907" lat="48.8407727" lon="2.3218396"/>
+    <nd ref="3287409495" lat="48.8407021" lon="2.3218686"/>
+    <nd ref="929145449" lat="48.8406496" lon="2.3218902"/>
+    <nd ref="929142792" lat="48.8406347" lon="2.3219242"/>
+    <nd ref="929144463" lat="48.8406420" lon="2.3220314"/>
+    <nd ref="929144378" lat="48.8406812" lon="2.3220161"/>
+    <nd ref="929145364" lat="48.8407075" lon="2.3220071"/>
+    <nd ref="929138973" lat="48.8407133" lon="2.3220753"/>
+    <nd ref="929140415" lat="48.8407894" lon="2.3220479"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Avenue du Maine"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="5"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="79633906">
+    <bounds minlat="48.8350940" minlon="2.3265109" maxlat="48.8352993" maxlon="2.3267876"/>
+    <nd ref="929243312" lat="48.8352637" lon="2.3266972"/>
+    <nd ref="929242921" lat="48.8352993" lon="2.3266047"/>
+    <nd ref="1368160850" lat="48.8352565" lon="2.3265693"/>
+    <nd ref="929236800" lat="48.8351854" lon="2.3265109"/>
+    <nd ref="9191757180" lat="48.8351716" lon="2.3265169"/>
+    <nd ref="929238206" lat="48.8351581" lon="2.3265228"/>
+    <nd ref="1368166991" lat="48.8351326" lon="2.3265911"/>
+    <nd ref="929237580" lat="48.8350940" lon="2.3266943"/>
+    <nd ref="929245721" lat="48.8351614" lon="2.3267408"/>
+    <nd ref="929238692" lat="48.8351783" lon="2.3267528"/>
+    <nd ref="929244590" lat="48.8351990" lon="2.3266926"/>
+    <nd ref="929243445" lat="48.8352087" lon="2.3266997"/>
+    <nd ref="929243827" lat="48.8351937" lon="2.3267471"/>
+    <nd ref="929240994" lat="48.8351855" lon="2.3267437"/>
+    <nd ref="929239446" lat="48.8351816" lon="2.3267550"/>
+    <nd ref="929244994" lat="48.8352293" lon="2.3267876"/>
+    <nd ref="929236728" lat="48.8352503" lon="2.3267321"/>
+    <nd ref="929243312" lat="48.8352637" lon="2.3266972"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="75014"/>
+    <tag k="addr:street" v="Rue Roger"/>
+    <tag k="building" v="hotel"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="name" v="Hôtel Telemaque"/>
+    <tag k="phone" v="+33 1 43 22 60 68"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="tourism" v="hotel"/>
+  </way>
+  <way id="79633987">
+    <bounds minlat="48.8339381" minlon="2.3313942" maxlat="48.8342505" maxlon="2.3320168"/>
+    <nd ref="929236799" lat="48.8339381" lon="2.3318569"/>
+    <nd ref="1363626825" lat="48.8340197" lon="2.3319282"/>
+    <nd ref="929242254" lat="48.8340816" lon="2.3319811"/>
+    <nd ref="929243462" lat="48.8340850" lon="2.3319715"/>
+    <nd ref="929242827" lat="48.8341373" lon="2.3320168"/>
+    <nd ref="1513074164" lat="48.8341413" lon="2.3320063"/>
+    <nd ref="929245564" lat="48.8341636" lon="2.3319473"/>
+    <nd ref="282085277" lat="48.8342134" lon="2.3318135"/>
+    <nd ref="929245673" lat="48.8342220" lon="2.3316770"/>
+    <nd ref="929241148" lat="48.8342505" lon="2.3315667"/>
+    <nd ref="929240867" lat="48.8340433" lon="2.3313942"/>
+    <nd ref="929237293" lat="48.8339495" lon="2.3316425"/>
+    <nd ref="929239840" lat="48.8339746" lon="2.3316641"/>
+    <nd ref="929242067" lat="48.8340267" lon="2.3315240"/>
+    <nd ref="929237367" lat="48.8340557" lon="2.3315493"/>
+    <nd ref="929244373" lat="48.8340141" lon="2.3316586"/>
+    <nd ref="929239681" lat="48.8340184" lon="2.3316626"/>
+    <nd ref="929238348" lat="48.8340121" lon="2.3316792"/>
+    <nd ref="929242380" lat="48.8340620" lon="2.3317228"/>
+    <nd ref="929236684" lat="48.8340480" lon="2.3317591"/>
+    <nd ref="929240743" lat="48.8339939" lon="2.3317116"/>
+    <nd ref="3951576687" lat="48.8339789" lon="2.3317508"/>
+    <nd ref="929242825" lat="48.8339417" lon="2.3318476"/>
+    <nd ref="929236799" lat="48.8339381" lon="2.3318569"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="75014"/>
+    <tag k="addr:street" v="Avenue du Colonel Henri Rol Tanguy"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="fee" v="no"/>
+    <tag k="name" v="Musée de la Libération de Paris"/>
+    <tag k="old_name" v="Musée du Général Leclerc de Hauteclocque et de la Libération de Paris - musée Jean-Moulin"/>
+    <tag k="opening_hours" v="PH,Tu-Su 10:00-18:00"/>
+    <tag k="operator" v="Paris Musées"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="phone" v="+33 1 40 64 39 44"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="http://www.museeliberation-leclerc-moulin.paris.fr"/>
+    <tag k="wikipedia" v="fr:Musée de la Libération de Paris – musée du général-Leclerc – musée Jean-Moulin"/>
+  </way>
+  <way id="79622003">
+    <bounds minlat="48.8402561" minlon="2.3219983" maxlat="48.8403135" maxlon="2.3220484"/>
+    <nd ref="929143008" lat="48.8403135" lon="2.3220269"/>
+    <nd ref="929141633" lat="48.8403081" lon="2.3219983"/>
+    <nd ref="929145063" lat="48.8402561" lon="2.3220193"/>
+    <nd ref="929145489" lat="48.8402613" lon="2.3220484"/>
+    <nd ref="929143008" lat="48.8403135" lon="2.3220269"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="Avenue du Maine"/>
+    <tag k="building" v="roof"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="layer" v="1"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="79687487">
+    <bounds minlat="48.8353380" minlon="2.3210200" maxlat="48.8355160" maxlon="2.3213192"/>
+    <nd ref="929963079" lat="48.8354463" lon="2.3210200"/>
+    <nd ref="10278997529" lat="48.8354212" lon="2.3210625"/>
+    <nd ref="929964304" lat="48.8353919" lon="2.3211119"/>
+    <nd ref="929953597" lat="48.8354254" lon="2.3211701"/>
+    <nd ref="929955963" lat="48.8354221" lon="2.3211748"/>
+    <nd ref="929955819" lat="48.8354167" lon="2.3211705"/>
+    <nd ref="929962339" lat="48.8354126" lon="2.3211712"/>
+    <nd ref="929958896" lat="48.8354090" lon="2.3211738"/>
+    <nd ref="929957874" lat="48.8354068" lon="2.3211779"/>
+    <nd ref="929957973" lat="48.8354056" lon="2.3211837"/>
+    <nd ref="929964920" lat="48.8354061" lon="2.3211898"/>
+    <nd ref="929947411" lat="48.8354077" lon="2.3211941"/>
+    <nd ref="929954827" lat="48.8354043" lon="2.3211988"/>
+    <nd ref="929953515" lat="48.8353709" lon="2.3211477"/>
+    <nd ref="929953957" lat="48.8353421" lon="2.3211961"/>
+    <nd ref="929951925" lat="48.8353380" lon="2.3212031"/>
+    <nd ref="929959259" lat="48.8354200" lon="2.3213192"/>
+    <nd ref="2996093768" lat="48.8354810" lon="2.3212206"/>
+    <nd ref="929954671" lat="48.8355160" lon="2.3211640"/>
+    <nd ref="2996095174" lat="48.8355160" lon="2.3211509"/>
+    <nd ref="929954094" lat="48.8355160" lon="2.3211383"/>
+    <nd ref="929963079" lat="48.8354463" lon="2.3210200"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="Rue Raymond Losserand"/>
+    <tag k="brand" v="Best Western"/>
+    <tag k="brand:wikidata" v="Q830334"/>
+    <tag k="brand:wikipedia" v="fr:Best Western"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="disused:tourism" v="hotel"/>
+    <tag k="roof:levels" v="2"/>
+    <tag k="website" v="https://bretagne-montparnasse.com"/>
+  </way>
+  <way id="1061873078">
+    <bounds minlat="48.8346480" minlon="2.3200065" maxlat="48.8349426" maxlon="2.3205507"/>
+    <nd ref="929965382" lat="48.8348811" lon="2.3200065"/>
+    <nd ref="2996097017" lat="48.8349211" lon="2.3200815"/>
+    <nd ref="929946653" lat="48.8349426" lon="2.3201277"/>
+    <nd ref="929957621" lat="48.8349069" lon="2.3202014"/>
+    <nd ref="8185488312" lat="48.8348697" lon="2.3202784"/>
+    <nd ref="929963394" lat="48.8348423" lon="2.3203367"/>
+    <nd ref="929953176" lat="48.8348194" lon="2.3203845"/>
+    <nd ref="929956994" lat="48.8347964" lon="2.3204325"/>
+    <nd ref="929964860" lat="48.8347662" lon="2.3204957"/>
+    <nd ref="929947265" lat="48.8347397" lon="2.3205507"/>
+    <nd ref="929963348" lat="48.8346480" lon="2.3204310"/>
+    <nd ref="929947218" lat="48.8346742" lon="2.3203827"/>
+    <nd ref="929969291" lat="48.8346980" lon="2.3203392"/>
+    <nd ref="929960915" lat="48.8347426" lon="2.3202597"/>
+    <nd ref="929967575" lat="48.8348142" lon="2.3201297"/>
+    <nd ref="929958170" lat="48.8348389" lon="2.3200851"/>
+    <nd ref="929957011" lat="48.8348513" lon="2.3200624"/>
+    <nd ref="929965382" lat="48.8348811" lon="2.3200065"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="Rue Raymond Losserand"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="5"/>
+    <tag k="fixme" v="chantier tout juste fini (mai22), attendre cadastre pour enveloppe"/>
+    <tag k="roof:levels" v="1"/>
+  </way>
+  <way id="1106488987">
+    <bounds minlat="48.8404392" minlon="2.3243864" maxlat="48.8405233" maxlon="2.3246109"/>
+    <nd ref="10125286100" lat="48.8404671" lon="2.3246109"/>
+    <nd ref="929142609" lat="48.8405233" lon="2.3244043"/>
+    <nd ref="929144255" lat="48.8405200" lon="2.3243864"/>
+    <nd ref="929147007" lat="48.8404392" lon="2.3245873"/>
+    <nd ref="10125286100" lat="48.8404671" lon="2.3246109"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Impasse de la Gaîté"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="79616736">
+    <bounds minlat="48.8371293" minlon="2.3317537" maxlat="48.8375086" maxlon="2.3321100"/>
+    <nd ref="929099140" lat="48.8374715" lon="2.3317537"/>
+    <nd ref="6644790058" lat="48.8372761" lon="2.3318274"/>
+    <nd ref="6644831765" lat="48.8372650" lon="2.3318315"/>
+    <nd ref="929096547" lat="48.8371293" lon="2.3318826"/>
+    <nd ref="929097937" lat="48.8371649" lon="2.3321100"/>
+    <nd ref="929096056" lat="48.8375086" lon="2.3319805"/>
+    <nd ref="929099140" lat="48.8374715" lon="2.3317537"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="261"/>
+    <tag k="addr:postcode" v="75014"/>
+    <tag k="addr:street" v="Boulevard Raspail"/>
+    <tag k="building" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="museum" v="art"/>
+    <tag k="museum_type" v="private"/>
+    <tag k="name" v="Fondation Cartier pour l'art contemporain"/>
+    <tag k="opening_hours" v="Tu 11:00-22:00; We-Su 11:00-20:00"/>
+    <tag k="phone" v="+33 1 42 18 56 50"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:access" v="customers"/>
+    <tag k="toilets:wheelchair" v="designated"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="https://www.fondationcartier.com/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q1284688"/>
+    <tag k="wikipedia" v="fr:Fondation Cartier pour l'art contemporain"/>
+  </way>
+  <way id="65756630">
+    <bounds minlat="48.8461189" minlon="2.3198998" maxlat="48.8465251" maxlon="2.3205127"/>
+    <nd ref="801198647" lat="48.8461189" lon="2.3200011"/>
+    <nd ref="801264365" lat="48.8461738" lon="2.3200915"/>
+    <nd ref="801263262" lat="48.8462818" lon="2.3202694"/>
+    <nd ref="801199891" lat="48.8464327" lon="2.3205127"/>
+    <nd ref="801194886" lat="48.8465251" lon="2.3203839"/>
+    <nd ref="801197525" lat="48.8464352" lon="2.3202198"/>
+    <nd ref="801200226" lat="48.8464830" lon="2.3201716"/>
+    <nd ref="801199143" lat="48.8464790" lon="2.3201599"/>
+    <nd ref="801195481" lat="48.8464996" lon="2.3201452"/>
+    <nd ref="801194702" lat="48.8464511" lon="2.3200419"/>
+    <nd ref="801196526" lat="48.8464344" lon="2.3200585"/>
+    <nd ref="801195762" lat="48.8464240" lon="2.3200352"/>
+    <nd ref="801197958" lat="48.8463467" lon="2.3201084"/>
+    <nd ref="801196885" lat="48.8463137" lon="2.3200564"/>
+    <nd ref="801199647" lat="48.8463193" lon="2.3200471"/>
+    <nd ref="801198387" lat="48.8462608" lon="2.3199555"/>
+    <nd ref="801195030" lat="48.8462503" lon="2.3199649"/>
+    <nd ref="801200038" lat="48.8462209" lon="2.3198998"/>
+    <nd ref="801198647" lat="48.8461189" lon="2.3200011"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="116"/>
+    <tag k="addr:postcode" v="75006"/>
+    <tag k="addr:street" v="Rue du Cherche-Midi"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="7"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010;local knowledge"/>
+  </way>
+  <way id="68571177">
+    <bounds minlat="48.8517249" minlon="2.3194617" maxlat="48.8518586" maxlon="2.3195703"/>
+    <nd ref="824441122" lat="48.8518450" lon="2.3194778"/>
+    <nd ref="824440893" lat="48.8517249" lon="2.3194617"/>
+    <nd ref="824441790" lat="48.8517249" lon="2.3195564"/>
+    <nd ref="824440688" lat="48.8518501" lon="2.3195703"/>
+    <nd ref="824440904" lat="48.8518586" lon="2.3194793"/>
+    <nd ref="824441122" lat="48.8518450" lon="2.3194778"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="Rue de Babylone"/>
+    <tag k="building" v="civic"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="64306093">
+    <bounds minlat="48.8461966" minlon="2.3245701" maxlat="48.8464190" maxlon="2.3249875"/>
+    <nd ref="791780178" lat="48.8462102" lon="2.3247764"/>
+    <nd ref="791780294" lat="48.8462092" lon="2.3248163"/>
+    <nd ref="791780674" lat="48.8462216" lon="2.3248167"/>
+    <nd ref="791780196" lat="48.8462331" lon="2.3248550"/>
+    <nd ref="791780590" lat="48.8462291" lon="2.3249416"/>
+    <nd ref="791780880" lat="48.8462817" lon="2.3249518"/>
+    <nd ref="791780723" lat="48.8463214" lon="2.3249586"/>
+    <nd ref="791780478" lat="48.8463698" lon="2.3249677"/>
+    <nd ref="791780801" lat="48.8463799" lon="2.3249625"/>
+    <nd ref="791780237" lat="48.8463883" lon="2.3249875"/>
+    <nd ref="791780634" lat="48.8464190" lon="2.3249620"/>
+    <nd ref="804245526" lat="48.8463646" lon="2.3247737"/>
+    <nd ref="791780795" lat="48.8463058" lon="2.3245701"/>
+    <nd ref="791779970" lat="48.8462714" lon="2.3245947"/>
+    <nd ref="791780451" lat="48.8462877" lon="2.3246526"/>
+    <nd ref="791780039" lat="48.8462571" lon="2.3246894"/>
+    <nd ref="791779953" lat="48.8462400" lon="2.3247065"/>
+    <nd ref="791779997" lat="48.8462222" lon="2.3247202"/>
+    <nd ref="791779828" lat="48.8461966" lon="2.3247320"/>
+    <nd ref="791780178" lat="48.8462102" lon="2.3247764"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="77"/>
+    <tag k="addr:postcode" v="75006"/>
+    <tag k="addr:street" v="Rue Blaise Desgoffe"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="6"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="64314845">
+    <bounds minlat="48.8466972" minlon="2.3230339" maxlat="48.8469703" maxlon="2.3234752"/>
+    <nd ref="791853501" lat="48.8469703" lon="2.3233371"/>
+    <nd ref="791851959" lat="48.8469175" lon="2.3232366"/>
+    <nd ref="791851493" lat="48.8469029" lon="2.3232072"/>
+    <nd ref="791851136" lat="48.8468731" lon="2.3231488"/>
+    <nd ref="791853525" lat="48.8468707" lon="2.3231441"/>
+    <nd ref="791852639" lat="48.8468412" lon="2.3231782"/>
+    <nd ref="791853032" lat="48.8468874" lon="2.3232674"/>
+    <nd ref="791851160" lat="48.8469026" lon="2.3232966"/>
+    <nd ref="791851591" lat="48.8468445" lon="2.3233559"/>
+    <nd ref="791852029" lat="48.8467906" lon="2.3232282"/>
+    <nd ref="791852239" lat="48.8467656" lon="2.3232003"/>
+    <nd ref="791851288" lat="48.8468536" lon="2.3231119"/>
+    <nd ref="791850895" lat="48.8468141" lon="2.3230339"/>
+    <nd ref="791853356" lat="48.8468041" lon="2.3230434"/>
+    <nd ref="791850935" lat="48.8467593" lon="2.3230879"/>
+    <nd ref="791852456" lat="48.8466972" lon="2.3231489"/>
+    <nd ref="791852876" lat="48.8467184" lon="2.3231988"/>
+    <nd ref="791852431" lat="48.8467480" lon="2.3232678"/>
+    <nd ref="791853066" lat="48.8468037" lon="2.3233975"/>
+    <nd ref="791853550" lat="48.8468176" lon="2.3234301"/>
+    <nd ref="791853321" lat="48.8468370" lon="2.3234752"/>
+    <nd ref="804221214" lat="48.8469169" lon="2.3233924"/>
+    <nd ref="791853501" lat="48.8469703" lon="2.3233371"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="75006"/>
+    <tag k="addr:street" v="Rue Jean Ferrandi"/>
+    <tag k="building" v="residential"/>
+    <tag k="name" v="Atelier Ferrandie"/>
+  </way>
+  <way id="79621183">
+    <bounds minlat="48.8427695" minlon="2.3244392" maxlat="48.8429972" maxlon="2.3249570"/>
+    <nd ref="929144888" lat="48.8429972" lon="2.3244392"/>
+    <nd ref="2986694425" lat="48.8428939" lon="2.3244679"/>
+    <nd ref="2986694424" lat="48.8428442" lon="2.3244817"/>
+    <nd ref="929144125" lat="48.8427817" lon="2.3244991"/>
+    <nd ref="929143601" lat="48.8427962" lon="2.3246395"/>
+    <nd ref="929143752" lat="48.8427979" lon="2.3246559"/>
+    <nd ref="929146188" lat="48.8429025" lon="2.3246276"/>
+    <nd ref="929142880" lat="48.8429015" lon="2.3246184"/>
+    <nd ref="929145147" lat="48.8429192" lon="2.3246141"/>
+    <nd ref="929141424" lat="48.8429219" lon="2.3246274"/>
+    <nd ref="929146257" lat="48.8429019" lon="2.3247439"/>
+    <nd ref="929140599" lat="48.8428022" lon="2.3247739"/>
+    <nd ref="929142388" lat="48.8428043" lon="2.3247912"/>
+    <nd ref="929138857" lat="48.8427695" lon="2.3248021"/>
+    <nd ref="929142517" lat="48.8427768" lon="2.3248601"/>
+    <nd ref="929139460" lat="48.8427992" lon="2.3248755"/>
+    <nd ref="929142995" lat="48.8427952" lon="2.3248920"/>
+    <nd ref="929140788" lat="48.8427973" lon="2.3248934"/>
+    <nd ref="929147015" lat="48.8428566" lon="2.3249349"/>
+    <nd ref="929143486" lat="48.8428578" lon="2.3249358"/>
+    <nd ref="929140869" lat="48.8428638" lon="2.3249139"/>
+    <nd ref="929140964" lat="48.8428735" lon="2.3249150"/>
+    <nd ref="929142091" lat="48.8428816" lon="2.3249122"/>
+    <nd ref="929143798" lat="48.8428900" lon="2.3249052"/>
+    <nd ref="929139174" lat="48.8428977" lon="2.3248938"/>
+    <nd ref="929143287" lat="48.8429011" lon="2.3248943"/>
+    <nd ref="929140491" lat="48.8429022" lon="2.3248900"/>
+    <nd ref="929142249" lat="48.8429108" lon="2.3248939"/>
+    <nd ref="929145791" lat="48.8428996" lon="2.3249522"/>
+    <nd ref="929146696" lat="48.8429091" lon="2.3249570"/>
+    <nd ref="929139038" lat="48.8429178" lon="2.3249054"/>
+    <nd ref="929144888" lat="48.8429972" lon="2.3244392"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="75014"/>
+    <tag k="addr:street" v="Rue d'Odessa"/>
+    <tag k="architect" v="G. Pasquier"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="5"/>
+    <tag k="name" v="Les Bains d'Odessa"/>
+    <tag k="name:fr" v="Les Bains d'Odessa"/>
+    <tag k="roof:levels" v="1"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="start_date" v="1895"/>
+  </way>
+  <way id="79621772">
+    <bounds minlat="48.8427780" minlon="2.3241240" maxlat="48.8428958" maxlon="2.3243264"/>
+    <nd ref="929142553" lat="48.8428958" lon="2.3243006"/>
+    <nd ref="929141526" lat="48.8428785" lon="2.3241614"/>
+    <nd ref="929140456" lat="48.8428316" lon="2.3241438"/>
+    <nd ref="929139274" lat="48.8428294" lon="2.3241716"/>
+    <nd ref="929143251" lat="48.8428070" lon="2.3241704"/>
+    <nd ref="929139246" lat="48.8428068" lon="2.3241346"/>
+    <nd ref="929146948" lat="48.8427780" lon="2.3241240"/>
+    <nd ref="929145730" lat="48.8427861" lon="2.3241895"/>
+    <nd ref="929141354" lat="48.8428031" lon="2.3243264"/>
+    <nd ref="2986694414" lat="48.8428516" lon="2.3243129"/>
+    <nd ref="929142553" lat="48.8428958" lon="2.3243006"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="75014"/>
+    <tag k="addr:street" v="Rue d'Odessa"/>
+    <tag k="building" v="hotel"/>
+    <tag k="building:levels" v="6"/>
+    <tag k="name" v="RELAIS MONCEY"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="50376087">
+    <bounds minlat="48.8451432" minlon="2.3277821" maxlat="48.8454597" maxlon="2.3281851"/>
+    <nd ref="640105919" lat="48.8453586" lon="2.3277821"/>
+    <nd ref="640105933" lat="48.8453629" lon="2.3277873"/>
+    <nd ref="640105921" lat="48.8454597" lon="2.3279063"/>
+    <nd ref="5266935880" lat="48.8454385" lon="2.3279452"/>
+    <nd ref="640105923" lat="48.8453244" lon="2.3281701"/>
+    <nd ref="805759043" lat="48.8453062" lon="2.3281771"/>
+    <nd ref="640105924" lat="48.8452805" lon="2.3281851"/>
+    <nd ref="805760267" lat="48.8452263" lon="2.3281404"/>
+    <nd ref="805759788" lat="48.8451653" lon="2.3280910"/>
+    <nd ref="640105873" lat="48.8451432" lon="2.3280639"/>
+    <nd ref="6797497790" lat="48.8451531" lon="2.3280333"/>
+    <nd ref="640105869" lat="48.8452016" lon="2.3279133"/>
+    <nd ref="640105926" lat="48.8452173" lon="2.3279260"/>
+    <nd ref="640105929" lat="48.8452807" lon="2.3279063"/>
+    <nd ref="640105931" lat="48.8452885" lon="2.3279180"/>
+    <nd ref="640105919" lat="48.8453586" lon="2.3277821"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="75006"/>
+    <tag k="addr:street" v="Rue Notre-Dame des Champs"/>
+    <tag k="amenity" v="university"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="6"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="ISEP"/>
+    <tag k="operator" v="ISEP"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="short_name" v="ISEP"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="website" v="http://isep.fr"/>
+    <tag k="wikidata" v="Q3152556"/>
+    <tag k="wikipedia" v="fr:Institut supérieur d'électronique de Paris"/>
+  </way>
+  <way id="63711036">
+    <bounds minlat="48.8462691" minlon="2.3285205" maxlat="48.8466212" maxlon="2.3293461"/>
+    <nd ref="787963676" lat="48.8465493" lon="2.3291830"/>
+    <nd ref="787965381" lat="48.8466132" lon="2.3291105"/>
+    <nd ref="787965847" lat="48.8466212" lon="2.3291014"/>
+    <nd ref="787965013" lat="48.8464921" lon="2.3287834"/>
+    <nd ref="787963901" lat="48.8463847" lon="2.3285205"/>
+    <nd ref="805759384" lat="48.8462906" lon="2.3285418"/>
+    <nd ref="787966051" lat="48.8462691" lon="2.3285537"/>
+    <nd ref="787965221" lat="48.8462856" lon="2.3286868"/>
+    <nd ref="787964208" lat="48.8464186" lon="2.3289521"/>
+    <nd ref="787965413" lat="48.8462935" lon="2.3290925"/>
+    <nd ref="787964097" lat="48.8462982" lon="2.3291029"/>
+    <nd ref="787963243" lat="48.8462898" lon="2.3291128"/>
+    <nd ref="787965196" lat="48.8463026" lon="2.3291396"/>
+    <nd ref="787964833" lat="48.8464012" lon="2.3293461"/>
+    <nd ref="787963676" lat="48.8465493" lon="2.3291830"/>
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:postcode" v="75270"/>
+    <tag k="addr:street" v="Boulevard Raspail"/>
+    <tag k="amenity" v="language_school"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Alliance française"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="wikidata" v="Q655810"/>
+  </way>
+  <way id="63711049">
+    <bounds minlat="48.8434361" minlon="2.3294891" maxlat="48.8438796" maxlon="2.3301317"/>
+    <nd ref="787964183" lat="48.8438256" lon="2.3295171"/>
+    <nd ref="787963263" lat="48.8438018" lon="2.3294891"/>
+    <nd ref="787965391" lat="48.8436839" lon="2.3296758"/>
+    <nd ref="787964430" lat="48.8435888" lon="2.3295420"/>
+    <nd ref="787963398" lat="48.8435642" lon="2.3295429"/>
+    <nd ref="787965649" lat="48.8435510" lon="2.3295663"/>
+    <nd ref="787965622" lat="48.8435397" lon="2.3295852"/>
+    <nd ref="787964667" lat="48.8435274" lon="2.3296039"/>
+    <nd ref="787963632" lat="48.8435111" lon="2.3295810"/>
+    <nd ref="787965811" lat="48.8434361" lon="2.3297037"/>
+    <nd ref="805759899" lat="48.8436702" lon="2.3300382"/>
+    <nd ref="787965006" lat="48.8437356" lon="2.3301317"/>
+    <nd ref="787963597" lat="48.8438371" lon="2.3299737"/>
+    <nd ref="787966048" lat="48.8438630" lon="2.3299324"/>
+    <nd ref="787965215" lat="48.8437834" lon="2.3298175"/>
+    <nd ref="787963843" lat="48.8437996" lon="2.3297892"/>
+    <nd ref="787965972" lat="48.8437991" lon="2.3297581"/>
+    <nd ref="787965173" lat="48.8438750" lon="2.3296363"/>
+    <nd ref="787964091" lat="48.8438738" lon="2.3296094"/>
+    <nd ref="787963235" lat="48.8438665" lon="2.3296008"/>
+    <nd ref="787965361" lat="48.8438796" lon="2.3295799"/>
+    <nd ref="787964183" lat="48.8438256" lon="2.3295171"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="75006"/>
+    <tag k="addr:street" v="Rue Vavin"/>
+    <tag k="architect" v="Sauvage;Sarazin"/>
+    <tag k="architect:wikipedia" v="fr:Henri Sauvage"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="9"/>
+    <tag k="heritage" v="3"/>
+    <tag k="heritage:operator" v="mhs"/>
+    <tag k="mhs:inscription_date" v="1975"/>
+    <tag k="name" v="Immeuble Henri Sauvage"/>
+    <tag k="ref:mhs" v="PA00088645"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="source:heritage" v="data.gouv.fr:Ministère de la Culture - 08/2011"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="wikidata" v="Q21088680"/>
+  </way>
+  <way id="64103945">
+    <bounds minlat="48.8421761" minlon="2.3320327" maxlat="48.8425982" maxlon="2.3327221"/>
+    <nd ref="790435764" lat="48.8424535" lon="2.3327221"/>
+    <nd ref="790434926" lat="48.8425982" lon="2.3325710"/>
+    <nd ref="790434173" lat="48.8424583" lon="2.3322719"/>
+    <nd ref="790433262" lat="48.8424291" lon="2.3323021"/>
+    <nd ref="790435358" lat="48.8423441" lon="2.3321186"/>
+    <nd ref="790434473" lat="48.8423710" lon="2.3320873"/>
+    <nd ref="790433450" lat="48.8423478" lon="2.3320327"/>
+    <nd ref="805875681" lat="48.8422735" lon="2.3320715"/>
+    <nd ref="790435146" lat="48.8421761" lon="2.3321225"/>
+    <nd ref="790433556" lat="48.8424096" lon="2.3326219"/>
+    <nd ref="790435618" lat="48.8424308" lon="2.3326673"/>
+    <nd ref="790435764" lat="48.8424535" lon="2.3327221"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:postcode" v="75006"/>
+    <tag k="addr:street" v="Rue Notre-Dame des Champs"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="description" v="Salles de réunions de la MAIF"/>
+    <tag k="name" v="Maif"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="64103955">
+    <bounds minlat="48.8424206" minlon="2.3319479" maxlat="48.8425941" maxlon="2.3322113"/>
+    <nd ref="790435661" lat="48.8425941" lon="2.3321318"/>
+    <nd ref="790433480" lat="48.8425104" lon="2.3319479"/>
+    <nd ref="805871285" lat="48.8424905" lon="2.3319583"/>
+    <nd ref="790432886" lat="48.8424206" lon="2.3319948"/>
+    <nd ref="790435107" lat="48.8425210" lon="2.3322113"/>
+    <nd ref="790435661" lat="48.8425941" lon="2.3321318"/>
+    <tag k="addr:housenumber" v="83 bis"/>
+    <tag k="addr:street" v="Rue Notre-Dame-des-Champs"/>
+    <tag k="building" v="university"/>
+    <tag k="building:levels" v="6"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="64113887">
+    <bounds minlat="48.8443475" minlon="2.3275922" maxlat="48.8446942" maxlon="2.3280067"/>
+    <nd ref="790499131" lat="48.8446942" lon="2.3278289"/>
+    <nd ref="805759418" lat="48.8446522" lon="2.3277938"/>
+    <nd ref="805759124" lat="48.8445291" lon="2.3276906"/>
+    <nd ref="805760327" lat="48.8444510" lon="2.3276253"/>
+    <nd ref="790499177" lat="48.8444115" lon="2.3275922"/>
+    <nd ref="790498349" lat="48.8443475" lon="2.3277737"/>
+    <nd ref="790498734" lat="48.8443684" lon="2.3277933"/>
+    <nd ref="790498968" lat="48.8443841" lon="2.3277515"/>
+    <nd ref="790498482" lat="48.8444359" lon="2.3277975"/>
+    <nd ref="790498843" lat="48.8445220" lon="2.3278734"/>
+    <nd ref="790499068" lat="48.8445765" lon="2.3279215"/>
+    <nd ref="790498740" lat="48.8445629" lon="2.3279607"/>
+    <nd ref="790498356" lat="48.8445858" lon="2.3279820"/>
+    <nd ref="790499182" lat="48.8445828" lon="2.3279908"/>
+    <nd ref="790498812" lat="48.8446008" lon="2.3280067"/>
+    <nd ref="790499131" lat="48.8446942" lon="2.3278289"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="75006"/>
+    <tag k="addr:street" v="Rue du Montparnasse"/>
+    <tag k="architect" v="Peigniet;Marnez"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="7"/>
+    <tag k="name" v="maison paris 6e"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="64103858">
+    <bounds minlat="48.8424535" minlon="2.3323387" maxlat="48.8435816" maxlon="2.3338317"/>
+    <nd ref="790434806" lat="48.8435816" lon="2.3333708"/>
+    <nd ref="790433672" lat="48.8434760" lon="2.3330955"/>
+    <nd ref="790435551" lat="48.8432880" lon="2.3333117"/>
+    <nd ref="790434718" lat="48.8430784" lon="2.3328418"/>
+    <nd ref="790433609" lat="48.8430859" lon="2.3328344"/>
+    <nd ref="790435798" lat="48.8430838" lon="2.3328312"/>
+    <nd ref="790434987" lat="48.8429837" lon="2.3326137"/>
+    <nd ref="790433893" lat="48.8429363" lon="2.3325105"/>
+    <nd ref="790433012" lat="48.8428587" lon="2.3323387"/>
+    <nd ref="790435178" lat="48.8427213" lon="2.3324803"/>
+    <nd ref="790435189" lat="48.8427030" lon="2.3324412"/>
+    <nd ref="790434186" lat="48.8426970" lon="2.3324344"/>
+    <nd ref="790433271" lat="48.8426853" lon="2.3324351"/>
+    <nd ref="790435377" lat="48.8426761" lon="2.3324444"/>
+    <nd ref="790434505" lat="48.8426756" lon="2.3324560"/>
+    <nd ref="790433470" lat="48.8426761" lon="2.3324691"/>
+    <nd ref="790435633" lat="48.8426823" lon="2.3324820"/>
+    <nd ref="790434926" lat="48.8425982" lon="2.3325710"/>
+    <nd ref="790435764" lat="48.8424535" lon="2.3327221"/>
+    <nd ref="790433920" lat="48.8424616" lon="2.3327391"/>
+    <nd ref="790434822" lat="48.8424635" lon="2.3327372"/>
+    <nd ref="790435020" lat="48.8426599" lon="2.3331576"/>
+    <nd ref="790433425" lat="48.8427701" lon="2.3333932"/>
+    <nd ref="790435569" lat="48.8427903" lon="2.3333714"/>
+    <nd ref="790434742" lat="48.8429269" lon="2.3332194"/>
+    <nd ref="790433627" lat="48.8429492" lon="2.3332592"/>
+    <nd ref="790435817" lat="48.8430073" lon="2.3333634"/>
+    <nd ref="790435002" lat="48.8430479" lon="2.3334350"/>
+    <nd ref="790433026" lat="48.8432693" lon="2.3338317"/>
+    <nd ref="805881436" lat="48.8433125" lon="2.3337915"/>
+    <nd ref="3208636882" lat="48.8433411" lon="2.3337648"/>
+    <nd ref="3208636883" lat="48.8432952" lon="2.3336739"/>
+    <nd ref="805874236" lat="48.8434343" lon="2.3335264"/>
+    <nd ref="805876558" lat="48.8435352" lon="2.3334197"/>
+    <nd ref="790434806" lat="48.8435816" lon="2.3333708"/>
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:street" v="Rue d'Assas"/>
+    <tag k="building" v="university"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="68571101">
+    <bounds minlat="48.8518049" minlon="2.3202550" maxlat="48.8519504" maxlon="2.3205303"/>
+    <nd ref="824441184" lat="48.8518049" lon="2.3204915"/>
+    <nd ref="824441027" lat="48.8518332" lon="2.3204975"/>
+    <nd ref="824442719" lat="48.8518330" lon="2.3205041"/>
+    <nd ref="824443003" lat="48.8518428" lon="2.3205248"/>
+    <nd ref="824441799" lat="48.8518663" lon="2.3205303"/>
+    <nd ref="824442771" lat="48.8518839" lon="2.3205075"/>
+    <nd ref="824443171" lat="48.8518879" lon="2.3204588"/>
+    <nd ref="824441551" lat="48.8519262" lon="2.3204661"/>
+    <nd ref="824441602" lat="48.8519263" lon="2.3204595"/>
+    <nd ref="1204821575" lat="48.8519362" lon="2.3204488"/>
+    <nd ref="824443067" lat="48.8519410" lon="2.3204436"/>
+    <nd ref="824441365" lat="48.8519456" lon="2.3204444"/>
+    <nd ref="4846396763" lat="48.8519481" lon="2.3204133"/>
+    <nd ref="824442076" lat="48.8519504" lon="2.3203856"/>
+    <nd ref="824442564" lat="48.8519459" lon="2.3203839"/>
+    <nd ref="1204822159" lat="48.8519440" lon="2.3203792"/>
+    <nd ref="824441754" lat="48.8519365" lon="2.3203603"/>
+    <nd ref="824441350" lat="48.8519365" lon="2.3203528"/>
+    <nd ref="824442581" lat="48.8519004" lon="2.3203457"/>
+    <nd ref="824440982" lat="48.8519050" lon="2.3202921"/>
+    <nd ref="824441483" lat="48.8518876" lon="2.3202617"/>
+    <nd ref="824441738" lat="48.8518690" lon="2.3202550"/>
+    <nd ref="824442793" lat="48.8518537" lon="2.3202743"/>
+    <nd ref="824441030" lat="48.8518516" lon="2.3202793"/>
+    <nd ref="824442788" lat="48.8518245" lon="2.3202735"/>
+    <nd ref="824442808" lat="48.8518191" lon="2.3203304"/>
+    <nd ref="824441689" lat="48.8518165" lon="2.3203304"/>
+    <nd ref="824439950" lat="48.8518150" lon="2.3203539"/>
+    <nd ref="824442411" lat="48.8518097" lon="2.3203539"/>
+    <nd ref="824443182" lat="48.8518049" lon="2.3204122"/>
+    <nd ref="824443148" lat="48.8518097" lon="2.3204121"/>
+    <nd ref="824440279" lat="48.8518073" lon="2.3204362"/>
+    <nd ref="824440053" lat="48.8518099" lon="2.3204376"/>
+    <nd ref="824441184" lat="48.8518049" lon="2.3204915"/>
+    <tag k="addr:housenumber" v="34b"/>
+    <tag k="addr:street" v="Rue de Babylone"/>
+    <tag k="building" v="civic"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="68571201">
+    <bounds minlat="48.8517272" minlon="2.3205426" maxlat="48.8518862" maxlon="2.3206514"/>
+    <nd ref="824442972" lat="48.8518456" lon="2.3206464"/>
+    <nd ref="824442588" lat="48.8518809" lon="2.3206514"/>
+    <nd ref="824440304" lat="48.8518862" lon="2.3205665"/>
+    <nd ref="824439960" lat="48.8517272" lon="2.3205426"/>
+    <nd ref="824439947" lat="48.8517275" lon="2.3206277"/>
+    <nd ref="824442972" lat="48.8518456" lon="2.3206464"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Rue de Babylone"/>
+    <tag k="building" v="civic"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="426165149">
+    <bounds minlat="48.8486016" minlon="2.3200623" maxlat="48.8496795" maxlon="2.3213715"/>
+    <nd ref="4254709556" lat="48.8489028" lon="2.3212054"/>
+    <nd ref="4254709557" lat="48.8489030" lon="2.3212789"/>
+    <nd ref="4254709559" lat="48.8489523" lon="2.3213715"/>
+    <nd ref="4254709561" lat="48.8489592" lon="2.3213613"/>
+    <nd ref="4254709573" lat="48.8493591" lon="2.3212100"/>
+    <nd ref="4254709569" lat="48.8492452" lon="2.3204643"/>
+    <nd ref="4254709580" lat="48.8496387" lon="2.3203120"/>
+    <nd ref="4254709579" lat="48.8496247" lon="2.3202230"/>
+    <nd ref="4254709582" lat="48.8496795" lon="2.3202052"/>
+    <nd ref="4254709581" lat="48.8496550" lon="2.3200623"/>
+    <nd ref="1205055754" lat="48.8495242" lon="2.3201230"/>
+    <nd ref="826068125" lat="48.8494063" lon="2.3201770"/>
+    <nd ref="6123171492" lat="48.8492814" lon="2.3202354"/>
+    <nd ref="1205055791" lat="48.8491401" lon="2.3203014"/>
+    <nd ref="4254709564" lat="48.8490739" lon="2.3203308"/>
+    <nd ref="4254709565" lat="48.8491121" lon="2.3205342"/>
+    <nd ref="4254709567" lat="48.8491209" lon="2.3205892"/>
+    <nd ref="4254709560" lat="48.8489528" lon="2.3206522"/>
+    <nd ref="4254709558" lat="48.8489348" lon="2.3205504"/>
+    <nd ref="826068596" lat="48.8488563" lon="2.3205876"/>
+    <nd ref="826069082" lat="48.8488436" lon="2.3205939"/>
+    <nd ref="826068412" lat="48.8487809" lon="2.3206234"/>
+    <nd ref="826068536" lat="48.8487524" lon="2.3206368"/>
+    <nd ref="826068876" lat="48.8487367" lon="2.3206451"/>
+    <nd ref="4254709553" lat="48.8487065" lon="2.3206601"/>
+    <nd ref="4254709554" lat="48.8487310" lon="2.3207103"/>
+    <nd ref="4254709552" lat="48.8487019" lon="2.3207224"/>
+    <nd ref="4254709551" lat="48.8486902" lon="2.3206681"/>
+    <nd ref="826068590" lat="48.8486016" lon="2.3207121"/>
+    <nd ref="913973007" lat="48.8486664" lon="2.3208340"/>
+    <nd ref="826068383" lat="48.8487722" lon="2.3210331"/>
+    <nd ref="826067918" lat="48.8488349" lon="2.3210189"/>
+    <nd ref="826068850" lat="48.8488606" lon="2.3210455"/>
+    <nd ref="826069043" lat="48.8488782" lon="2.3211457"/>
+    <nd ref="826068792" lat="48.8488489" lon="2.3211771"/>
+    <nd ref="4254709555" lat="48.8488634" lon="2.3212044"/>
+    <nd ref="4254709556" lat="48.8489028" lon="2.3212054"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:postcode" v="75007"/>
+    <tag k="addr:street" v="Rue de Sèvres"/>
+    <tag k="brand" v="Carrefour Market"/>
+    <tag k="brand:wikidata" v="Q2689639"/>
+    <tag k="brand:wikipedia" v="fr:Carrefour Market"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Carrefour Market"/>
+    <tag k="opening_hours" v="Mo-Sa 08:30-22:00; Su 09:00-19:30"/>
+    <tag k="opening_hours:covid19" v="Mo-Sa 09:00-19:00"/>
+    <tag k="operator" v="Groupe Carrefour"/>
+    <tag k="operator:wikidata" v="Q3117359"/>
+    <tag k="operator:wikipedia" v="fr:Groupe Carrefour"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:visa_electron" v="yes"/>
+    <tag k="phone" v="+33 1 42 18 51 70"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.carrefour.fr/magasin/market-paris-sevres"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="63382022">
+    <bounds minlat="48.8515330" minlon="2.3299874" maxlat="48.8518214" maxlon="2.3303995"/>
+    <nd ref="785723871" lat="48.8518214" lon="2.3301629"/>
+    <nd ref="785723239" lat="48.8516230" lon="2.3299874"/>
+    <nd ref="785722586" lat="48.8515994" lon="2.3300732"/>
+    <nd ref="785722829" lat="48.8516152" lon="2.3300878"/>
+    <nd ref="785721934" lat="48.8516128" lon="2.3300969"/>
+    <nd ref="785724164" lat="48.8516788" lon="2.3301543"/>
+    <nd ref="785723065" lat="48.8516381" lon="2.3302669"/>
+    <nd ref="785722157" lat="48.8515713" lon="2.3302389"/>
+    <nd ref="785721224" lat="48.8515697" lon="2.3302431"/>
+    <nd ref="785723490" lat="48.8515538" lon="2.3302360"/>
+    <nd ref="785721370" lat="48.8515330" lon="2.3303127"/>
+    <nd ref="785722611" lat="48.8515634" lon="2.3303247"/>
+    <nd ref="785723526" lat="48.8517445" lon="2.3303995"/>
+    <nd ref="805759738" lat="48.8517768" lon="2.3303001"/>
+    <nd ref="785723871" lat="48.8518214" lon="2.3301629"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="75006"/>
+    <tag k="addr:street" v="Rue du Vieux Colombier"/>
+    <tag k="amenity" v="theatre"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="7"/>
+    <tag k="email" v="location@th-vieux-colombier.fr"/>
+    <tag k="heritage" v="3"/>
+    <tag k="heritage:operator" v="mhs"/>
+    <tag k="image" v="https://upload.wikimedia.org/wikipedia/commons/8/8b/P1130332_Paris_VI_rue_du_Vieux-Colombier_n°21_Théâtre_du_Vieux-Colombier_rwk.JPG"/>
+    <tag k="mhs:inscription_date" v="1978-01-04"/>
+    <tag k="name" v="Théâtre du Vieux-Colombier"/>
+    <tag k="operator" v="Comédie française"/>
+    <tag k="phone" v="+33 144581515"/>
+    <tag k="ref:mhs" v="PA00088665"/>
+    <tag k="source:building" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="source:heritage" v="Ministère de la Culture - 07/2018"/>
+    <tag k="website" v="https://www.comedie-francaise.fr/la-comedie-francaise-aujourdhui.php?id=547"/>
+    <tag k="wikidata" v="Q2711343"/>
+    <tag k="wikipedia" v="fr:Théâtre du Vieux-Colombier"/>
+  </way>
+  <way id="64941354">
+    <bounds minlat="48.8525232" minlon="2.3270374" maxlat="48.8527019" maxlon="2.3274871"/>
+    <nd ref="795676946" lat="48.8526358" lon="2.3274871"/>
+    <nd ref="795677197" lat="48.8526373" lon="2.3274752"/>
+    <nd ref="795677104" lat="48.8526445" lon="2.3274757"/>
+    <nd ref="795676831" lat="48.8526568" lon="2.3274785"/>
+    <nd ref="795676819" lat="48.8526668" lon="2.3273976"/>
+    <nd ref="795677225" lat="48.8526627" lon="2.3273964"/>
+    <nd ref="795677069" lat="48.8527019" lon="2.3270526"/>
+    <nd ref="795677251" lat="48.8526442" lon="2.3270374"/>
+    <nd ref="795676870" lat="48.8526241" lon="2.3272777"/>
+    <nd ref="795677325" lat="48.8525298" lon="2.3272613"/>
+    <nd ref="795677000" lat="48.8525232" lon="2.3274391"/>
+    <nd ref="795677359" lat="48.8526253" lon="2.3274606"/>
+    <nd ref="795676946" lat="48.8526358" lon="2.3274871"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="75007"/>
+    <tag k="addr:street" v="Rue de la Chaise"/>
+    <tag k="building" v="college"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="name" v="Institut d'études politiques de Paris - site Richard Descoings"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="wikidata" v="Q22924659"/>
+  </way>
+  <way id="257636666">
+    <bounds minlat="48.8499914" minlon="2.3265858" maxlat="48.8504308" maxlon="2.3270212"/>
+    <nd ref="801264084" lat="48.8500221" lon="2.3269504"/>
+    <nd ref="801145272" lat="48.8500308" lon="2.3270212"/>
+    <nd ref="805760352" lat="48.8500709" lon="2.3270096"/>
+    <nd ref="2631247524" lat="48.8500945" lon="2.3270028"/>
+    <nd ref="805759142" lat="48.8501738" lon="2.3269799"/>
+    <nd ref="805759447" lat="48.8502888" lon="2.3269468"/>
+    <nd ref="801146827" lat="48.8504308" lon="2.3269058"/>
+    <nd ref="801144573" lat="48.8503892" lon="2.3265858"/>
+    <nd ref="801145879" lat="48.8500919" lon="2.3266704"/>
+    <nd ref="2631247522" lat="48.8499914" lon="2.3266990"/>
+    <nd ref="5978053560" lat="48.8500185" lon="2.3269210"/>
+    <nd ref="801264084" lat="48.8500221" lon="2.3269504"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:postcode" v="75006"/>
+    <tag k="addr:street" v="Boulevard Raspail"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="10"/>
+    <tag k="name" v="Maison des Sciences de l'Homme - MSH - EHESS"/>
+    <tag k="source" v="Cadastre. Mise à jour : 2010;bing"/>
+    <tag k="wikidata" v="Q3075494"/>
+    <tag k="wikipedia" v="fr:Fondation Maison des Sciences de l'homme"/>
+  </way>
+  <way id="52130668">
+    <bounds minlat="48.8304503" minlon="2.3378772" maxlat="48.8306215" maxlon="2.3385481"/>
+    <nd ref="664266485" lat="48.8306215" lon="2.3378772"/>
+    <nd ref="664266486" lat="48.8304645" lon="2.3378784"/>
+    <nd ref="664266487" lat="48.8304503" lon="2.3385329"/>
+    <nd ref="664266488" lat="48.8306116" lon="2.3385481"/>
+    <nd ref="664266485" lat="48.8306215" lon="2.3378772"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="75014"/>
+    <tag k="addr:street" v="Rue Cabanis"/>
+    <tag k="alt_name" v="FIAP Paris"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="amenity_1" v="conference_centre"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="FIAP Jean Monnet"/>
+    <tag k="phone" v="+33 1 43 13 17 00"/>
+    <tag k="rooms" v="194"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.fiap.paris"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q113643909"/>
+  </way>
+  <way id="79626634">
+    <bounds minlat="48.8314661" minlon="2.3351838" maxlat="48.8319380" maxlon="2.3357452"/>
+    <nd ref="929184446" lat="48.8317420" lon="2.3357452"/>
+    <nd ref="929183967" lat="48.8317308" lon="2.3357153"/>
+    <nd ref="929179917" lat="48.8317584" lon="2.3356527"/>
+    <nd ref="929180810" lat="48.8318960" lon="2.3356960"/>
+    <nd ref="929182210" lat="48.8319048" lon="2.3356282"/>
+    <nd ref="929182092" lat="48.8319132" lon="2.3356302"/>
+    <nd ref="929182040" lat="48.8319214" lon="2.3355711"/>
+    <nd ref="929179919" lat="48.8319287" lon="2.3355736"/>
+    <nd ref="929183463" lat="48.8319380" lon="2.3355011"/>
+    <nd ref="929183745" lat="48.8318775" lon="2.3354609"/>
+    <nd ref="929179633" lat="48.8318920" lon="2.3354187"/>
+    <nd ref="2501151801" lat="48.8317404" lon="2.3353197"/>
+    <nd ref="929182141" lat="48.8315324" lon="2.3351838"/>
+    <nd ref="929180747" lat="48.8314661" lon="2.3354172"/>
+    <nd ref="929180681" lat="48.8315477" lon="2.3354696"/>
+    <nd ref="929182070" lat="48.8316525" lon="2.3355801"/>
+    <nd ref="929180894" lat="48.8316315" lon="2.3356255"/>
+    <nd ref="929184446" lat="48.8317420" lon="2.3357452"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="27-29"/>
+    <tag k="addr:postcode" v="75014"/>
+    <tag k="addr:street" v="Rue de la Tombe Issoire"/>
+    <tag k="building" v="office"/>
+    <tag k="building:levels" v="11"/>
+    <tag k="name" v="Amundi"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="78407046">
+    <bounds minlat="48.8324502" minlon="2.3416485" maxlat="48.8330047" maxlon="2.3419654"/>
+    <nd ref="920168485" lat="48.8324513" lon="2.3416485"/>
+    <nd ref="920181924" lat="48.8324502" lon="2.3418683"/>
+    <nd ref="920184948" lat="48.8328623" lon="2.3418798"/>
+    <nd ref="920169731" lat="48.8328612" lon="2.3419596"/>
+    <nd ref="920179799" lat="48.8329994" lon="2.3419654"/>
+    <nd ref="920176559" lat="48.8330047" lon="2.3416680"/>
+    <nd ref="920168485" lat="48.8324513" lon="2.3416485"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Rue de la Santé"/>
+    <tag k="building" v="school"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="78470369">
+    <bounds minlat="48.8278266" minlon="2.3446002" maxlat="48.8280540" maxlon="2.3448699"/>
+    <nd ref="920917435" lat="48.8280540" lon="2.3447019"/>
+    <nd ref="920923767" lat="48.8278686" lon="2.3446002"/>
+    <nd ref="920924886" lat="48.8278434" lon="2.3447110"/>
+    <nd ref="920915893" lat="48.8278266" lon="2.3447836"/>
+    <nd ref="920919106" lat="48.8278571" lon="2.3447995"/>
+    <nd ref="920923938" lat="48.8278478" lon="2.3448447"/>
+    <nd ref="920912325" lat="48.8278977" lon="2.3448674"/>
+    <nd ref="920921555" lat="48.8279160" lon="2.3448677"/>
+    <nd ref="920923341" lat="48.8280158" lon="2.3448699"/>
+    <nd ref="2503793947" lat="48.8280331" lon="2.3447938"/>
+    <nd ref="920917435" lat="48.8280540" lon="2.3447019"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="75013"/>
+    <tag k="addr:street" v="Rue Daviel"/>
+    <tag k="building" v="office"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Société Psychanalytique de Paris"/>
+    <tag k="office" v="association"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="website" v="https://www.spp.asso.fr/"/>
+  </way>
+  <way id="559104799">
+    <bounds minlat="48.8329431" minlon="2.3455159" maxlat="48.8334439" maxlon="2.3460217"/>
+    <nd ref="920182823" lat="48.8334439" lon="2.3455575"/>
+    <nd ref="920183495" lat="48.8334248" lon="2.3458640"/>
+    <nd ref="920184625" lat="48.8332571" lon="2.3458407"/>
+    <nd ref="920170056" lat="48.8332499" lon="2.3459416"/>
+    <nd ref="920183263" lat="48.8331176" lon="2.3459208"/>
+    <nd ref="2503986875" lat="48.8331066" lon="2.3460004"/>
+    <nd ref="920183609" lat="48.8330586" lon="2.3460217"/>
+    <nd ref="920182288" lat="48.8329431" lon="2.3457313"/>
+    <nd ref="920178907" lat="48.8329846" lon="2.3456932"/>
+    <nd ref="920182166" lat="48.8329534" lon="2.3456524"/>
+    <nd ref="920185766" lat="48.8331296" lon="2.3456685"/>
+    <nd ref="920171094" lat="48.8331280" lon="2.3456966"/>
+    <nd ref="920169177" lat="48.8332207" lon="2.3457068"/>
+    <nd ref="920179046" lat="48.8332342" lon="2.3455159"/>
+    <nd ref="920182823" lat="48.8334439" lon="2.3455575"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="20-24"/>
+    <tag k="addr:postcode" v="75013"/>
+    <tag k="addr:street" v="Rue des Tanneries"/>
+    <tag k="amenity" v="monastery"/>
+    <tag k="building" v="convent"/>
+    <tag k="building:levels" v="7"/>
+    <tag k="community" v="OP"/>
+    <tag k="community:gender" v="male"/>
+    <tag k="name" v="Couvent Saint-Jacques"/>
+    <tag k="religion" v="christian"/>
+    <tag k="website" v="https://www.couventsaintjacques.fr/"/>
+    <tag k="wikidata" v="Q26936716"/>
+  </way>
+  <way id="59846865">
+    <bounds minlat="48.8402353" minlon="2.3414698" maxlat="48.8408186" maxlon="2.3423828"/>
+    <nd ref="1142933166" lat="48.8403747" lon="2.3420256"/>
+    <nd ref="742827559" lat="48.8402353" lon="2.3419352"/>
+    <nd ref="742827446" lat="48.8402465" lon="2.3418955"/>
+    <nd ref="742827231" lat="48.8402830" lon="2.3417667"/>
+    <nd ref="742827682" lat="48.8402944" lon="2.3417262"/>
+    <nd ref="742827543" lat="48.8403868" lon="2.3417862"/>
+    <nd ref="1142933007" lat="48.8404338" lon="2.3418166"/>
+    <nd ref="1142933389" lat="48.8405285" lon="2.3414698"/>
+    <nd ref="742827533" lat="48.8405433" lon="2.3414794"/>
+    <nd ref="742827421" lat="48.8405425" lon="2.3414835"/>
+    <nd ref="742827312" lat="48.8405631" lon="2.3414972"/>
+    <nd ref="742827142" lat="48.8405642" lon="2.3414931"/>
+    <nd ref="742827573" lat="48.8405728" lon="2.3414988"/>
+    <nd ref="742827468" lat="48.8405792" lon="2.3414761"/>
+    <nd ref="742827357" lat="48.8406332" lon="2.3415106"/>
+    <nd ref="742827210" lat="48.8406359" lon="2.3415078"/>
+    <nd ref="742827625" lat="48.8407467" lon="2.3415788"/>
+    <nd ref="742827523" lat="48.8407469" lon="2.3415839"/>
+    <nd ref="742827407" lat="48.8407969" lon="2.3416172"/>
+    <nd ref="742827295" lat="48.8407952" lon="2.3416225"/>
+    <nd ref="742827128" lat="48.8407989" lon="2.3416248"/>
+    <nd ref="742827564" lat="48.8407940" lon="2.3416428"/>
+    <nd ref="1142932959" lat="48.8408186" lon="2.3416588"/>
+    <nd ref="742827378" lat="48.8407755" lon="2.3418190"/>
+    <nd ref="742827227" lat="48.8407428" lon="2.3419341"/>
+    <nd ref="742827678" lat="48.8407444" lon="2.3419350"/>
+    <nd ref="742827541" lat="48.8407182" lon="2.3420288"/>
+    <nd ref="742827429" lat="48.8407771" lon="2.3420687"/>
+    <nd ref="742827323" lat="48.8407321" lon="2.3422279"/>
+    <nd ref="742827153" lat="48.8406860" lon="2.3421967"/>
+    <nd ref="742827580" lat="48.8406770" lon="2.3422296"/>
+    <nd ref="742827473" lat="48.8406680" lon="2.3422231"/>
+    <nd ref="742827362" lat="48.8406651" lon="2.3422230"/>
+    <nd ref="742827214" lat="48.8406619" lon="2.3422246"/>
+    <nd ref="742827654" lat="48.8406591" lon="2.3422277"/>
+    <nd ref="742827527" lat="48.8406572" lon="2.3422312"/>
+    <nd ref="742827411" lat="48.8406559" lon="2.3422378"/>
+    <nd ref="742827301" lat="48.8406510" lon="2.3422549"/>
+    <nd ref="742827601" lat="48.8406537" lon="2.3422566"/>
+    <nd ref="742827503" lat="48.8406456" lon="2.3422853"/>
+    <nd ref="742827386" lat="48.8406429" lon="2.3422834"/>
+    <nd ref="742827270" lat="48.8406349" lon="2.3423124"/>
+    <nd ref="742827107" lat="48.8406174" lon="2.3423014"/>
+    <nd ref="742827550" lat="48.8406161" lon="2.3423054"/>
+    <nd ref="742827438" lat="48.8405970" lon="2.3422924"/>
+    <nd ref="742827329" lat="48.8405983" lon="2.3422886"/>
+    <nd ref="742827171" lat="48.8405543" lon="2.3422600"/>
+    <nd ref="742827587" lat="48.8405308" lon="2.3423446"/>
+    <nd ref="742827482" lat="48.8405372" lon="2.3423493"/>
+    <nd ref="742827370" lat="48.8405300" lon="2.3423771"/>
+    <nd ref="742827223" lat="48.8405229" lon="2.3423731"/>
+    <nd ref="742827671" lat="48.8405200" lon="2.3423828"/>
+    <nd ref="742827535" lat="48.8404999" lon="2.3423705"/>
+    <nd ref="742827423" lat="48.8405028" lon="2.3423599"/>
+    <nd ref="742827316" lat="48.8404339" lon="2.3423155"/>
+    <nd ref="742827147" lat="48.8404308" lon="2.3423254"/>
+    <nd ref="742827574" lat="48.8404119" lon="2.3423130"/>
+    <nd ref="742827470" lat="48.8404143" lon="2.3423028"/>
+    <nd ref="742827360" lat="48.8404078" lon="2.3422984"/>
+    <nd ref="742827213" lat="48.8404158" lon="2.3422695"/>
+    <nd ref="742827651" lat="48.8404218" lon="2.3422738"/>
+    <nd ref="742827526" lat="48.8404453" lon="2.3421902"/>
+    <nd ref="742827408" lat="48.8404026" lon="2.3421626"/>
+    <nd ref="742827299" lat="48.8404012" lon="2.3421661"/>
+    <nd ref="742827133" lat="48.8403817" lon="2.3421529"/>
+    <nd ref="742827567" lat="48.8403826" lon="2.3421495"/>
+    <nd ref="742827455" lat="48.8403776" lon="2.3421459"/>
+    <nd ref="742827352" lat="48.8403832" lon="2.3421251"/>
+    <nd ref="742827199" lat="48.8403696" lon="2.3421154"/>
+    <nd ref="742827608" lat="48.8403715" lon="2.3421080"/>
+    <nd ref="742827510" lat="48.8403685" lon="2.3421056"/>
+    <nd ref="742827395" lat="48.8403761" lon="2.3420779"/>
+    <nd ref="742827280" lat="48.8403787" lon="2.3420793"/>
+    <nd ref="742827116" lat="48.8403902" lon="2.3420364"/>
+    <nd ref="1142933166" lat="48.8403747" lon="2.3420256"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Place Alphonse Laveran"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="catholic"/>
+    <tag k="name" v="Église du Val-de-Grâce"/>
+    <tag k="ref:FR:CEF" v="75105_07"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010"/>
+    <tag k="wikidata" v="Q2601262"/>
+    <tag k="wikipedia" v="fr:Église du Val-de-Grâce"/>
+  </way>
+  <way id="59719195">
+    <bounds minlat="48.8398385" minlon="2.3373632" maxlat="48.8399353" maxlon="2.3375126"/>
+    <nd ref="741157609" lat="48.8398479" lon="2.3373632"/>
+    <nd ref="741157504" lat="48.8398878" lon="2.3373696"/>
+    <nd ref="741157574" lat="48.8399353" lon="2.3373773"/>
+    <nd ref="741157618" lat="48.8399258" lon="2.3375126"/>
+    <nd ref="741157607" lat="48.8398385" lon="2.3374986"/>
+    <nd ref="741157609" lat="48.8398479" lon="2.3373632"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:postcode" v="75005"/>
+    <tag k="addr:street" v="Avenue Georges Bernanos"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="7"/>
+    <tag k="contact:email" v="contact@hotel-beauvoir-paris.com"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Hotel-Beauvoir-Paris-240062326197403/"/>
+    <tag k="contact:phone" v="+33 1 43 25 57 10"/>
+    <tag k="contact:website" v="http://www.hotel-beauvoir.fr"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Hôtel Beauvoir"/>
+    <tag k="rooms" v="29"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010"/>
+    <tag k="stars" v="3"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="79611339">
+    <bounds minlat="48.8370669" minlon="2.3360279" maxlat="48.8372062" maxlon="2.3362670"/>
+    <nd ref="929048295" lat="48.8371434" lon="2.3360279"/>
+    <nd ref="5758915589" lat="48.8371072" lon="2.3361123"/>
+    <nd ref="929049689" lat="48.8370669" lon="2.3362062"/>
+    <nd ref="929051394" lat="48.8371278" lon="2.3362670"/>
+    <nd ref="929051900" lat="48.8372062" lon="2.3360896"/>
+    <nd ref="929048295" lat="48.8371434" lon="2.3360279"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="42-44"/>
+    <tag k="addr:postcode" v="75014"/>
+    <tag k="addr:street" v="Avenue de l'Observatoire"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="mhs"/>
+    <tag k="historic" v="building"/>
+    <tag k="mhs:inscription_date" v="1994-03-04"/>
+    <tag k="name" v="Maison du Fontainier"/>
+    <tag k="ref:mhs" v="PA00086607"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="wikidata" v="Q13518160"/>
+    <tag k="wikipedia" v="fr:Maison du Fontainier"/>
+  </way>
+  <way id="63848435">
+    <bounds minlat="48.8423934" minlon="2.3344775" maxlat="48.8424998" maxlon="2.3346274"/>
+    <nd ref="788827013" lat="48.8424546" lon="2.3344775"/>
+    <nd ref="788827278" lat="48.8423934" lon="2.3345360"/>
+    <nd ref="788827513" lat="48.8424451" lon="2.3346274"/>
+    <nd ref="805871921" lat="48.8424685" lon="2.3346048"/>
+    <nd ref="788826216" lat="48.8424998" lon="2.3345745"/>
+    <nd ref="788827013" lat="48.8424546" lon="2.3344775"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:postcode" v="75006"/>
+    <tag k="addr:street" v="Rue d'Assas"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="brewery" v="yes;bière_pression_amstel_50cl"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="cuisine" v="Brasserie, Brunch, Café"/>
+    <tag k="name" v="Les Facultés"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-20:00; Sa 07:30-19:00"/>
+    <tag k="opening_hours:happy_hour" v="Mo-Sa 15:00-20:00"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+33 1 42264616"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010;https://lesfacultes.com/a-propos/;https://fr.mappy.com/poi/4d6c769dfc692507880710d7"/>
+  </way>
+  <way id="63848548">
+    <bounds minlat="48.8409066" minlon="2.3339483" maxlat="48.8410607" maxlon="2.3342682"/>
+    <nd ref="788827422" lat="48.8409660" lon="2.3339483"/>
+    <nd ref="805874514" lat="48.8409263" lon="2.3340833"/>
+    <nd ref="788827163" lat="48.8409066" lon="2.3341502"/>
+    <nd ref="788826909" lat="48.8409607" lon="2.3342486"/>
+    <nd ref="788826620" lat="48.8409585" lon="2.3342502"/>
+    <nd ref="788826392" lat="48.8409688" lon="2.3342682"/>
+    <nd ref="788826159" lat="48.8409767" lon="2.3342552"/>
+    <nd ref="788826609" lat="48.8409684" lon="2.3342367"/>
+    <nd ref="788827459" lat="48.8410607" lon="2.3341193"/>
+    <nd ref="788826601" lat="48.8410387" lon="2.3340795"/>
+    <nd ref="788826876" lat="48.8409765" lon="2.3339671"/>
+    <nd ref="788827130" lat="48.8409687" lon="2.3339530"/>
+    <nd ref="788827422" lat="48.8409660" lon="2.3339483"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:street" v="Rue Notre-Dame des Champs"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="6"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="63848625">
+    <bounds minlat="48.8413248" minlon="2.3351152" maxlat="48.8416263" maxlon="2.3355515"/>
+    <nd ref="788826528" lat="48.8416263" lon="2.3354181"/>
+    <nd ref="788826805" lat="48.8415788" lon="2.3353006"/>
+    <nd ref="788827055" lat="48.8415763" lon="2.3352945"/>
+    <nd ref="788826794" lat="48.8415696" lon="2.3352790"/>
+    <nd ref="788826519" lat="48.8415320" lon="2.3353155"/>
+    <nd ref="788827458" lat="48.8415350" lon="2.3353256"/>
+    <nd ref="788827179" lat="48.8415367" lon="2.3353413"/>
+    <nd ref="788826930" lat="48.8415249" lon="2.3353439"/>
+    <nd ref="788825931" lat="48.8415235" lon="2.3353314"/>
+    <nd ref="788827304" lat="48.8415198" lon="2.3353196"/>
+    <nd ref="788826779" lat="48.8415172" lon="2.3353146"/>
+    <nd ref="788826844" lat="48.8415108" lon="2.3353064"/>
+    <nd ref="788827231" lat="48.8415009" lon="2.3353004"/>
+    <nd ref="788826689" lat="48.8414904" lon="2.3352999"/>
+    <nd ref="788825967" lat="48.8414843" lon="2.3353023"/>
+    <nd ref="788827341" lat="48.8414769" lon="2.3353082"/>
+    <nd ref="788826828" lat="48.8414737" lon="2.3353123"/>
+    <nd ref="788826557" lat="48.8414661" lon="2.3353006"/>
+    <nd ref="788826321" lat="48.8414674" lon="2.3352963"/>
+    <nd ref="788826297" lat="48.8414749" lon="2.3352887"/>
+    <nd ref="788826076" lat="48.8414207" lon="2.3351702"/>
+    <nd ref="788827466" lat="48.8413942" lon="2.3351959"/>
+    <nd ref="788827202" lat="48.8413572" lon="2.3351152"/>
+    <nd ref="788826956" lat="48.8413248" lon="2.3351464"/>
+    <nd ref="788826670" lat="48.8413452" lon="2.3351911"/>
+    <nd ref="788826433" lat="48.8413385" lon="2.3352002"/>
+    <nd ref="788826191" lat="48.8413315" lon="2.3352091"/>
+    <nd ref="788827015" lat="48.8413487" lon="2.3352478"/>
+    <nd ref="788826750" lat="48.8413619" lon="2.3352765"/>
+    <nd ref="788826483" lat="48.8414340" lon="2.3354339"/>
+    <nd ref="788826240" lat="48.8414883" lon="2.3355515"/>
+    <nd ref="805874866" lat="48.8415596" lon="2.3354825"/>
+    <nd ref="788826528" lat="48.8416263" lon="2.3354181"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="128"/>
+    <tag k="addr:postcode" v="75006"/>
+    <tag k="addr:street" v="Rue d'Assas"/>
+    <tag k="architect" v="Ph. Bosseau"/>
+    <tag k="building" v="school"/>
+    <tag k="building:levels" v="6"/>
+    <tag k="name" v="Bâtiment 8, section élémentaire"/>
+    <tag k="operator" v="Ecole Alsacienne"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="religion" v="none"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="source:architect" v="survey"/>
+    <tag k="start_date" v="1987"/>
+  </way>
+  <way id="56023665">
+    <bounds minlat="48.8443352" minlon="2.3429483" maxlat="48.8446911" maxlon="2.3439503"/>
+    <nd ref="703217462" lat="48.8445111" lon="2.3431082"/>
+    <nd ref="703217470" lat="48.8444963" lon="2.3431013"/>
+    <nd ref="703217388" lat="48.8445281" lon="2.3429483"/>
+    <nd ref="703217429" lat="48.8446222" lon="2.3429902"/>
+    <nd ref="703217472" lat="48.8446145" lon="2.3430260"/>
+    <nd ref="703217351" lat="48.8446911" lon="2.3430599"/>
+    <nd ref="703217432" lat="48.8446656" lon="2.3431836"/>
+    <nd ref="703217454" lat="48.8446636" lon="2.3431828"/>
+    <nd ref="703217357" lat="48.8446572" lon="2.3432165"/>
+    <nd ref="703217396" lat="48.8446588" lon="2.3432173"/>
+    <nd ref="703217456" lat="48.8446553" lon="2.3432334"/>
+    <nd ref="703217475" lat="48.8446640" lon="2.3432374"/>
+    <nd ref="703217400" lat="48.8446442" lon="2.3433377"/>
+    <nd ref="703217436" lat="48.8446357" lon="2.3433334"/>
+    <nd ref="703217477" lat="48.8446118" lon="2.3434447"/>
+    <nd ref="703217361" lat="48.8446030" lon="2.3434399"/>
+    <nd ref="703217362" lat="48.8445441" lon="2.3437360"/>
+    <nd ref="703217403" lat="48.8445343" lon="2.3437319"/>
+    <nd ref="703217458" lat="48.8445189" lon="2.3438083"/>
+    <nd ref="703217479" lat="48.8445564" lon="2.3438267"/>
+    <nd ref="703217405" lat="48.8445335" lon="2.3439384"/>
+    <nd ref="703217438" lat="48.8445311" lon="2.3439376"/>
+    <nd ref="703217482" lat="48.8445280" lon="2.3439377"/>
+    <nd ref="703217364" lat="48.8445251" lon="2.3439392"/>
+    <nd ref="703217439" lat="48.8445226" lon="2.3439417"/>
+    <nd ref="703217459" lat="48.8445203" lon="2.3439455"/>
+    <nd ref="10696512576" lat="48.8445193" lon="2.3439503"/>
+    <nd ref="703217407" lat="48.8444914" lon="2.3439339"/>
+    <nd ref="703217460" lat="48.8444979" lon="2.3438999"/>
+    <nd ref="6885054151" lat="48.8444529" lon="2.3438799"/>
+    <nd ref="703217483" lat="48.8444077" lon="2.3438598"/>
+    <nd ref="703217409" lat="48.8444026" lon="2.3438875"/>
+    <nd ref="703217441" lat="48.8443352" lon="2.3438576"/>
+    <nd ref="703217484" lat="48.8443704" lon="2.3436855"/>
+    <nd ref="703217366" lat="48.8444314" lon="2.3437131"/>
+    <nd ref="703217442" lat="48.8444403" lon="2.3436952"/>
+    <nd ref="703217463" lat="48.8444501" lon="2.3436944"/>
+    <nd ref="703217367" lat="48.8444941" lon="2.3434691"/>
+    <nd ref="703217411" lat="48.8444679" lon="2.3434553"/>
+    <nd ref="703217464" lat="48.8445061" lon="2.3432739"/>
+    <nd ref="703217485" lat="48.8444976" lon="2.3432701"/>
+    <nd ref="703217414" lat="48.8445173" lon="2.3431716"/>
+    <nd ref="703217443" lat="48.8445000" lon="2.3431636"/>
+    <nd ref="703217462" lat="48.8445111" lon="2.3431082"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="75005"/>
+    <tag k="addr:street" v="Rue Pierre et Marie Curie"/>
+    <tag k="alt_name" v="IBPC"/>
+    <tag k="building" v="university"/>
+    <tag k="name" v="Institut de Biologie Physico-Chimique de Sorbonne Université"/>
+    <tag k="operator" v="Sorbonne Université"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2010"/>
+    <tag k="website" v="http://www.ibpc.fr/"/>
+  </way>
+  <way id="56023666">
+    <bounds minlat="48.8445388" minlon="2.3423236" maxlat="48.8448244" maxlon="2.3428539"/>
+    <nd ref="703217473" lat="48.8446245" lon="2.3423236"/>
+    <nd ref="703217486" lat="48.8446074" lon="2.3424066"/>
+    <nd ref="703217416" lat="48.8446169" lon="2.3424126"/>
+    <nd ref="703217444" lat="48.8445388" lon="2.3427370"/>
+    <nd ref="5229039464" lat="48.8446173" lon="2.3427798"/>
+    <nd ref="703217487" lat="48.8447530" lon="2.3428539"/>
+    <nd ref="703217369" lat="48.8447753" lon="2.3427430"/>
+    <nd ref="703217445" lat="48.8447658" lon="2.3427386"/>
+    <nd ref="703217465" lat="48.8447972" lon="2.3425837"/>
+    <nd ref="703217373" lat="48.8448064" lon="2.3425879"/>
+    <nd ref="703217417" lat="48.8448244" lon="2.3424996"/>
+    <nd ref="703217419" lat="48.8448173" lon="2.3424826"/>
+    <nd ref="703217446" lat="48.8448138" lon="2.3424858"/>
+    <nd ref="703217390" lat="48.8448038" lon="2.3424591"/>
+    <nd ref="703217488" lat="48.8447912" lon="2.3424258"/>
+    <nd ref="10696512596" lat="48.8447964" lon="2.3424172"/>
+    <nd ref="10241728870" lat="48.8446653" lon="2.3423458"/>
+    <nd ref="703217473" lat="48.8446245" lon="2.3423236"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="191"/>
+    <tag k="addr:postcode" v="75005"/>
+    <tag k="addr:street" v="Rue Saint-Jacques"/>
+    <tag k="amenity" v="university"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Institut de Géographie"/>
+    <tag k="roof:levels" v="1"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2010"/>
+    <tag k="wikidata" v="Q3152006"/>
+    <tag k="wikipedia" v="fr:Institut de géographie"/>
+  </way>
+  <way id="60204841">
+    <bounds minlat="48.8416773" minlon="2.3402994" maxlat="48.8417932" maxlon="2.3405339"/>
+    <nd ref="747785904" lat="48.8416773" lon="2.3403833"/>
+    <nd ref="747785861" lat="48.8416966" lon="2.3402994"/>
+    <nd ref="10689552459" lat="48.8417129" lon="2.3403120"/>
+    <nd ref="747785845" lat="48.8417257" lon="2.3403219"/>
+    <nd ref="747785901" lat="48.8417275" lon="2.3403312"/>
+    <nd ref="747785857" lat="48.8417336" lon="2.3403279"/>
+    <nd ref="747785836" lat="48.8417532" lon="2.3403437"/>
+    <nd ref="747785912" lat="48.8417577" lon="2.3403466"/>
+    <nd ref="747785848" lat="48.8417596" lon="2.3403558"/>
+    <nd ref="747785903" lat="48.8417655" lon="2.3403526"/>
+    <nd ref="10689552458" lat="48.8417858" lon="2.3403692"/>
+    <nd ref="747785858" lat="48.8417932" lon="2.3403740"/>
+    <nd ref="747785914" lat="48.8417518" lon="2.3405339"/>
+    <nd ref="747785927" lat="48.8417074" lon="2.3404994"/>
+    <nd ref="747785885" lat="48.8417007" lon="2.3404746"/>
+    <nd ref="747785838" lat="48.8417053" lon="2.3404549"/>
+    <nd ref="747785895" lat="48.8416926" lon="2.3404486"/>
+    <nd ref="747785890" lat="48.8417057" lon="2.3403978"/>
+    <nd ref="747785904" lat="48.8416773" lon="2.3403833"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="11 bis"/>
+    <tag k="addr:postcode" v="75005"/>
+    <tag k="addr:street" v="Rue Pierre Nicole"/>
+    <tag k="architect" v="ed Architectes - Patrick Demanche"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="7"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2010"/>
+    <tag k="source:architect" v="survey"/>
+    <tag k="start_date" v="1979"/>
+  </way>
+  <way id="98644345">
+    <bounds minlat="48.8425401" minlon="2.3445042" maxlat="48.8431690" maxlon="2.3452777"/>
+    <nd ref="669855142" lat="48.8427674" lon="2.3445081"/>
+    <nd ref="10242895790" lat="48.8429196" lon="2.3445847"/>
+    <nd ref="710524396" lat="48.8429693" lon="2.3446097"/>
+    <nd ref="669855141" lat="48.8431690" lon="2.3447103"/>
+    <nd ref="669855137" lat="48.8431104" lon="2.3449809"/>
+    <nd ref="710524660" lat="48.8430729" lon="2.3449616"/>
+    <nd ref="710524473" lat="48.8430658" lon="2.3449910"/>
+    <nd ref="710524608" lat="48.8430874" lon="2.3450020"/>
+    <nd ref="710524642" lat="48.8430741" lon="2.3450562"/>
+    <nd ref="710524515" lat="48.8427757" lon="2.3448965"/>
+    <nd ref="710524600" lat="48.8426869" lon="2.3452777"/>
+    <nd ref="710524575" lat="48.8425401" lon="2.3452020"/>
+    <nd ref="710524541" lat="48.8425528" lon="2.3451485"/>
+    <nd ref="3123221067" lat="48.8425652" lon="2.3450964"/>
+    <nd ref="710524507" lat="48.8426041" lon="2.3449328"/>
+    <nd ref="710524478" lat="48.8426445" lon="2.3447631"/>
+    <nd ref="710524433" lat="48.8426905" lon="2.3445699"/>
+    <nd ref="710524669" lat="48.8426942" lon="2.3445544"/>
+    <nd ref="669855143" lat="48.8426965" lon="2.3445454"/>
+    <nd ref="710524671" lat="48.8427002" lon="2.3445365"/>
+    <nd ref="710524584" lat="48.8427061" lon="2.3445277"/>
+    <nd ref="710524566" lat="48.8427113" lon="2.3445205"/>
+    <nd ref="710524553" lat="48.8427175" lon="2.3445143"/>
+    <nd ref="710524513" lat="48.8427250" lon="2.3445089"/>
+    <nd ref="710524565" lat="48.8427335" lon="2.3445052"/>
+    <nd ref="710524465" lat="48.8427421" lon="2.3445042"/>
+    <nd ref="710524582" lat="48.8427521" lon="2.3445044"/>
+    <nd ref="710524501" lat="48.8427606" lon="2.3445063"/>
+    <nd ref="669855142" lat="48.8427674" lon="2.3445081"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="75005"/>
+    <tag k="addr:street" v="Rue d'Ulm"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="École Nationale Supérieure des Arts Décoratifs"/>
+    <tag k="short_name" v="ENSAD"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2010"/>
+  </way>
+  <way id="55353486">
+    <bounds minlat="48.8468436" minlon="2.3452859" maxlat="48.8474811" maxlon="2.3466231"/>
+    <nd ref="695279820" lat="48.8472158" lon="2.3457517"/>
+    <nd ref="695279822" lat="48.8472181" lon="2.3457525"/>
+    <nd ref="695279842" lat="48.8473051" lon="2.3457958"/>
+    <nd ref="695279823" lat="48.8472349" lon="2.3461240"/>
+    <nd ref="695279850" lat="48.8473320" lon="2.3461720"/>
+    <nd ref="695279851" lat="48.8474021" lon="2.3458443"/>
+    <nd ref="695279853" lat="48.8474584" lon="2.3458737"/>
+    <nd ref="695279854" lat="48.8474485" lon="2.3459178"/>
+    <nd ref="695279839" lat="48.8474811" lon="2.3459330"/>
+    <nd ref="695279840" lat="48.8474614" lon="2.3460271"/>
+    <nd ref="695279871" lat="48.8473869" lon="2.3463866"/>
+    <nd ref="695279872" lat="48.8473329" lon="2.3463569"/>
+    <nd ref="695279874" lat="48.8473101" lon="2.3464657"/>
+    <nd ref="695279868" lat="48.8473636" lon="2.3464916"/>
+    <nd ref="695279869" lat="48.8473367" lon="2.3466231"/>
+    <nd ref="720627636" lat="48.8472603" lon="2.3465862"/>
+    <nd ref="10211984705" lat="48.8472292" lon="2.3465711"/>
+    <nd ref="695279833" lat="48.8471790" lon="2.3465468"/>
+    <nd ref="695279824" lat="48.8472442" lon="2.3462430"/>
+    <nd ref="695279826" lat="48.8470932" lon="2.3461693"/>
+    <nd ref="9993744294" lat="48.8470274" lon="2.3464738"/>
+    <nd ref="695279832" lat="48.8470262" lon="2.3464789"/>
+    <nd ref="695279830" lat="48.8468436" lon="2.3463878"/>
+    <nd ref="720631754" lat="48.8469655" lon="2.3458359"/>
+    <nd ref="695279750" lat="48.8470862" lon="2.3452859"/>
+    <nd ref="695279754" lat="48.8472688" lon="2.3453759"/>
+    <nd ref="695279827" lat="48.8471794" lon="2.3457865"/>
+    <nd ref="695279829" lat="48.8472054" lon="2.3457995"/>
+    <nd ref="695279820" lat="48.8472158" lon="2.3457517"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="75005"/>
+    <tag k="addr:street" v="Place du Panthéon"/>
+    <tag k="amenity" v="library"/>
+    <tag k="building" v="yes"/>
+    <tag k="contact:phone" v="+33144419797"/>
+    <tag k="name" v="Bibliothèque Sainte-Geneviève"/>
+    <tag k="opening_hours" v="mo-sa 10:00-22:00, PH off"/>
+    <tag k="operator" v="Université Sorbonne Nouvelle - Paris 3"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2010"/>
+    <tag k="website" v="http://www.bsg.univ-paris3.fr/"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q517249"/>
+    <tag k="wikipedia" v="fr:Bibliothèque Sainte-Geneviève"/>
+  </way>
+  <way id="55353487">
+    <bounds minlat="48.8471039" minlon="2.3450474" maxlat="48.8476490" maxlon="2.3458879"/>
+    <nd ref="695279851" lat="48.8474021" lon="2.3458443"/>
+    <nd ref="695279853" lat="48.8474584" lon="2.3458737"/>
+    <nd ref="695279837" lat="48.8474900" lon="2.3458879"/>
+    <nd ref="695279836" lat="48.8475163" lon="2.3457654"/>
+    <nd ref="695279834" lat="48.8475633" lon="2.3457889"/>
+    <nd ref="10009766888" lat="48.8475736" lon="2.3457450"/>
+    <nd ref="10009766899" lat="48.8475943" lon="2.3456490"/>
+    <nd ref="695279857" lat="48.8475947" lon="2.3456424"/>
+    <nd ref="695279859" lat="48.8475939" lon="2.3456413"/>
+    <nd ref="695279771" lat="48.8476490" lon="2.3453770"/>
+    <nd ref="695279763" lat="48.8473790" lon="2.3452463"/>
+    <nd ref="695279759" lat="48.8473836" lon="2.3452243"/>
+    <nd ref="695279760" lat="48.8473100" lon="2.3451887"/>
+    <nd ref="695279761" lat="48.8473214" lon="2.3451345"/>
+    <nd ref="9993744295" lat="48.8471451" lon="2.3450508"/>
+    <nd ref="695279756" lat="48.8471382" lon="2.3450474"/>
+    <nd ref="720631763" lat="48.8471209" lon="2.3451247"/>
+    <nd ref="695279757" lat="48.8471039" lon="2.3452032"/>
+    <nd ref="695279764" lat="48.8472865" lon="2.3452945"/>
+    <nd ref="695279766" lat="48.8472949" lon="2.3452555"/>
+    <nd ref="695279767" lat="48.8473242" lon="2.3452701"/>
+    <nd ref="695279769" lat="48.8472941" lon="2.3454090"/>
+    <nd ref="695279770" lat="48.8472922" lon="2.3454090"/>
+    <nd ref="695279822" lat="48.8472181" lon="2.3457525"/>
+    <nd ref="695279842" lat="48.8473051" lon="2.3457958"/>
+    <nd ref="695279851" lat="48.8474021" lon="2.3458443"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="75005"/>
+    <tag k="addr:street" v="Rue Cujas"/>
+    <tag k="amenity" v="library"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Bibliothèque Cujas"/>
+    <tag k="phone" v="+33 1 44 07 79 87"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="website" v="http://biu-cujas.univ-paris1.fr/"/>
+    <tag k="wikidata" v="Q2901279"/>
+    <tag k="wikipedia" v="fr:Bibliothèque Cujas"/>
+  </way>
+  <way id="16077204">
+    <bounds minlat="48.8506878" minlon="2.3340129" maxlat="48.8512774" maxlon="2.3357026"/>
+    <nd ref="161599518" lat="48.8511853" lon="2.3340129"/>
+    <nd ref="6217004414" lat="48.8510734" lon="2.3340345"/>
+    <nd ref="9732502800" lat="48.8510437" lon="2.3340403"/>
+    <nd ref="805954684" lat="48.8509861" lon="2.3340516"/>
+    <nd ref="2840506842" lat="48.8509247" lon="2.3340639"/>
+    <nd ref="9732502795" lat="48.8508386" lon="2.3340811"/>
+    <nd ref="9732502798" lat="48.8508082" lon="2.3340872"/>
+    <nd ref="161599519" lat="48.8506878" lon="2.3341112"/>
+    <nd ref="482164151" lat="48.8507033" lon="2.3342925"/>
+    <nd ref="482164152" lat="48.8507375" lon="2.3342889"/>
+    <nd ref="5482694808" lat="48.8507452" lon="2.3343978"/>
+    <nd ref="5482694801" lat="48.8507524" lon="2.3345001"/>
+    <nd ref="5482694800" lat="48.8507602" lon="2.3346107"/>
+    <nd ref="806011723" lat="48.8507640" lon="2.3346645"/>
+    <nd ref="482164154" lat="48.8507666" lon="2.3347066"/>
+    <nd ref="482164155" lat="48.8507522" lon="2.3347097"/>
+    <nd ref="735042916" lat="48.8507540" lon="2.3347278"/>
+    <nd ref="735042956" lat="48.8507429" lon="2.3347299"/>
+    <nd ref="735042909" lat="48.8507457" lon="2.3347613"/>
+    <nd ref="735042950" lat="48.8507510" lon="2.3347595"/>
+    <nd ref="735042901" lat="48.8507570" lon="2.3348302"/>
+    <nd ref="735042941" lat="48.8507516" lon="2.3348314"/>
+    <nd ref="735042895" lat="48.8507533" lon="2.3348504"/>
+    <nd ref="735042933" lat="48.8507393" lon="2.3348538"/>
+    <nd ref="5482839869" lat="48.8507405" lon="2.3348674"/>
+    <nd ref="735042960" lat="48.8507420" lon="2.3348845"/>
+    <nd ref="735042926" lat="48.8507594" lon="2.3348813"/>
+    <nd ref="735042954" lat="48.8507610" lon="2.3349022"/>
+    <nd ref="482164153" lat="48.8507438" lon="2.3349056"/>
+    <nd ref="5426438171" lat="48.8507467" lon="2.3349410"/>
+    <nd ref="2840506839" lat="48.8507493" lon="2.3349715"/>
+    <nd ref="806011624" lat="48.8507506" lon="2.3349900"/>
+    <nd ref="5426438168" lat="48.8507531" lon="2.3350162"/>
+    <nd ref="735042921" lat="48.8507552" lon="2.3350379"/>
+    <nd ref="735042947" lat="48.8507730" lon="2.3350348"/>
+    <nd ref="735042914" lat="48.8507745" lon="2.3350553"/>
+    <nd ref="735042908" lat="48.8507571" lon="2.3350591"/>
+    <nd ref="735042949" lat="48.8507597" lon="2.3350891"/>
+    <nd ref="735042900" lat="48.8507737" lon="2.3350867"/>
+    <nd ref="735042939" lat="48.8507750" lon="2.3351061"/>
+    <nd ref="735042894" lat="48.8507806" lon="2.3351051"/>
+    <nd ref="735042932" lat="48.8507865" lon="2.3351756"/>
+    <nd ref="735042959" lat="48.8507815" lon="2.3351775"/>
+    <nd ref="735042925" lat="48.8507837" lon="2.3352079"/>
+    <nd ref="482164156" lat="48.8507946" lon="2.3352065"/>
+    <nd ref="806011804" lat="48.8507964" lon="2.3352360"/>
+    <nd ref="806011990" lat="48.8508050" lon="2.3353779"/>
+    <nd ref="735042953" lat="48.8508142" lon="2.3355287"/>
+    <nd ref="735042920" lat="48.8508168" lon="2.3355264"/>
+    <nd ref="806012170" lat="48.8508178" lon="2.3355630"/>
+    <nd ref="161599520" lat="48.8508202" lon="2.3356484"/>
+    <nd ref="735042897" lat="48.8508245" lon="2.3356695"/>
+    <nd ref="242921081" lat="48.8508358" lon="2.3356896"/>
+    <nd ref="735042935" lat="48.8508419" lon="2.3356953"/>
+    <nd ref="735042946" lat="48.8508518" lon="2.3357009"/>
+    <nd ref="161599522" lat="48.8508584" lon="2.3357026"/>
+    <nd ref="806011052" lat="48.8509348" lon="2.3356944"/>
+    <nd ref="5416384721" lat="48.8509886" lon="2.3356887"/>
+    <nd ref="5416384725" lat="48.8509964" lon="2.3356879"/>
+    <nd ref="5416384731" lat="48.8510043" lon="2.3356870"/>
+    <nd ref="735042922" lat="48.8510100" lon="2.3356864"/>
+    <nd ref="735042955" lat="48.8510100" lon="2.3356929"/>
+    <nd ref="161599524" lat="48.8511362" lon="2.3356761"/>
+    <nd ref="735042938" lat="48.8511332" lon="2.3356488"/>
+    <nd ref="735042930" lat="48.8511430" lon="2.3356171"/>
+    <nd ref="735042907" lat="48.8511560" lon="2.3356150"/>
+    <nd ref="260741484" lat="48.8511491" lon="2.3355368"/>
+    <nd ref="5416384722" lat="48.8511645" lon="2.3355231"/>
+    <nd ref="735042911" lat="48.8511753" lon="2.3355135"/>
+    <nd ref="735042893" lat="48.8511978" lon="2.3354808"/>
+    <nd ref="735042924" lat="48.8512290" lon="2.3354097"/>
+    <nd ref="735042952" lat="48.8512486" lon="2.3353215"/>
+    <nd ref="161599525" lat="48.8512774" lon="2.3353162"/>
+    <nd ref="806011335" lat="48.8512684" lon="2.3352060"/>
+    <nd ref="5426445805" lat="48.8512644" lon="2.3351516"/>
+    <nd ref="735042904" lat="48.8512627" lon="2.3351282"/>
+    <nd ref="735042936" lat="48.8512635" lon="2.3351236"/>
+    <nd ref="735042906" lat="48.8512656" lon="2.3351230"/>
+    <nd ref="735042929" lat="48.8512671" lon="2.3351199"/>
+    <nd ref="735042898" lat="48.8512680" lon="2.3351164"/>
+    <nd ref="735042923" lat="48.8512761" lon="2.3351147"/>
+    <nd ref="735042892" lat="48.8512736" lon="2.3350866"/>
+    <nd ref="735042917" lat="48.8512700" lon="2.3350874"/>
+    <nd ref="735042957" lat="48.8512630" lon="2.3350060"/>
+    <nd ref="735042910" lat="48.8512662" lon="2.3350053"/>
+    <nd ref="735042951" lat="48.8512651" lon="2.3349859"/>
+    <nd ref="735042903" lat="48.8512747" lon="2.3349834"/>
+    <nd ref="5426445803" lat="48.8512692" lon="2.3349179"/>
+    <nd ref="806011076" lat="48.8512654" lon="2.3348727"/>
+    <nd ref="5426445796" lat="48.8512614" lon="2.3348241"/>
+    <nd ref="5482812217" lat="48.8512573" lon="2.3347748"/>
+    <nd ref="735042944" lat="48.8512556" lon="2.3347549"/>
+    <nd ref="482164146" lat="48.8512454" lon="2.3347567"/>
+    <nd ref="735042896" lat="48.8512437" lon="2.3347365"/>
+    <nd ref="735042934" lat="48.8512398" lon="2.3347378"/>
+    <nd ref="806011192" lat="48.8512349" lon="2.3346788"/>
+    <nd ref="735042961" lat="48.8512331" lon="2.3346570"/>
+    <nd ref="735042927" lat="48.8512363" lon="2.3346567"/>
+    <nd ref="482164150" lat="48.8512347" lon="2.3346274"/>
+    <nd ref="735042942" lat="48.8512207" lon="2.3346236"/>
+    <nd ref="735042902" lat="48.8512194" lon="2.3346175"/>
+    <nd ref="482164149" lat="48.8512047" lon="2.3346193"/>
+    <nd ref="5482694803" lat="48.8511978" lon="2.3345288"/>
+    <nd ref="806010985" lat="48.8511893" lon="2.3344149"/>
+    <nd ref="5482694809" lat="48.8511813" lon="2.3343080"/>
+    <nd ref="806012107" lat="48.8511765" lon="2.3342447"/>
+    <nd ref="482164148" lat="48.8511730" lon="2.3341999"/>
+    <nd ref="482164147" lat="48.8512005" lon="2.3341946"/>
+    <nd ref="161599518" lat="48.8511853" lon="2.3340129"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Rue Palatine"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="denomination" v="roman_catholic"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="mhs"/>
+    <tag k="mhs:inscription_date" v="1915-05-20"/>
+    <tag k="name" v="Église Saint-Sulpice"/>
+    <tag k="name:es" v="Iglesia de San Sulpicio"/>
+    <tag k="name:ro" v="Parohia Ortodoxă Română &quot;Sfânta Parascheva&quot; și &quot;Sfânta Genoveva&quot; Paris 2"/>
+    <tag k="opening_hours" v="08:00-19:45"/>
+    <tag k="ref:FR:CEF" v="75106_06"/>
+    <tag k="ref:mhs" v="PA00088510"/>
+    <tag k="religion" v="christian"/>
+    <tag k="service_times" v="Mo-Fr 07:00,09:00,12:05,18:45; Sa 18:30; Su 07:00,09:00,11:00,18:30"/>
+    <tag k="source" v="Cadastre;mise à jour : 2010;survey"/>
+    <tag k="source:heritage" v="data.gouv.fr, Ministère de la Culture - 2016"/>
+    <tag k="source:ro" v="http://paris.mae.ro/node/287"/>
+    <tag k="start_date" v="C17"/>
+    <tag k="website" v="https://www.paroissesaintsulpice.paris/"/>
+    <tag k="wikidata" v="Q295844"/>
+    <tag k="wikipedia" v="fr:Église Saint-Sulpice de Paris"/>
+  </way>
+  <way id="19740659">
+    <bounds minlat="48.8518857" minlon="2.3453159" maxlat="48.8522970" maxlon="2.3461314"/>
+    <nd ref="544522094" lat="48.8522317" lon="2.3454320"/>
+    <nd ref="544522093" lat="48.8522166" lon="2.3454233"/>
+    <nd ref="544522092" lat="48.8522135" lon="2.3454303"/>
+    <nd ref="544522091" lat="48.8521922" lon="2.3454188"/>
+    <nd ref="544522090" lat="48.8521947" lon="2.3454082"/>
+    <nd ref="544522087" lat="48.8521876" lon="2.3454042"/>
+    <nd ref="544522089" lat="48.8521843" lon="2.3454148"/>
+    <nd ref="544522084" lat="48.8521734" lon="2.3454086"/>
+    <nd ref="544522085" lat="48.8521753" lon="2.3454002"/>
+    <nd ref="2345416308" lat="48.8521559" lon="2.3453893"/>
+    <nd ref="544522086" lat="48.8521308" lon="2.3453752"/>
+    <nd ref="544522083" lat="48.8521280" lon="2.3453835"/>
+    <nd ref="544522070" lat="48.8521149" lon="2.3453753"/>
+    <nd ref="544522071" lat="48.8521175" lon="2.3453647"/>
+    <nd ref="544522072" lat="48.8521104" lon="2.3453605"/>
+    <nd ref="544522073" lat="48.8521073" lon="2.3453712"/>
+    <nd ref="544522101" lat="48.8520796" lon="2.3453550"/>
+    <nd ref="544522074" lat="48.8520818" lon="2.3453446"/>
+    <nd ref="544522076" lat="48.8520754" lon="2.3453416"/>
+    <nd ref="544522077" lat="48.8520729" lon="2.3453506"/>
+    <nd ref="544522079" lat="48.8520355" lon="2.3453298"/>
+    <nd ref="544522078" lat="48.8520377" lon="2.3453187"/>
+    <nd ref="544522080" lat="48.8520326" lon="2.3453164"/>
+    <nd ref="544522081" lat="48.8520294" lon="2.3453263"/>
+    <nd ref="205261939" lat="48.8520104" lon="2.3453159"/>
+    <nd ref="2345416307" lat="48.8518946" lon="2.3457749"/>
+    <nd ref="696693130" lat="48.8518903" lon="2.3457919"/>
+    <nd ref="696693131" lat="48.8518857" lon="2.3458465"/>
+    <nd ref="205261940" lat="48.8518873" lon="2.3458583"/>
+    <nd ref="205261941" lat="48.8518996" lon="2.3459359"/>
+    <nd ref="205261942" lat="48.8519339" lon="2.3460138"/>
+    <nd ref="205261943" lat="48.8519943" lon="2.3460653"/>
+    <nd ref="544522102" lat="48.8520516" lon="2.3460798"/>
+    <nd ref="205261944" lat="48.8521093" lon="2.3460545"/>
+    <nd ref="696693147" lat="48.8521203" lon="2.3460730"/>
+    <nd ref="696693149" lat="48.8521202" lon="2.3460761"/>
+    <nd ref="544522117" lat="48.8521320" lon="2.3461136"/>
+    <nd ref="1109677560" lat="48.8521575" lon="2.3461299"/>
+    <nd ref="544522114" lat="48.8521598" lon="2.3461314"/>
+    <nd ref="205261945" lat="48.8521836" lon="2.3461141"/>
+    <nd ref="696693145" lat="48.8521909" lon="2.3460728"/>
+    <nd ref="696693144" lat="48.8521951" lon="2.3460704"/>
+    <nd ref="696693141" lat="48.8522160" lon="2.3459666"/>
+    <nd ref="696693142" lat="48.8522134" lon="2.3459649"/>
+    <nd ref="544522113" lat="48.8522970" lon="2.3455513"/>
+    <nd ref="544522112" lat="48.8522690" lon="2.3455373"/>
+    <nd ref="205261938" lat="48.8522859" lon="2.3454660"/>
+    <nd ref="544522100" lat="48.8522756" lon="2.3454604"/>
+    <nd ref="544522099" lat="48.8522782" lon="2.3454490"/>
+    <nd ref="544522098" lat="48.8522677" lon="2.3454433"/>
+    <nd ref="544522097" lat="48.8522645" lon="2.3454567"/>
+    <nd ref="544522095" lat="48.8522301" lon="2.3454380"/>
+    <nd ref="544522094" lat="48.8522317" lon="2.3454320"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="75005"/>
+    <tag k="addr:street" v="Rue des Prêtres Saint-Séverin"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="denomination" v="catholic"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="mhs"/>
+    <tag k="mhs:inscription_date" v="1862"/>
+    <tag k="name" v="Église Saint-Séverin"/>
+    <tag k="name:ru" v="Церковь Сен-Северин"/>
+    <tag k="opening_hours" v="Mo-Sa 09:30-13:00,14:00-19:30; Su 09:00-13:00,15:00-20:00"/>
+    <tag k="ref:FR:CEF" v="75105_06"/>
+    <tag k="ref:mhs" v="PA00088419"/>
+    <tag k="religion" v="christian"/>
+    <tag k="service_times" v="Mo-Fr 12:15,19:00; Sa 12:15; Su 10:30,12:00,19:00"/>
+    <tag k="source:heritage" v="data.gouv.fr:Ministère de la Culture - 04/2015"/>
+    <tag k="start_date" v="C13"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q1710376"/>
+    <tag k="wikipedia" v="fr:Église Saint-Séverin"/>
+  </way>
+  <way id="40579763">
+    <bounds minlat="48.8520655" minlon="2.3427322" maxlat="48.8523199" maxlon="2.3430350"/>
+    <nd ref="492529787" lat="48.8521371" lon="2.3427322"/>
+    <nd ref="707076290" lat="48.8522685" lon="2.3428398"/>
+    <nd ref="492529793" lat="48.8523199" lon="2.3428819"/>
+    <nd ref="492529796" lat="48.8522630" lon="2.3430350"/>
+    <nd ref="492529801" lat="48.8520655" lon="2.3428718"/>
+    <nd ref="492529803" lat="48.8521104" lon="2.3427443"/>
+    <nd ref="7720101446" lat="48.8521237" lon="2.3427383"/>
+    <nd ref="492529787" lat="48.8521371" lon="2.3427322"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Rue Hautefeuille"/>
+    <tag k="amenity" v="cinema"/>
+    <tag k="brand" v="MK2"/>
+    <tag k="brand:website" v="https://www.mk2.com"/>
+    <tag k="brand:wikidata" v="Q19814222"/>
+    <tag k="brand:wikipedia" v="fr:MK2"/>
+    <tag k="building" v="yes"/>
+    <tag k="capacity" v="690"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/mk2odeonstmichel"/>
+    <tag k="description" v="Art et Essai"/>
+    <tag k="name" v="MK2 Odéon (côté Saint-Michel)"/>
+    <tag k="old_name" v="MK2 Hautefeuille"/>
+    <tag k="operator" v="MK2"/>
+    <tag k="ref:FR:CNC" v="721"/>
+    <tag k="screen" v="4"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009"/>
+    <tag k="website" v="https://www.mk2.com/salles/mk2-odeon-0"/>
+    <tag k="wikidata" v="Q3273028"/>
+  </way>
+  <way id="55445444">
+    <bounds minlat="48.8527230" minlon="2.3440426" maxlat="48.8529152" maxlon="2.3443149"/>
+    <nd ref="696747597" lat="48.8528814" lon="2.3442685"/>
+    <nd ref="696747586" lat="48.8529152" lon="2.3441046"/>
+    <nd ref="708488378" lat="48.8528690" lon="2.3440825"/>
+    <nd ref="696747587" lat="48.8527844" lon="2.3440426"/>
+    <nd ref="696747584" lat="48.8527595" lon="2.3440612"/>
+    <nd ref="708685455" lat="48.8527454" lon="2.3441122"/>
+    <nd ref="10232511369" lat="48.8527250" lon="2.3441864"/>
+    <nd ref="696747585" lat="48.8527230" lon="2.3441935"/>
+    <nd ref="696747591" lat="48.8527523" lon="2.3442092"/>
+    <nd ref="696747603" lat="48.8527942" lon="2.3442652"/>
+    <nd ref="696747604" lat="48.8528119" lon="2.3443149"/>
+    <nd ref="696747605" lat="48.8528339" lon="2.3442978"/>
+    <nd ref="696747606" lat="48.8528775" lon="2.3442476"/>
+    <nd ref="696747597" lat="48.8528814" lon="2.3442685"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="75005"/>
+    <tag k="addr:street" v="Boulevard Saint-Michel"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="6"/>
+    <tag k="email" v="hotelroyalsaintmichel@wanadoo.fr"/>
+    <tag k="fax" v="+33 1 44 07 36 25"/>
+    <tag k="name" v="Royal Saint-Michel"/>
+    <tag k="operator" v="Best Western Premier"/>
+    <tag k="phone" v="+33 1 44 07 06 06"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="stars" v="4"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.hotelroyalsaintmichel.com/"/>
+    <tag k="wheelchair" v="limited"/>
+  </way>
+  <way id="55785763">
+    <bounds minlat="48.8491880" minlon="2.3429236" maxlat="48.8493374" maxlon="2.3431735"/>
+    <nd ref="700748959" lat="48.8492376" lon="2.3429236"/>
+    <nd ref="700748958" lat="48.8491880" lon="2.3431173"/>
+    <nd ref="719041120" lat="48.8492365" lon="2.3431446"/>
+    <nd ref="10250939571" lat="48.8492576" lon="2.3431565"/>
+    <nd ref="700748960" lat="48.8492879" lon="2.3431735"/>
+    <nd ref="700748961" lat="48.8493374" lon="2.3429792"/>
+    <nd ref="700748959" lat="48.8492376" lon="2.3429236"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="75005"/>
+    <tag k="addr:street" v="Rue de la Sorbonne"/>
+    <tag k="building" v="university"/>
+    <tag k="name" v="Lettres Sorbonne Université - Site Champollion"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="56645234">
+    <bounds minlat="48.8509564" minlon="2.3400064" maxlat="48.8519751" maxlon="2.3418225"/>
+    <nd ref="205272413" lat="48.8519751" lon="2.3401696"/>
+    <nd ref="708684530" lat="48.8519064" lon="2.3400882"/>
+    <nd ref="205272414" lat="48.8518375" lon="2.3400064"/>
+    <nd ref="205272415" lat="48.8515627" lon="2.3402926"/>
+    <nd ref="10121846477" lat="48.8513818" lon="2.3405539"/>
+    <nd ref="708684516" lat="48.8512438" lon="2.3407524"/>
+    <nd ref="205272416" lat="48.8511999" lon="2.3408163"/>
+    <nd ref="205272417" lat="48.8509564" lon="2.3412552"/>
+    <nd ref="10121846421" lat="48.8509619" lon="2.3413018"/>
+    <nd ref="205272418" lat="48.8509643" lon="2.3413228"/>
+    <nd ref="205272420" lat="48.8515550" lon="2.3418225"/>
+    <nd ref="205272421" lat="48.8515738" lon="2.3418122"/>
+    <nd ref="708454476" lat="48.8516304" lon="2.3415838"/>
+    <nd ref="708454532" lat="48.8516358" lon="2.3415868"/>
+    <nd ref="708454273" lat="48.8517663" lon="2.3410508"/>
+    <nd ref="708454516" lat="48.8517716" lon="2.3410538"/>
+    <nd ref="708454445" lat="48.8517745" lon="2.3410414"/>
+    <nd ref="708454547" lat="48.8517687" lon="2.3410374"/>
+    <nd ref="708684538" lat="48.8517761" lon="2.3410079"/>
+    <nd ref="708454330" lat="48.8517839" lon="2.3409774"/>
+    <nd ref="708454487" lat="48.8517891" lon="2.3409803"/>
+    <nd ref="708454411" lat="48.8517925" lon="2.3409678"/>
+    <nd ref="708454218" lat="48.8517873" lon="2.3409646"/>
+    <nd ref="708454384" lat="48.8519195" lon="2.3404279"/>
+    <nd ref="708454280" lat="48.8519138" lon="2.3404246"/>
+    <nd ref="205272413" lat="48.8519751" lon="2.3401696"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="75006"/>
+    <tag k="addr:street" v="Rue de l'École de Médecine"/>
+    <tag k="building" v="university"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="name" v="Faculté de Médecine (Université de Paris)"/>
+    <tag k="roof:levels" v="1"/>
+    <tag k="website" v="https://www.parisdescartes.fr/"/>
+    <tag k="wikidata" v="Q55849612"/>
+    <tag k="wikipedia" v="fr:Université de Paris (2019)"/>
+  </way>
+  <way id="58426944">
+    <bounds minlat="48.8473807" minlon="2.3422709" maxlat="48.8475491" maxlon="2.3426567"/>
+    <nd ref="724280344" lat="48.8473807" lon="2.3426196"/>
+    <nd ref="724280343" lat="48.8474205" lon="2.3426392"/>
+    <nd ref="724331682" lat="48.8474575" lon="2.3426567"/>
+    <nd ref="724331691" lat="48.8474803" lon="2.3425730"/>
+    <nd ref="724331693" lat="48.8474912" lon="2.3425356"/>
+    <nd ref="724331662" lat="48.8475491" lon="2.3423174"/>
+    <nd ref="724331671" lat="48.8475081" lon="2.3422912"/>
+    <nd ref="724331666" lat="48.8474765" lon="2.3422709"/>
+    <nd ref="724331675" lat="48.8474156" lon="2.3424918"/>
+    <nd ref="724280344" lat="48.8473807" lon="2.3426196"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="75005"/>
+    <tag k="addr:street" v="Rue Victor Cousin"/>
+    <tag k="alt_name" v="Le Panthéon"/>
+    <tag k="amenity" v="cinema"/>
+    <tag k="atm" v="no"/>
+    <tag k="building" v="yes"/>
+    <tag k="contact:phone" v="+33 1 40 46 01 21"/>
+    <tag k="description" v="Cinéma indépendant - Art et Essai"/>
+    <tag k="name" v="Cinéma du Panthéon"/>
+    <tag k="ref:FR:CNC" v="8391"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2010"/>
+    <tag k="website" v="https://www.whynotproductions.fr/pantheon/"/>
+    <tag k="wikidata" v="Q2973174"/>
+    <tag k="wikipedia" v="fr:Cinéma du Panthéon"/>
+  </way>
+  <way id="791813178">
+    <bounds minlat="48.8501575" minlon="2.3401734" maxlat="48.8506631" maxlon="2.3410025"/>
+    <nd ref="708609383" lat="48.8505548" lon="2.3401734"/>
+    <nd ref="7402378196" lat="48.8504163" lon="2.3402211"/>
+    <nd ref="7402378197" lat="48.8503056" lon="2.3402677"/>
+    <nd ref="7402378198" lat="48.8501575" lon="2.3403091"/>
+    <nd ref="7402378199" lat="48.8502017" lon="2.3405963"/>
+    <nd ref="7402378200" lat="48.8503516" lon="2.3405393"/>
+    <nd ref="7402378201" lat="48.8503754" lon="2.3406816"/>
+    <nd ref="7402378202" lat="48.8502852" lon="2.3407127"/>
+    <nd ref="7402378203" lat="48.8502750" lon="2.3406454"/>
+    <nd ref="7402378204" lat="48.8502188" lon="2.3406687"/>
+    <nd ref="7402378205" lat="48.8502273" lon="2.3407308"/>
+    <nd ref="7402378206" lat="48.8502664" lon="2.3410025"/>
+    <nd ref="7402378207" lat="48.8506631" lon="2.3408602"/>
+    <nd ref="708609251" lat="48.8506578" lon="2.3408053"/>
+    <nd ref="708609327" lat="48.8506267" lon="2.3405903"/>
+    <nd ref="7402378208" lat="48.8504776" lon="2.3406454"/>
+    <nd ref="7402378209" lat="48.8504537" lon="2.3404954"/>
+    <nd ref="708609338" lat="48.8505999" lon="2.3404443"/>
+    <nd ref="708609383" lat="48.8505548" lon="2.3401734"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="75006"/>
+    <tag k="addr:street" v="Rue de l'École de Médecine"/>
+    <tag k="building" v="university"/>
+    <tag k="name" v="Université de Paris - Site Cordeliers"/>
+  </way>
+  <way id="57380510">
+    <bounds minlat="48.8415968" minlon="2.3482882" maxlat="48.8418598" maxlon="2.3491730"/>
+    <nd ref="713465199" lat="48.8418191" lon="2.3482882"/>
+    <nd ref="713465239" lat="48.8418410" lon="2.3485425"/>
+    <nd ref="713465277" lat="48.8418596" lon="2.3486895"/>
+    <nd ref="713465229" lat="48.8418598" lon="2.3486975"/>
+    <nd ref="713465246" lat="48.8418173" lon="2.3487120"/>
+    <nd ref="713465207" lat="48.8417153" lon="2.3491360"/>
+    <nd ref="713465200" lat="48.8418263" lon="2.3491392"/>
+    <nd ref="713465248" lat="48.8418256" lon="2.3491730"/>
+    <nd ref="713465212" lat="48.8418029" lon="2.3491672"/>
+    <nd ref="713465258" lat="48.8417430" lon="2.3491606"/>
+    <nd ref="713465230" lat="48.8416753" lon="2.3491634"/>
+    <nd ref="713465250" lat="48.8415968" lon="2.3491205"/>
+    <nd ref="713499941" lat="48.8416400" lon="2.3489404"/>
+    <nd ref="713499693" lat="48.8416799" lon="2.3487738"/>
+    <nd ref="713500058" lat="48.8417214" lon="2.3486007"/>
+    <nd ref="713499711" lat="48.8417733" lon="2.3483843"/>
+    <nd ref="713465213" lat="48.8417889" lon="2.3483192"/>
+    <nd ref="713465259" lat="48.8418166" lon="2.3482884"/>
+    <nd ref="713465199" lat="48.8418191" lon="2.3482882"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="6-12"/>
+    <tag k="addr:postcode" v="75005"/>
+    <tag k="addr:street" v="Rue Jean Calvin"/>
+    <tag k="building" v="commercial"/>
+    <tag k="building:levels" v="8"/>
+    <tag k="name" v="Institut Pierre-Gilles de Gennes"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2010"/>
+  </way>
+  <way id="55353484">
+    <bounds minlat="48.8479292" minlon="2.3464909" maxlat="48.8481600" maxlon="2.3469677"/>
+    <nd ref="695279944" lat="48.8480067" lon="2.3464909"/>
+    <nd ref="719160678" lat="48.8480374" lon="2.3465054"/>
+    <nd ref="719160679" lat="48.8481119" lon="2.3465406"/>
+    <nd ref="695279977" lat="48.8481600" lon="2.3465633"/>
+    <nd ref="695280004" lat="48.8481400" lon="2.3466553"/>
+    <nd ref="695280005" lat="48.8481394" lon="2.3466572"/>
+    <nd ref="695279998" lat="48.8481218" lon="2.3466492"/>
+    <nd ref="695280073" lat="48.8480521" lon="2.3469677"/>
+    <nd ref="9993744287" lat="48.8480374" lon="2.3469604"/>
+    <nd ref="719160688" lat="48.8479399" lon="2.3469133"/>
+    <nd ref="695279875" lat="48.8479292" lon="2.3469081"/>
+    <nd ref="7403465547" lat="48.8479546" lon="2.3467712"/>
+    <nd ref="695279944" lat="48.8480067" lon="2.3464909"/>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="75005"/>
+    <tag k="addr:street" v="Rue Valette"/>
+    <tag k="amenity" v="university"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="CNRS UMR PRODIG - Université Paris 1 Panthéon-Sorbonne"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="55366403">
+    <bounds minlat="48.8493750" minlon="2.3469931" maxlat="48.8496009" maxlon="2.3474018"/>
+    <nd ref="695640658" lat="48.8494425" lon="2.3469931"/>
+    <nd ref="695640671" lat="48.8493941" lon="2.3471554"/>
+    <nd ref="695640673" lat="48.8494162" lon="2.3471734"/>
+    <nd ref="695640674" lat="48.8494046" lon="2.3472069"/>
+    <nd ref="695640676" lat="48.8494010" lon="2.3472045"/>
+    <nd ref="695640682" lat="48.8493978" lon="2.3472142"/>
+    <nd ref="695640683" lat="48.8494014" lon="2.3472178"/>
+    <nd ref="695640684" lat="48.8493895" lon="2.3472516"/>
+    <nd ref="695640685" lat="48.8493863" lon="2.3472492"/>
+    <nd ref="695640686" lat="48.8493825" lon="2.3472594"/>
+    <nd ref="695640687" lat="48.8493859" lon="2.3472631"/>
+    <nd ref="695640681" lat="48.8493750" lon="2.3472957"/>
+    <nd ref="695640719" lat="48.8494190" lon="2.3473290"/>
+    <nd ref="695640720" lat="48.8494225" lon="2.3473427"/>
+    <nd ref="695640721" lat="48.8494266" lon="2.3473412"/>
+    <nd ref="695640722" lat="48.8494353" lon="2.3473692"/>
+    <nd ref="695640723" lat="48.8494331" lon="2.3473743"/>
+    <nd ref="695640724" lat="48.8494401" lon="2.3473834"/>
+    <nd ref="695640725" lat="48.8494431" lon="2.3473787"/>
+    <nd ref="695640726" lat="48.8494617" lon="2.3473930"/>
+    <nd ref="695640727" lat="48.8494615" lon="2.3474012"/>
+    <nd ref="695640731" lat="48.8494693" lon="2.3474018"/>
+    <nd ref="695640732" lat="48.8494704" lon="2.3473952"/>
+    <nd ref="695640733" lat="48.8494904" lon="2.3473892"/>
+    <nd ref="695640734" lat="48.8494926" lon="2.3473957"/>
+    <nd ref="695640735" lat="48.8495007" lon="2.3473899"/>
+    <nd ref="695640736" lat="48.8494988" lon="2.3473840"/>
+    <nd ref="695640747" lat="48.8495132" lon="2.3473608"/>
+    <nd ref="695640748" lat="48.8495175" lon="2.3473631"/>
+    <nd ref="695640749" lat="48.8495210" lon="2.3473518"/>
+    <nd ref="695640750" lat="48.8495172" lon="2.3473492"/>
+    <nd ref="695640751" lat="48.8495265" lon="2.3473215"/>
+    <nd ref="695640752" lat="48.8495305" lon="2.3473232"/>
+    <nd ref="695640753" lat="48.8495342" lon="2.3473117"/>
+    <nd ref="695640754" lat="48.8495308" lon="2.3473090"/>
+    <nd ref="695640697" lat="48.8495424" lon="2.3472756"/>
+    <nd ref="695640698" lat="48.8495462" lon="2.3472776"/>
+    <nd ref="695640699" lat="48.8495502" lon="2.3472669"/>
+    <nd ref="695640700" lat="48.8495473" lon="2.3472632"/>
+    <nd ref="695640701" lat="48.8495595" lon="2.3472274"/>
+    <nd ref="695640702" lat="48.8495633" lon="2.3472295"/>
+    <nd ref="695640703" lat="48.8495668" lon="2.3472182"/>
+    <nd ref="695640704" lat="48.8495634" lon="2.3472146"/>
+    <nd ref="695640705" lat="48.8495756" lon="2.3471796"/>
+    <nd ref="695640706" lat="48.8495791" lon="2.3471821"/>
+    <nd ref="695640707" lat="48.8495828" lon="2.3471720"/>
+    <nd ref="695640708" lat="48.8495795" lon="2.3471686"/>
+    <nd ref="695640709" lat="48.8495849" lon="2.3471507"/>
+    <nd ref="695640710" lat="48.8495896" lon="2.3471499"/>
+    <nd ref="695640695" lat="48.8496009" lon="2.3471166"/>
+    <nd ref="695640688" lat="48.8495888" lon="2.3471076"/>
+    <nd ref="695640690" lat="48.8495869" lon="2.3471136"/>
+    <nd ref="9583936014" lat="48.8495517" lon="2.3470863"/>
+    <nd ref="695640692" lat="48.8495179" lon="2.3470600"/>
+    <nd ref="695640693" lat="48.8495197" lon="2.3470539"/>
+    <nd ref="718691845" lat="48.8495002" lon="2.3470386"/>
+    <nd ref="695640658" lat="48.8494425" lon="2.3469931"/>
+    <tag k="addr:housenumber" v="9b"/>
+    <tag k="addr:postcode" v="75005"/>
+    <tag k="addr:street" v="Rue Jean de Beauvais"/>
+    <tag k="alt_name" v="Église des Saints-Archanges"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="romanian_orthodox"/>
+    <tag k="name" v="Église Orthodoxe Roumaine des Saints Archanges"/>
+    <tag k="name:ro" v="Catedrala Ortodoxă Română „Sfinții Arhangheli”"/>
+    <tag k="phone" v="+33 1.43.54.67.47"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="website" v="http://www.egliseroumaine.com/"/>
+    <tag k="wikidata" v="Q3585930"/>
+    <tag k="wikipedia" v="fr:Église des Saints-Archanges"/>
+  </way>
+  <relation id="899534">
+    <bounds minlat="48.8379043" minlon="2.3183590" maxlat="48.8386408" maxlon="2.3194090"/>
+    <member type="way" ref="57959932" role="inner">
+      <nd lat="48.8381639" lon="2.3186082"/>
+      <nd lat="48.8380611" lon="2.3188075"/>
+      <nd lat="48.8384087" lon="2.3192186"/>
+      <nd lat="48.8385115" lon="2.3190192"/>
+      <nd lat="48.8381639" lon="2.3186082"/>
+    </member>
+    <member type="way" ref="29402636" role="outer">
+      <nd lat="48.8381260" lon="2.3183590"/>
+      <nd lat="48.8379237" lon="2.3187493"/>
+      <nd lat="48.8379043" lon="2.3187857"/>
+      <nd lat="48.8380869" lon="2.3189999"/>
+      <nd lat="48.8383609" lon="2.3193213"/>
+      <nd lat="48.8384106" lon="2.3193796"/>
+      <nd lat="48.8384357" lon="2.3194090"/>
+      <nd lat="48.8385597" lon="2.3191652"/>
+      <nd lat="48.8386408" lon="2.3190056"/>
+      <nd lat="48.8386308" lon="2.3189930"/>
+      <nd lat="48.8385715" lon="2.3189185"/>
+      <nd lat="48.8381260" lon="2.3183590"/>
+    </member>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="75014"/>
+    <tag k="addr:street" v="Rue du Commandant René Mouchotte"/>
+    <tag k="building" v="office"/>
+    <tag k="building:levels" v="14"/>
+    <tag k="building:levels:underground" v="3"/>
+    <tag k="name" v="SNCF - Campus Île-de-France"/>
+    <tag k="note" v="siège de SNCF Transilien"/>
+    <tag k="office" v="company"/>
+    <tag k="operator" v="SNCF"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1212998">
+    <bounds minlat="48.8287920" minlon="2.3322145" maxlat="48.8289273" maxlon="2.3324093"/>
+    <member type="way" ref="79628743" role="inner">
+      <nd lat="48.8288201" lon="2.3323066"/>
+      <nd lat="48.8288579" lon="2.3323196"/>
+      <nd lat="48.8288476" lon="2.3323889"/>
+      <nd lat="48.8288381" lon="2.3323803"/>
+      <nd lat="48.8288424" lon="2.3323479"/>
+      <nd lat="48.8288187" lon="2.3323447"/>
+      <nd lat="48.8288201" lon="2.3323066"/>
+    </member>
+    <member type="way" ref="79628689" role="outer">
+      <nd lat="48.8287999" lon="2.3323595"/>
+      <nd lat="48.8287920" lon="2.3324093"/>
+      <nd lat="48.8288246" lon="2.3324063"/>
+      <nd lat="48.8289273" lon="2.3324003"/>
+      <nd lat="48.8289227" lon="2.3322823"/>
+      <nd lat="48.8289008" lon="2.3322416"/>
+      <nd lat="48.8288713" lon="2.3322327"/>
+      <nd lat="48.8288265" lon="2.3322145"/>
+      <nd lat="48.8288023" lon="2.3323453"/>
+      <nd lat="48.8287999" lon="2.3323595"/>
+    </member>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Rue du Commandeur"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1212876">
+    <bounds minlat="48.8429600" minlon="2.3183677" maxlat="48.8434557" maxlon="2.3189490"/>
+    <member type="way" ref="80293048" role="inner">
+      <nd lat="48.8432599" lon="2.3184544"/>
+      <nd lat="48.8432627" lon="2.3184692"/>
+      <nd lat="48.8433154" lon="2.3184483"/>
+      <nd lat="48.8433721" lon="2.3187743"/>
+      <nd lat="48.8432907" lon="2.3188076"/>
+      <nd lat="48.8432313" lon="2.3184655"/>
+      <nd lat="48.8432599" lon="2.3184544"/>
+    </member>
+    <member type="way" ref="80292644" role="outer">
+      <nd lat="48.8431987" lon="2.3184577"/>
+      <nd lat="48.8429600" lon="2.3185579"/>
+      <nd lat="48.8429656" lon="2.3185894"/>
+      <nd lat="48.8429700" lon="2.3186139"/>
+      <nd lat="48.8431305" lon="2.3185498"/>
+      <nd lat="48.8431722" lon="2.3188022"/>
+      <nd lat="48.8430139" lon="2.3188646"/>
+      <nd lat="48.8430288" lon="2.3189490"/>
+      <nd lat="48.8432610" lon="2.3188580"/>
+      <nd lat="48.8432848" lon="2.3188486"/>
+      <nd lat="48.8434409" lon="2.3187874"/>
+      <nd lat="48.8434275" lon="2.3187162"/>
+      <nd lat="48.8434557" lon="2.3187076"/>
+      <nd lat="48.8434459" lon="2.3186306"/>
+      <nd lat="48.8434132" lon="2.3183677"/>
+      <nd lat="48.8433191" lon="2.3184066"/>
+      <nd lat="48.8432560" lon="2.3184322"/>
+      <nd lat="48.8431987" lon="2.3184577"/>
+    </member>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="75015"/>
+    <tag k="addr:street" v="Rue Antoine Bourdelle"/>
+    <tag k="building" v="yes"/>
+    <tag k="fax" v="+33 1 45 44 21 65"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="internet_access:operator" v="Mairie de Paris"/>
+    <tag k="name" v="Musée Bourdelle"/>
+    <tag k="name:es" v="Museo Antoine Bourdelle"/>
+    <tag k="name:etymology:wikidata" v="Q314350"/>
+    <tag k="name:ru" v="Дом-музей Бурделя"/>
+    <tag k="opening_hours" v="Tu-Su 10:00-18:00"/>
+    <tag k="operator" v="Ville de Paris"/>
+    <tag k="phone" v="+33 1 49 54 73 73"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="website" v="https://www.bourdelle.paris.fr/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q2715373"/>
+    <tag k="wikipedia" v="fr:Musée Bourdelle"/>
+  </relation>
+  <relation id="1213108">
+    <bounds minlat="48.8411583" minlon="2.3281921" maxlat="48.8416839" maxlon="2.3285027"/>
+    <member type="way" ref="79621548" role="inner">
+      <nd lat="48.8415541" lon="2.3282693"/>
+      <nd lat="48.8415598" lon="2.3283091"/>
+      <nd lat="48.8415255" lon="2.3283191"/>
+      <nd lat="48.8415214" lon="2.3282784"/>
+      <nd lat="48.8415541" lon="2.3282693"/>
+    </member>
+    <member type="way" ref="79621211" role="outer">
+      <nd lat="48.8416592" lon="2.3281921"/>
+      <nd lat="48.8415494" lon="2.3282259"/>
+      <nd lat="48.8411583" lon="2.3283466"/>
+      <nd lat="48.8412336" lon="2.3284731"/>
+      <nd lat="48.8412479" lon="2.3284973"/>
+      <nd lat="48.8412517" lon="2.3285027"/>
+      <nd lat="48.8416839" lon="2.3283728"/>
+      <nd lat="48.8416715" lon="2.3282819"/>
+      <nd lat="48.8416592" lon="2.3281921"/>
+    </member>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="75014"/>
+    <tag k="addr:street" v="Rue Delambre"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="6"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="1000995">
+    <bounds minlat="48.8512049" minlon="2.3294551" maxlat="48.8513722" maxlon="2.3297762"/>
+    <member type="way" ref="63382101" role="inner">
+      <nd lat="48.8512442" lon="2.3296260"/>
+      <nd lat="48.8512724" lon="2.3296459"/>
+      <nd lat="48.8512662" lon="2.3296625"/>
+      <nd lat="48.8512394" lon="2.3296394"/>
+      <nd lat="48.8512442" lon="2.3296260"/>
+    </member>
+    <member type="way" ref="63382121" role="outer">
+      <nd lat="48.8512051" lon="2.3296922"/>
+      <nd lat="48.8512049" lon="2.3296950"/>
+      <nd lat="48.8512494" lon="2.3297234"/>
+      <nd lat="48.8512434" lon="2.3297443"/>
+      <nd lat="48.8512684" lon="2.3297603"/>
+      <nd lat="48.8512686" lon="2.3297595"/>
+      <nd lat="48.8512744" lon="2.3297405"/>
+      <nd lat="48.8513267" lon="2.3297762"/>
+      <nd lat="48.8513281" lon="2.3297707"/>
+      <nd lat="48.8513570" lon="2.3296903"/>
+      <nd lat="48.8513679" lon="2.3296589"/>
+      <nd lat="48.8513722" lon="2.3296476"/>
+      <nd lat="48.8513073" lon="2.3295899"/>
+      <nd lat="48.8513003" lon="2.3295565"/>
+      <nd lat="48.8512946" lon="2.3295521"/>
+      <nd lat="48.8513043" lon="2.3295274"/>
+      <nd lat="48.8513159" lon="2.3295223"/>
+      <nd lat="48.8513301" lon="2.3294862"/>
+      <nd lat="48.8512950" lon="2.3294551"/>
+      <nd lat="48.8512051" lon="2.3296922"/>
+    </member>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="75006"/>
+    <tag k="addr:street" v="Rue du Cherche-Midi"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="572441">
+    <bounds minlat="48.8466955" minlon="2.3443149" maxlat="48.8471582" maxlon="2.3452080"/>
+    <member type="way" ref="56139807" role="inner">
+      <nd lat="48.8470354" lon="2.3446350"/>
+      <nd lat="48.8469642" lon="2.3448630"/>
+      <nd lat="48.8469345" lon="2.3448483"/>
+      <nd lat="48.8469297" lon="2.3448636"/>
+      <nd lat="48.8469258" lon="2.3448713"/>
+      <nd lat="48.8469174" lon="2.3448832"/>
+      <nd lat="48.8469092" lon="2.3448900"/>
+      <nd lat="48.8468953" lon="2.3448951"/>
+      <nd lat="48.8468833" lon="2.3448940"/>
+      <nd lat="48.8468773" lon="2.3448918"/>
+      <nd lat="48.8468719" lon="2.3448883"/>
+      <nd lat="48.8468622" lon="2.3448788"/>
+      <nd lat="48.8468578" lon="2.3448724"/>
+      <nd lat="48.8468522" lon="2.3448596"/>
+      <nd lat="48.8468492" lon="2.3448499"/>
+      <nd lat="48.8468467" lon="2.3448319"/>
+      <nd lat="48.8468472" lon="2.3448155"/>
+      <nd lat="48.8468486" lon="2.3448060"/>
+      <nd lat="48.8468188" lon="2.3447914"/>
+      <nd lat="48.8468730" lon="2.3445548"/>
+      <nd lat="48.8470354" lon="2.3446350"/>
+    </member>
+    <member type="way" ref="791935190" role="outer">
+      <nd lat="48.8467608" lon="2.3443149"/>
+      <nd lat="48.8467371" lon="2.3444150"/>
+      <nd lat="48.8467011" lon="2.3446065"/>
+      <nd lat="48.8466996" lon="2.3446059"/>
+      <nd lat="48.8466955" lon="2.3446248"/>
+      <nd lat="48.8467081" lon="2.3446309"/>
+      <nd lat="48.8467087" lon="2.3446284"/>
+      <nd lat="48.8467391" lon="2.3446434"/>
+      <nd lat="48.8467385" lon="2.3446461"/>
+      <nd lat="48.8467445" lon="2.3446490"/>
+      <nd lat="48.8467425" lon="2.3446576"/>
+      <nd lat="48.8467445" lon="2.3446589"/>
+      <nd lat="48.8467339" lon="2.3447044"/>
+      <nd lat="48.8467323" lon="2.3447035"/>
+      <nd lat="48.8467279" lon="2.3447225"/>
+      <nd lat="48.8467386" lon="2.3447340"/>
+      <nd lat="48.8467401" lon="2.3447317"/>
+      <nd lat="48.8467642" lon="2.3447617"/>
+      <nd lat="48.8467627" lon="2.3447636"/>
+      <nd lat="48.8467678" lon="2.3447712"/>
+      <nd lat="48.8467569" lon="2.3447879"/>
+      <nd lat="48.8467619" lon="2.3447954"/>
+      <nd lat="48.8467545" lon="2.3448056"/>
+      <nd lat="48.8467673" lon="2.3448268"/>
+      <nd lat="48.8467688" lon="2.3448253"/>
+      <nd lat="48.8467800" lon="2.3448471"/>
+      <nd lat="48.8467785" lon="2.3448490"/>
+      <nd lat="48.8467885" lon="2.3448720"/>
+      <nd lat="48.8467904" lon="2.3448704"/>
+      <nd lat="48.8467973" lon="2.3448927"/>
+      <nd lat="48.8468052" lon="2.3449182"/>
+      <nd lat="48.8468032" lon="2.3449198"/>
+      <nd lat="48.8468111" lon="2.3449451"/>
+      <nd lat="48.8468133" lon="2.3449451"/>
+      <nd lat="48.8468173" lon="2.3449691"/>
+      <nd lat="48.8468153" lon="2.3449694"/>
+      <nd lat="48.8468189" lon="2.3449972"/>
+      <nd lat="48.8468287" lon="2.3449948"/>
+      <nd lat="48.8468299" lon="2.3450051"/>
+      <nd lat="48.8468452" lon="2.3450018"/>
+      <nd lat="48.8468459" lon="2.3450109"/>
+      <nd lat="48.8468475" lon="2.3450108"/>
+      <nd lat="48.8468500" lon="2.3450586"/>
+      <nd lat="48.8468483" lon="2.3450587"/>
+      <nd lat="48.8468478" lon="2.3450786"/>
+      <nd lat="48.8468602" lon="2.3450849"/>
+      <nd lat="48.8468609" lon="2.3450820"/>
+      <nd lat="48.8468911" lon="2.3450969"/>
+      <nd lat="48.8468906" lon="2.3450996"/>
+      <nd lat="48.8468960" lon="2.3451021"/>
+      <nd lat="48.8468941" lon="2.3451113"/>
+      <nd lat="48.8468959" lon="2.3451124"/>
+      <nd lat="48.8468864" lon="2.3451583"/>
+      <nd lat="48.8468843" lon="2.3451574"/>
+      <nd lat="48.8468805" lon="2.3451767"/>
+      <nd lat="48.8468953" lon="2.3451839"/>
+      <nd lat="48.8468955" lon="2.3451810"/>
+      <nd lat="48.8469289" lon="2.3451979"/>
+      <nd lat="48.8469284" lon="2.3452008"/>
+      <nd lat="48.8469429" lon="2.3452080"/>
+      <nd lat="48.8469435" lon="2.3452051"/>
+      <nd lat="48.8469492" lon="2.3452016"/>
+      <nd lat="48.8469534" lon="2.3451990"/>
+      <nd lat="48.8469550" lon="2.3452004"/>
+      <nd lat="48.8469619" lon="2.3451793"/>
+      <nd lat="48.8469602" lon="2.3451781"/>
+      <nd lat="48.8470008" lon="2.3450482"/>
+      <nd lat="48.8470615" lon="2.3448540"/>
+      <nd lat="48.8471582" lon="2.3445437"/>
+      <nd lat="48.8469323" lon="2.3444005"/>
+      <nd lat="48.8467608" lon="2.3443149"/>
+    </member>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="75005"/>
+    <tag k="addr:street" v="Place du Panthéon"/>
+    <tag k="alt_name" v="Université Panthéon-Sorbonne"/>
+    <tag k="amenity" v="university"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="7"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="Université Paris II Panthéon-Assas"/>
+    <tag k="operator" v="Université Paris II Panthéon-Assas"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="website" v="https://www.u-paris2.fr/"/>
+    <tag k="wikidata" v="Q662976"/>
+    <tag k="wikipedia" v="fr:Université Panthéon-Assas"/>
+  </relation>
+  <relation id="660657">
+    <bounds minlat="48.8455881" minlon="2.3439188" maxlat="48.8464193" maxlon="2.3447443"/>
+    <member type="way" ref="56755376" role="outer">
+      <nd lat="48.8462257" lon="2.3441193"/>
+      <nd lat="48.8462596" lon="2.3441657"/>
+      <nd lat="48.8462716" lon="2.3441821"/>
+      <nd lat="48.8463181" lon="2.3442459"/>
+      <nd lat="48.8464193" lon="2.3443000"/>
+      <nd lat="48.8463909" lon="2.3444157"/>
+      <nd lat="48.8463831" lon="2.3444473"/>
+      <nd lat="48.8463853" lon="2.3444490"/>
+      <nd lat="48.8463801" lon="2.3444672"/>
+      <nd lat="48.8463674" lon="2.3444606"/>
+      <nd lat="48.8463679" lon="2.3444578"/>
+      <nd lat="48.8463381" lon="2.3444424"/>
+      <nd lat="48.8463374" lon="2.3444453"/>
+      <nd lat="48.8463313" lon="2.3444426"/>
+      <nd lat="48.8463299" lon="2.3444509"/>
+      <nd lat="48.8463278" lon="2.3444504"/>
+      <nd lat="48.8463180" lon="2.3444957"/>
+      <nd lat="48.8463200" lon="2.3444970"/>
+      <nd lat="48.8463159" lon="2.3445159"/>
+      <nd lat="48.8463021" lon="2.3445157"/>
+      <nd lat="48.8463019" lon="2.3445124"/>
+      <nd lat="48.8462711" lon="2.3445161"/>
+      <nd lat="48.8462711" lon="2.3445188"/>
+      <nd lat="48.8462652" lon="2.3445204"/>
+      <nd lat="48.8462672" lon="2.3445433"/>
+      <nd lat="48.8462596" lon="2.3445457"/>
+      <nd lat="48.8462620" lon="2.3445599"/>
+      <nd lat="48.8462476" lon="2.3445654"/>
+      <nd lat="48.8462479" lon="2.3445621"/>
+      <nd lat="48.8462252" lon="2.3445707"/>
+      <nd lat="48.8462260" lon="2.3445736"/>
+      <nd lat="48.8462085" lon="2.3445832"/>
+      <nd lat="48.8461977" lon="2.3445913"/>
+      <nd lat="48.8461793" lon="2.3446054"/>
+      <nd lat="48.8461638" lon="2.3446206"/>
+      <nd lat="48.8461627" lon="2.3446180"/>
+      <nd lat="48.8461473" lon="2.3446357"/>
+      <nd lat="48.8461489" lon="2.3446378"/>
+      <nd lat="48.8461348" lon="2.3446560"/>
+      <nd lat="48.8461281" lon="2.3446452"/>
+      <nd lat="48.8461229" lon="2.3446521"/>
+      <nd lat="48.8461118" lon="2.3446360"/>
+      <nd lat="48.8461077" lon="2.3446426"/>
+      <nd lat="48.8461063" lon="2.3446404"/>
+      <nd lat="48.8460859" lon="2.3446768"/>
+      <nd lat="48.8460875" lon="2.3446787"/>
+      <nd lat="48.8460794" lon="2.3446955"/>
+      <nd lat="48.8460667" lon="2.3446889"/>
+      <nd lat="48.8460674" lon="2.3446861"/>
+      <nd lat="48.8460379" lon="2.3446703"/>
+      <nd lat="48.8460371" lon="2.3446729"/>
+      <nd lat="48.8460314" lon="2.3446698"/>
+      <nd lat="48.8460294" lon="2.3446789"/>
+      <nd lat="48.8460275" lon="2.3446780"/>
+      <nd lat="48.8460175" lon="2.3447242"/>
+      <nd lat="48.8460193" lon="2.3447254"/>
+      <nd lat="48.8460152" lon="2.3447443"/>
+      <nd lat="48.8460025" lon="2.3447380"/>
+      <nd lat="48.8460031" lon="2.3447357"/>
+      <nd lat="48.8459554" lon="2.3447127"/>
+      <nd lat="48.8459233" lon="2.3446972"/>
+      <nd lat="48.8459083" lon="2.3446900"/>
+      <nd lat="48.8459077" lon="2.3446928"/>
+      <nd lat="48.8457865" lon="2.3446312"/>
+      <nd lat="48.8456631" lon="2.3445685"/>
+      <nd lat="48.8456635" lon="2.3445657"/>
+      <nd lat="48.8455952" lon="2.3445305"/>
+      <nd lat="48.8455881" lon="2.3444943"/>
+      <nd lat="48.8455904" lon="2.3444899"/>
+      <nd lat="48.8456538" lon="2.3443703"/>
+      <nd lat="48.8456520" lon="2.3443682"/>
+      <nd lat="48.8456700" lon="2.3443342"/>
+      <nd lat="48.8457624" lon="2.3441590"/>
+      <nd lat="48.8458212" lon="2.3440475"/>
+      <nd lat="48.8458876" lon="2.3439217"/>
+      <nd lat="48.8458890" lon="2.3439236"/>
+      <nd lat="48.8458908" lon="2.3439188"/>
+      <nd lat="48.8461017" lon="2.3441813"/>
+      <nd lat="48.8461514" lon="2.3442432"/>
+      <nd lat="48.8462257" lon="2.3441193"/>
+    </member>
+    <member type="way" ref="56755372" role="inner">
+      <nd lat="48.8462204" lon="2.3442196"/>
+      <nd lat="48.8462619" lon="2.3442762"/>
+      <nd lat="48.8462468" lon="2.3443420"/>
+      <nd lat="48.8462129" lon="2.3443670"/>
+      <nd lat="48.8461983" lon="2.3443224"/>
+      <nd lat="48.8461817" lon="2.3442844"/>
+      <nd lat="48.8462204" lon="2.3442196"/>
+    </member>
+    <member type="way" ref="56755374" role="inner">
+      <nd lat="48.8460575" lon="2.3442797"/>
+      <nd lat="48.8460678" lon="2.3443277"/>
+      <nd lat="48.8460264" lon="2.3445060"/>
+      <nd lat="48.8459904" lon="2.3444868"/>
+      <nd lat="48.8459923" lon="2.3444781"/>
+      <nd lat="48.8459925" lon="2.3444728"/>
+      <nd lat="48.8459918" lon="2.3444685"/>
+      <nd lat="48.8459897" lon="2.3444655"/>
+      <nd lat="48.8459875" lon="2.3444632"/>
+      <nd lat="48.8458683" lon="2.3444021"/>
+      <nd lat="48.8458658" lon="2.3444023"/>
+      <nd lat="48.8458633" lon="2.3444039"/>
+      <nd lat="48.8458610" lon="2.3444065"/>
+      <nd lat="48.8458589" lon="2.3444117"/>
+      <nd lat="48.8458568" lon="2.3444191"/>
+      <nd lat="48.8458196" lon="2.3443997"/>
+      <nd lat="48.8458332" lon="2.3443425"/>
+      <nd lat="48.8459274" lon="2.3441637"/>
+      <nd lat="48.8459554" lon="2.3441586"/>
+      <nd lat="48.8460575" lon="2.3442797"/>
+    </member>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="75005"/>
+    <tag k="addr:street" v="Place du Panthéon"/>
+    <tag k="alt_name" v="Mairie du Vème; Mairie du 5ème"/>
+    <tag k="amenity" v="townhall"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Mairie du 5e arrondissement"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-17:00; Sa 09:00-12:30"/>
+    <tag k="townhall:type" v="city"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="wikidata" v="Q3278500"/>
+  </relation>
+  <relation id="10997171">
+    <bounds minlat="48.8467608" minlon="2.3435497" maxlat="48.8472892" maxlon="2.3444005"/>
+    <member type="way" ref="19741824" role="outer">
+      <nd lat="48.8467608" lon="2.3443149"/>
+      <nd lat="48.8469323" lon="2.3444005"/>
+      <nd lat="48.8469677" lon="2.3442151"/>
+      <nd lat="48.8470436" lon="2.3438007"/>
+      <nd lat="48.8470595" lon="2.3438074"/>
+      <nd lat="48.8470622" lon="2.3437954"/>
+      <nd lat="48.8471619" lon="2.3438383"/>
+      <nd lat="48.8471584" lon="2.3438537"/>
+      <nd lat="48.8472104" lon="2.3438758"/>
+      <nd lat="48.8472087" lon="2.3438845"/>
+      <nd lat="48.8472649" lon="2.3439090"/>
+      <nd lat="48.8472744" lon="2.3438520"/>
+      <nd lat="48.8472892" lon="2.3437633"/>
+      <nd lat="48.8472756" lon="2.3437555"/>
+      <nd lat="48.8472746" lon="2.3437597"/>
+      <nd lat="48.8472463" lon="2.3437432"/>
+      <nd lat="48.8472415" lon="2.3437404"/>
+      <nd lat="48.8472380" lon="2.3437595"/>
+      <nd lat="48.8471599" lon="2.3437189"/>
+      <nd lat="48.8470155" lon="2.3436452"/>
+      <nd lat="48.8469842" lon="2.3436280"/>
+      <nd lat="48.8469886" lon="2.3436018"/>
+      <nd lat="48.8469759" lon="2.3435950"/>
+      <nd lat="48.8469101" lon="2.3435595"/>
+      <nd lat="48.8469106" lon="2.3435572"/>
+      <nd lat="48.8468970" lon="2.3435497"/>
+      <nd lat="48.8468934" lon="2.3435707"/>
+      <nd lat="48.8468953" lon="2.3435712"/>
+      <nd lat="48.8468824" lon="2.3436413"/>
+      <nd lat="48.8468803" lon="2.3436406"/>
+      <nd lat="48.8468737" lon="2.3436763"/>
+      <nd lat="48.8468888" lon="2.3436846"/>
+      <nd lat="48.8467900" lon="2.3442223"/>
+      <nd lat="48.8467788" lon="2.3442173"/>
+    </member>
+    <member type="way" ref="791935189" role="outer">
+      <nd lat="48.8467788" lon="2.3442173"/>
+      <nd lat="48.8467608" lon="2.3443149"/>
+    </member>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="75005"/>
+    <tag k="addr:street" v="Place du Panthéon"/>
+    <tag k="amenity" v="university"/>
+    <tag k="building" v="yes"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="Université Paris I Panthéon-Sorbonne"/>
+    <tag k="operator" v="Université Paris I Panthéon-Sorbonne"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="website" v="https://www.pantheonsorbonne.fr/"/>
+    <tag k="wikidata" v="Q999763"/>
+    <tag k="wikipedia" v="fr:Université Panthéon-Sorbonne"/>
+  </relation>
+  <relation id="568681">
+    <bounds minlat="48.8532719" minlon="2.3427646" maxlat="48.8535022" maxlon="2.3430587"/>
+    <member type="way" ref="55886822" role="outer">
+      <nd lat="48.8533447" lon="2.3430587"/>
+      <nd lat="48.8533571" lon="2.3430068"/>
+      <nd lat="48.8533758" lon="2.3429276"/>
+      <nd lat="48.8533902" lon="2.3429354"/>
+      <nd lat="48.8533889" lon="2.3429412"/>
+      <nd lat="48.8534766" lon="2.3429892"/>
+      <nd lat="48.8534782" lon="2.3429824"/>
+      <nd lat="48.8534934" lon="2.3429899"/>
+      <nd lat="48.8535022" lon="2.3429471"/>
+      <nd lat="48.8534444" lon="2.3429119"/>
+      <nd lat="48.8534603" lon="2.3428669"/>
+      <nd lat="48.8534312" lon="2.3428460"/>
+      <nd lat="48.8533902" lon="2.3428164"/>
+      <nd lat="48.8533043" lon="2.3427646"/>
+      <nd lat="48.8532877" lon="2.3428959"/>
+      <nd lat="48.8532735" lon="2.3430078"/>
+      <nd lat="48.8532719" lon="2.3430200"/>
+      <nd lat="48.8532825" lon="2.3430258"/>
+      <nd lat="48.8533447" lon="2.3430587"/>
+    </member>
+    <member type="way" ref="55886829" role="inner">
+      <nd lat="48.8534241" lon="2.3428739"/>
+      <nd lat="48.8534174" lon="2.3429014"/>
+      <nd lat="48.8533859" lon="2.3428832"/>
+      <nd lat="48.8533922" lon="2.3428569"/>
+      <nd lat="48.8534241" lon="2.3428739"/>
+    </member>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="75006"/>
+    <tag k="addr:street" v="Rue Saint-André des Arts"/>
+    <tag k="building" v="yes"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="659699">
+    <bounds minlat="48.8509564" minlon="2.3400064" maxlat="48.8519751" maxlon="2.3418225"/>
+    <member type="way" ref="56645234" role="outer">
+      <nd lat="48.8519751" lon="2.3401696"/>
+      <nd lat="48.8519064" lon="2.3400882"/>
+      <nd lat="48.8518375" lon="2.3400064"/>
+      <nd lat="48.8515627" lon="2.3402926"/>
+      <nd lat="48.8513818" lon="2.3405539"/>
+      <nd lat="48.8512438" lon="2.3407524"/>
+      <nd lat="48.8511999" lon="2.3408163"/>
+      <nd lat="48.8509564" lon="2.3412552"/>
+      <nd lat="48.8509619" lon="2.3413018"/>
+      <nd lat="48.8509643" lon="2.3413228"/>
+      <nd lat="48.8515550" lon="2.3418225"/>
+      <nd lat="48.8515738" lon="2.3418122"/>
+      <nd lat="48.8516304" lon="2.3415838"/>
+      <nd lat="48.8516358" lon="2.3415868"/>
+      <nd lat="48.8517663" lon="2.3410508"/>
+      <nd lat="48.8517716" lon="2.3410538"/>
+      <nd lat="48.8517745" lon="2.3410414"/>
+      <nd lat="48.8517687" lon="2.3410374"/>
+      <nd lat="48.8517761" lon="2.3410079"/>
+      <nd lat="48.8517839" lon="2.3409774"/>
+      <nd lat="48.8517891" lon="2.3409803"/>
+      <nd lat="48.8517925" lon="2.3409678"/>
+      <nd lat="48.8517873" lon="2.3409646"/>
+      <nd lat="48.8519195" lon="2.3404279"/>
+      <nd lat="48.8519138" lon="2.3404246"/>
+      <nd lat="48.8519751" lon="2.3401696"/>
+    </member>
+    <member type="way" ref="56645236" role="inner">
+      <nd lat="48.8513204" lon="2.3407765"/>
+      <nd lat="48.8514637" lon="2.3410041"/>
+      <nd lat="48.8514686" lon="2.3409971"/>
+      <nd lat="48.8514743" lon="2.3410062"/>
+      <nd lat="48.8515106" lon="2.3409537"/>
+      <nd lat="48.8515051" lon="2.3409450"/>
+      <nd lat="48.8515127" lon="2.3409340"/>
+      <nd lat="48.8515002" lon="2.3409141"/>
+      <nd lat="48.8515501" lon="2.3408419"/>
+      <nd lat="48.8515427" lon="2.3408301"/>
+      <nd lat="48.8515555" lon="2.3408116"/>
+      <nd lat="48.8515628" lon="2.3408232"/>
+      <nd lat="48.8516137" lon="2.3407496"/>
+      <nd lat="48.8516274" lon="2.3407714"/>
+      <nd lat="48.8516325" lon="2.3407641"/>
+      <nd lat="48.8516376" lon="2.3407722"/>
+      <nd lat="48.8516750" lon="2.3407182"/>
+      <nd lat="48.8516707" lon="2.3407114"/>
+      <nd lat="48.8516753" lon="2.3407048"/>
+      <nd lat="48.8515301" lon="2.3404743"/>
+      <nd lat="48.8515250" lon="2.3404817"/>
+      <nd lat="48.8515218" lon="2.3404766"/>
+      <nd lat="48.8514386" lon="2.3405969"/>
+      <nd lat="48.8514420" lon="2.3406024"/>
+      <nd lat="48.8514101" lon="2.3406486"/>
+      <nd lat="48.8514075" lon="2.3406446"/>
+      <nd lat="48.8513246" lon="2.3407645"/>
+      <nd lat="48.8513265" lon="2.3407676"/>
+      <nd lat="48.8513204" lon="2.3407765"/>
+    </member>
+    <member type="way" ref="56645232" role="inner">
+      <nd lat="48.8512729" lon="2.3409651"/>
+      <nd lat="48.8511237" lon="2.3412295"/>
+      <nd lat="48.8512516" lon="2.3413395"/>
+      <nd lat="48.8512702" lon="2.3412887"/>
+      <nd lat="48.8512727" lon="2.3412915"/>
+      <nd lat="48.8512773" lon="2.3412788"/>
+      <nd lat="48.8512728" lon="2.3412737"/>
+      <nd lat="48.8512777" lon="2.3412592"/>
+      <nd lat="48.8512801" lon="2.3412611"/>
+      <nd lat="48.8513174" lon="2.3411609"/>
+      <nd lat="48.8513154" lon="2.3411583"/>
+      <nd lat="48.8513211" lon="2.3411427"/>
+      <nd lat="48.8513279" lon="2.3411478"/>
+      <nd lat="48.8513593" lon="2.3411030"/>
+      <nd lat="48.8512729" lon="2.3409651"/>
+    </member>
+    <member type="way" ref="56645233" role="inner">
+      <nd lat="48.8515688" lon="2.3412676"/>
+      <nd lat="48.8514989" lon="2.3415475"/>
+      <nd lat="48.8513805" lon="2.3414498"/>
+      <nd lat="48.8514024" lon="2.3413856"/>
+      <nd lat="48.8514066" lon="2.3413899"/>
+      <nd lat="48.8514271" lon="2.3413334"/>
+      <nd lat="48.8514595" lon="2.3413584"/>
+      <nd lat="48.8514817" lon="2.3412952"/>
+      <nd lat="48.8514512" lon="2.3412684"/>
+      <nd lat="48.8514553" lon="2.3412585"/>
+      <nd lat="48.8514480" lon="2.3412516"/>
+      <nd lat="48.8514269" lon="2.3412125"/>
+      <nd lat="48.8514331" lon="2.3411948"/>
+      <nd lat="48.8515688" lon="2.3412676"/>
+    </member>
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="75006"/>
+    <tag k="addr:street" v="Rue de l'École de Médecine"/>
+    <tag k="building" v="university"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="name" v="Faculté de Médecine Paris Centre (Université de Paris)"/>
+    <tag k="roof:levels" v="1"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+
+</osm>

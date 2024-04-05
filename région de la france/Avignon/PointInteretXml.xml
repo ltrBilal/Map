@@ -1,0 +1,1498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-05-09T20:36:39Z"/>
+
+  <way id="83774845">
+    <bounds minlat="43.9223760" minlon="4.8038450" maxlat="43.9227729" maxlon="4.8044400"/>
+    <nd ref="974893228" lat="43.9227124" lon="4.8039876"/>
+    <nd ref="975215841" lat="43.9226607" lon="4.8038450"/>
+    <nd ref="975415588" lat="43.9226571" lon="4.8039784"/>
+    <nd ref="974909771" lat="43.9226150" lon="4.8039632"/>
+    <nd ref="975409869" lat="43.9225966" lon="4.8040709"/>
+    <nd ref="974785408" lat="43.9226007" lon="4.8040836"/>
+    <nd ref="974902159" lat="43.9223760" lon="4.8042750"/>
+    <nd ref="975436192" lat="43.9224455" lon="4.8044400"/>
+    <nd ref="975413172" lat="43.9226845" lon="4.8042297"/>
+    <nd ref="975053735" lat="43.9227074" lon="4.8042090"/>
+    <nd ref="975344507" lat="43.9227235" lon="4.8042423"/>
+    <nd ref="974924546" lat="43.9227673" lon="4.8042020"/>
+    <nd ref="974983203" lat="43.9227589" lon="4.8041828"/>
+    <nd ref="974784236" lat="43.9227729" lon="4.8041694"/>
+    <nd ref="975423325" lat="43.9227566" lon="4.8040984"/>
+    <nd ref="975334532" lat="43.9227432" lon="4.8040653"/>
+    <nd ref="975201382" lat="43.9227528" lon="4.8040580"/>
+    <nd ref="974736106" lat="43.9227263" lon="4.8040270"/>
+    <nd ref="974789198" lat="43.9227367" lon="4.8040185"/>
+    <nd ref="974893228" lat="43.9227124" lon="4.8039876"/>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="1715"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Chemin du Lavarin"/>
+    <tag k="building" v="hotel"/>
+    <tag k="city" v="Avignon"/>
+    <tag k="ele" v="21"/>
+    <tag k="name" v="Best Western Le Lavarin"/>
+    <tag k="operator" v="Best Western"/>
+    <tag k="ref:INSEE:city" v="84007"/>
+    <tag k="source:building" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="83777729">
+    <bounds minlat="43.9271955" minlon="4.7920014" maxlat="43.9292306" maxlon="4.7945868"/>
+    <nd ref="974957052" lat="43.9286388" lon="4.7938136"/>
+    <nd ref="975314770" lat="43.9286255" lon="4.7937792"/>
+    <nd ref="974756368" lat="43.9287678" lon="4.7936778"/>
+    <nd ref="974737675" lat="43.9291602" lon="4.7934000"/>
+    <nd ref="975260473" lat="43.9290987" lon="4.7932295"/>
+    <nd ref="974769376" lat="43.9292306" lon="4.7931390"/>
+    <nd ref="974812416" lat="43.9289476" lon="4.7923525"/>
+    <nd ref="975194975" lat="43.9287058" lon="4.7925152"/>
+    <nd ref="975237291" lat="43.9286521" lon="4.7923612"/>
+    <nd ref="975348269" lat="43.9286756" lon="4.7922587"/>
+    <nd ref="974767422" lat="43.9286106" lon="4.7920793"/>
+    <nd ref="974722403" lat="43.9284492" lon="4.7920014"/>
+    <nd ref="974925793" lat="43.9284153" lon="4.7920218"/>
+    <nd ref="975371841" lat="43.9284257" lon="4.7920548"/>
+    <nd ref="2500693231" lat="43.9283932" lon="4.7920744"/>
+    <nd ref="975301177" lat="43.9283602" lon="4.7920944"/>
+    <nd ref="974722646" lat="43.9283519" lon="4.7920677"/>
+    <nd ref="975147101" lat="43.9283246" lon="4.7920833"/>
+    <nd ref="975371184" lat="43.9283041" lon="4.7921821"/>
+    <nd ref="974974667" lat="43.9282780" lon="4.7921712"/>
+    <nd ref="974730906" lat="43.9282477" lon="4.7921980"/>
+    <nd ref="975344455" lat="43.9282201" lon="4.7923294"/>
+    <nd ref="975313349" lat="43.9282702" lon="4.7923472"/>
+    <nd ref="975425586" lat="43.9282520" lon="4.7924336"/>
+    <nd ref="974720116" lat="43.9282152" lon="4.7924123"/>
+    <nd ref="975067086" lat="43.9281163" lon="4.7924861"/>
+    <nd ref="974974563" lat="43.9281480" lon="4.7925563"/>
+    <nd ref="974882790" lat="43.9281178" lon="4.7925781"/>
+    <nd ref="975193635" lat="43.9281087" lon="4.7925539"/>
+    <nd ref="975072859" lat="43.9280815" lon="4.7925631"/>
+    <nd ref="975402704" lat="43.9280419" lon="4.7925808"/>
+    <nd ref="975333361" lat="43.9279868" lon="4.7926069"/>
+    <nd ref="974756809" lat="43.9279323" lon="4.7926392"/>
+    <nd ref="974993478" lat="43.9278865" lon="4.7926731"/>
+    <nd ref="975408893" lat="43.9278428" lon="4.7927171"/>
+    <nd ref="974839952" lat="43.9277975" lon="4.7927686"/>
+    <nd ref="974742828" lat="43.9277722" lon="4.7927993"/>
+    <nd ref="974926018" lat="43.9277799" lon="4.7928210"/>
+    <nd ref="975436027" lat="43.9277519" lon="4.7928403"/>
+    <nd ref="975043564" lat="43.9277246" lon="4.7927652"/>
+    <nd ref="975142237" lat="43.9276281" lon="4.7928315"/>
+    <nd ref="975028858" lat="43.9276172" lon="4.7928752"/>
+    <nd ref="974886829" lat="43.9273746" lon="4.7927609"/>
+    <nd ref="975368221" lat="43.9273451" lon="4.7927840"/>
+    <nd ref="975037137" lat="43.9273521" lon="4.7928005"/>
+    <nd ref="2500684789" lat="43.9273192" lon="4.7928249"/>
+    <nd ref="975304911" lat="43.9272901" lon="4.7928465"/>
+    <nd ref="974785254" lat="43.9272796" lon="4.7928198"/>
+    <nd ref="974724702" lat="43.9272479" lon="4.7928427"/>
+    <nd ref="975433693" lat="43.9271955" lon="4.7930703"/>
+    <nd ref="975341614" lat="43.9272583" lon="4.7932484"/>
+    <nd ref="975365138" lat="43.9274495" lon="4.7933335"/>
+    <nd ref="975153600" lat="43.9274662" lon="4.7933831"/>
+    <nd ref="974936027" lat="43.9273937" lon="4.7934311"/>
+    <nd ref="974882938" lat="43.9273690" lon="4.7935375"/>
+    <nd ref="974915879" lat="43.9273893" lon="4.7935922"/>
+    <nd ref="974935769" lat="43.9272986" lon="4.7936562"/>
+    <nd ref="975380438" lat="43.9276420" lon="4.7945868"/>
+    <nd ref="975312780" lat="43.9279340" lon="4.7943828"/>
+    <nd ref="974739701" lat="43.9278383" lon="4.7941181"/>
+    <nd ref="975370658" lat="43.9280529" lon="4.7939697"/>
+    <nd ref="975439925" lat="43.9281129" lon="4.7941377"/>
+    <nd ref="974868531" lat="43.9285568" lon="4.7938313"/>
+    <nd ref="975100639" lat="43.9285687" lon="4.7938631"/>
+    <nd ref="974957052" lat="43.9286388" lon="4.7938136"/>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="360"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Rue Jean Marie Tjibaou"/>
+    <tag k="alt_name" v="Court'in"/>
+    <tag k="building" v="supermarket"/>
+    <tag k="image" v="https://www.pagesjaunes.fr/media/resto/carrefour_OSD08044599-66801.jpg"/>
+    <tag k="name" v="Carrefour Court'in"/>
+    <tag k="opening_hours" v="Mo-Sa 08:30-21:00"/>
+    <tag k="operator" v="Carrefour"/>
+    <tag k="phone" v="+33490168079"/>
+    <tag k="ref:FR:SIRET" v="45132133500320"/>
+    <tag k="shop" v="mall"/>
+    <tag k="source" v="INSEE - 07/2017"/>
+    <tag k="source:alt_name" v="survey 2017"/>
+    <tag k="source:building" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="start_date" v="2006-02-01"/>
+    <tag k="supermarket" v="hypermarket"/>
+    <tag k="website" v="https://www.carrefour.fr"/>
+  </way>
+  <way id="83748721">
+    <bounds minlat="43.9341409" minlon="4.7852193" maxlat="43.9344083" maxlon="4.7857154"/>
+    <nd ref="974919416" lat="43.9344083" lon="4.7852636"/>
+    <nd ref="975312689" lat="43.9341895" lon="4.7852193"/>
+    <nd ref="974753585" lat="43.9341812" lon="4.7852958"/>
+    <nd ref="974829558" lat="43.9341682" lon="4.7854163"/>
+    <nd ref="974835611" lat="43.9341409" lon="4.7856698"/>
+    <nd ref="975114150" lat="43.9343597" lon="4.7857154"/>
+    <nd ref="974919416" lat="43.9344083" lon="4.7852636"/>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Rue du Clos Saint-Nicolas"/>
+    <tag k="building" v="yes"/>
+    <tag k="craft" v="plumber"/>
+    <tag k="name" v="Amc-Simon"/>
+    <tag k="operator" v="SImon"/>
+    <tag k="phone" v="+33 4 90 82 20 53"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="website" v="https://simon84.fr/"/>
+  </way>
+  <way id="83753809">
+    <bounds minlat="43.9348773" minlon="4.7844058" maxlat="43.9353875" maxlon="4.7850019"/>
+    <nd ref="975162941" lat="43.9353875" lon="4.7845025"/>
+    <nd ref="974736979" lat="43.9349332" lon="4.7844058"/>
+    <nd ref="975102031" lat="43.9348773" lon="4.7849040"/>
+    <nd ref="975175329" lat="43.9353316" lon="4.7850019"/>
+    <nd ref="975162941" lat="43.9353875" lon="4.7845025"/>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="159"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Rue du Petit Mas"/>
+    <tag k="brand" v="Les gentlemen du déménagement"/>
+    <tag k="building" v="warehouse"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="email" v="info@demenagements-jauffret.fr"/>
+    <tag k="name" v="Déménagement Jauffrey"/>
+    <tag k="office" v="moving_company"/>
+    <tag k="phone" v="+33 4 90 80 79 20"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="website" v="https://jauffret.mon-gd.com/"/>
+  </way>
+  <way id="362103004">
+    <bounds minlat="43.9341383" minlon="4.7961166" maxlat="43.9346740" maxlon="4.7970696"/>
+    <nd ref="3664803439" lat="43.9344632" lon="4.7967526"/>
+    <nd ref="3664803444" lat="43.9346740" lon="4.7967047"/>
+    <nd ref="3664803443" lat="43.9346091" lon="4.7961177"/>
+    <nd ref="7298320342" lat="43.9343973" lon="4.7961683"/>
+    <nd ref="7298320343" lat="43.9343872" lon="4.7961166"/>
+    <nd ref="3664803118" lat="43.9341383" lon="4.7961839"/>
+    <nd ref="3664803120" lat="43.9341838" lon="4.7965211"/>
+    <nd ref="3664803121" lat="43.9341965" lon="4.7966129"/>
+    <nd ref="3664803428" lat="43.9343298" lon="4.7965906"/>
+    <nd ref="3664803433" lat="43.9343482" lon="4.7967590"/>
+    <nd ref="3664803122" lat="43.9342172" lon="4.7967826"/>
+    <nd ref="3664803124" lat="43.9342242" lon="4.7968726"/>
+    <nd ref="3664803430" lat="43.9343412" lon="4.7968656"/>
+    <nd ref="3664803431" lat="43.9343422" lon="4.7969036"/>
+    <nd ref="3664803434" lat="43.9343642" lon="4.7969166"/>
+    <nd ref="3664803432" lat="43.9343432" lon="4.7969896"/>
+    <nd ref="3664803435" lat="43.9344232" lon="4.7970326"/>
+    <nd ref="3664803436" lat="43.9344332" lon="4.7969976"/>
+    <nd ref="3664803438" lat="43.9344512" lon="4.7970076"/>
+    <nd ref="3664803437" lat="43.9344412" lon="4.7970426"/>
+    <nd ref="3664803441" lat="43.9344902" lon="4.7970696"/>
+    <nd ref="3664803442" lat="43.9345122" lon="4.7969906"/>
+    <nd ref="3664803440" lat="43.9344802" lon="4.7969736"/>
+    <nd ref="3664803439" lat="43.9344632" lon="4.7967526"/>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Rue Paul Achard"/>
+    <tag k="amenity" v="theatre"/>
+    <tag k="building" v="yes"/>
+    <tag k="description" v="Composée d'une salle aux dimensions de la scène de la Cour d'honneur, de dix-huit logements et de deux espaces techniques attenants, cette «fabrique» théâtrale permet d'accueillir en résidence, tout au long de l'année, des équipes artistiques qui travail."/>
+    <tag k="festival" v="yes"/>
+    <tag k="festival:Avignon_In:2015" v="yes"/>
+    <tag k="name" v="La FabricA"/>
+    <tag k="operator" v="Festival d'Avignon"/>
+    <tag k="source:name" v="local_knowledge"/>
+    <tag k="url:festival" v="http://www.festival-avignon.com/fr/les-lieux/la-fabrica"/>
+  </way>
+  <way id="523057389">
+    <bounds minlat="43.9332891" minlon="4.7909848" maxlat="43.9338298" maxlon="4.7924411"/>
+    <nd ref="5093002149" lat="43.9338142" lon="4.7914394"/>
+    <nd ref="10259238374" lat="43.9337255" lon="4.7922071"/>
+    <nd ref="10259238373" lat="43.9337384" lon="4.7922455"/>
+    <nd ref="5093002150" lat="43.9337289" lon="4.7923255"/>
+    <nd ref="5093002151" lat="43.9333116" lon="4.7924411"/>
+    <nd ref="5093002167" lat="43.9333009" lon="4.7923767"/>
+    <nd ref="5093002152" lat="43.9332891" lon="4.7923042"/>
+    <nd ref="5093002153" lat="43.9333332" lon="4.7922922"/>
+    <nd ref="5093002154" lat="43.9333122" lon="4.7921690"/>
+    <nd ref="5093002155" lat="43.9334002" lon="4.7921383"/>
+    <nd ref="5093002157" lat="43.9334785" lon="4.7913580"/>
+    <nd ref="5093002159" lat="43.9334976" lon="4.7911803"/>
+    <nd ref="5093002160" lat="43.9335868" lon="4.7911996"/>
+    <nd ref="5093002161" lat="43.9335901" lon="4.7911708"/>
+    <nd ref="5093002162" lat="43.9337003" lon="4.7911895"/>
+    <nd ref="5093002163" lat="43.9337242" lon="4.7909848"/>
+    <nd ref="2500432225" lat="43.9338298" lon="4.7910060"/>
+    <nd ref="2500432220" lat="43.9337893" lon="4.7914341"/>
+    <nd ref="5093002149" lat="43.9338142" lon="4.7914394"/>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="662"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Rue du Petit Mas"/>
+    <tag k="building" v="industrial"/>
+    <tag k="name" v="La Poste Avignon PPDC"/>
+  </way>
+  <way id="149369618">
+    <bounds minlat="43.9389466" minlon="4.7967992" maxlat="43.9393721" maxlon="4.7972303"/>
+    <nd ref="1623612733" lat="43.9392966" lon="4.7972303"/>
+    <nd ref="6316133240" lat="43.9393721" lon="4.7969502"/>
+    <nd ref="6316133243" lat="43.9390911" lon="4.7968048"/>
+    <nd ref="6316133242" lat="43.9390666" lon="4.7967992"/>
+    <nd ref="6316133236" lat="43.9390463" lon="4.7968024"/>
+    <nd ref="6316133238" lat="43.9390285" lon="4.7968118"/>
+    <nd ref="6316133237" lat="43.9390002" lon="4.7968463"/>
+    <nd ref="6316133241" lat="43.9389907" lon="4.7968716"/>
+    <nd ref="6316133239" lat="43.9390455" lon="4.7968998"/>
+    <nd ref="1623612735" lat="43.9390263" lon="4.7969710"/>
+    <nd ref="1623612760" lat="43.9389749" lon="4.7969445"/>
+    <nd ref="1623612746" lat="43.9389466" lon="4.7970495"/>
+    <nd ref="1623612767" lat="43.9389963" lon="4.7970752"/>
+    <nd ref="1623612764" lat="43.9389935" lon="4.7970857"/>
+    <nd ref="1623612737" lat="43.9390908" lon="4.7971699"/>
+    <nd ref="1623612731" lat="43.9391480" lon="4.7971998"/>
+    <nd ref="1623612755" lat="43.9391528" lon="4.7971824"/>
+    <nd ref="1623612750" lat="43.9391781" lon="4.7971956"/>
+    <nd ref="1623612744" lat="43.9391970" lon="4.7971789"/>
+    <nd ref="1623612733" lat="43.9392966" lon="4.7972303"/>
+    <tag k="addr:housename" v="Centre Eisenhower"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="avenue Eisenhower"/>
+    <tag k="building" v="business_center"/>
+    <tag k="name" v="Centre d'affaires Eisenhower"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2019"/>
+  </way>
+  <way id="607159225">
+    <bounds minlat="43.9275496" minlon="4.8047911" maxlat="43.9277460" maxlon="4.8056869"/>
+    <nd ref="5754787152" lat="43.9277245" lon="4.8048039"/>
+    <nd ref="5754792045" lat="43.9275953" lon="4.8047911"/>
+    <nd ref="5754790135" lat="43.9275496" lon="4.8056750"/>
+    <nd ref="5754792683" lat="43.9276708" lon="4.8056869"/>
+    <nd ref="5754791088" lat="43.9276778" lon="4.8055521"/>
+    <nd ref="5754785611" lat="43.9276177" lon="4.8055455"/>
+    <nd ref="5754793917" lat="43.9276212" lon="4.8054772"/>
+    <nd ref="5754792966" lat="43.9276320" lon="4.8054782"/>
+    <nd ref="5754788385" lat="43.9276355" lon="4.8054112"/>
+    <nd ref="5754791496" lat="43.9277046" lon="4.8054181"/>
+    <nd ref="5754792618" lat="43.9277176" lon="4.8051658"/>
+    <nd ref="5754791477" lat="43.9276956" lon="4.8051636"/>
+    <nd ref="5754792880" lat="43.9276939" lon="4.8051627"/>
+    <nd ref="5754790446" lat="43.9276921" lon="4.8051616"/>
+    <nd ref="5754792250" lat="43.9276904" lon="4.8051604"/>
+    <nd ref="5754794179" lat="43.9276887" lon="4.8051591"/>
+    <nd ref="5754789049" lat="43.9276870" lon="4.8051578"/>
+    <nd ref="5754787219" lat="43.9276853" lon="4.8051564"/>
+    <nd ref="5754792738" lat="43.9276837" lon="4.8051549"/>
+    <nd ref="5754788062" lat="43.9276821" lon="4.8051533"/>
+    <nd ref="5754789656" lat="43.9276806" lon="4.8051518"/>
+    <nd ref="5754791256" lat="43.9276791" lon="4.8051500"/>
+    <nd ref="5754789664" lat="43.9276777" lon="4.8051483"/>
+    <nd ref="5754786363" lat="43.9276763" lon="4.8051464"/>
+    <nd ref="5754785673" lat="43.9276749" lon="4.8051446"/>
+    <nd ref="5754789593" lat="43.9276736" lon="4.8051426"/>
+    <nd ref="5754787994" lat="43.9276723" lon="4.8051407"/>
+    <nd ref="5754790207" lat="43.9276710" lon="4.8051385"/>
+    <nd ref="5754787281" lat="43.9276699" lon="4.8051365"/>
+    <nd ref="5754784992" lat="43.9276688" lon="4.8051343"/>
+    <nd ref="5754786522" lat="43.9276676" lon="4.8051321"/>
+    <nd ref="5754789733" lat="43.9276666" lon="4.8051298"/>
+    <nd ref="5754788139" lat="43.9276656" lon="4.8051275"/>
+    <nd ref="5754792821" lat="43.9276647" lon="4.8051251"/>
+    <nd ref="5754791423" lat="43.9276638" lon="4.8051229"/>
+    <nd ref="5754792678" lat="43.9276631" lon="4.8051203"/>
+    <nd ref="5754793909" lat="43.9276623" lon="4.8051180"/>
+    <nd ref="5754792038" lat="43.9276615" lon="4.8051154"/>
+    <nd ref="5754785066" lat="43.9276609" lon="4.8051129"/>
+    <nd ref="5754788648" lat="43.9276603" lon="4.8051104"/>
+    <nd ref="5754790382" lat="43.9276597" lon="4.8051078"/>
+    <nd ref="5754785001" lat="43.9276593" lon="4.8051052"/>
+    <nd ref="5754793219" lat="43.9276589" lon="4.8051025"/>
+    <nd ref="5754790200" lat="43.9276585" lon="4.8050999"/>
+    <nd ref="5754794252" lat="43.9276583" lon="4.8050973"/>
+    <nd ref="5754788991" lat="43.9276581" lon="4.8050947"/>
+    <nd ref="5754787291" lat="43.9276578" lon="4.8050920"/>
+    <nd ref="5754785141" lat="43.9276578" lon="4.8050893"/>
+    <nd ref="5754787987" lat="43.9276578" lon="4.8050867"/>
+    <nd ref="5754788210" lat="43.9276578" lon="4.8050839"/>
+    <nd ref="5754791971" lat="43.9276578" lon="4.8050813"/>
+    <nd ref="5754789227" lat="43.9276579" lon="4.8050786"/>
+    <nd ref="5754788585" lat="43.9276581" lon="4.8050760"/>
+    <nd ref="5754792325" lat="43.9276583" lon="4.8050734"/>
+    <nd ref="5754787837" lat="43.9276587" lon="4.8050708"/>
+    <nd ref="5754787464" lat="43.9276591" lon="4.8050680"/>
+    <nd ref="5754785823" lat="43.9276595" lon="4.8050654"/>
+    <nd ref="5754790456" lat="43.9276600" lon="4.8050630"/>
+    <nd ref="5754789514" lat="43.9276606" lon="4.8050604"/>
+    <nd ref="5754784855" lat="43.9276612" lon="4.8050578"/>
+    <nd ref="5754786183" lat="43.9276620" lon="4.8050553"/>
+    <nd ref="5754793842" lat="43.9276626" lon="4.8050528"/>
+    <nd ref="5754785523" lat="43.9276635" lon="4.8050504"/>
+    <nd ref="5754790595" lat="43.9276643" lon="4.8050480"/>
+    <nd ref="5754792609" lat="43.9276653" lon="4.8050457"/>
+    <nd ref="5754784616" lat="43.9276662" lon="4.8050433"/>
+    <nd ref="5754786040" lat="43.9276672" lon="4.8050410"/>
+    <nd ref="5754784535" lat="43.9276683" lon="4.8050388"/>
+    <nd ref="5754793110" lat="43.9276694" lon="4.8050367"/>
+    <nd ref="5754790683" lat="43.9276706" lon="4.8050345"/>
+    <nd ref="5754792465" lat="43.9276718" lon="4.8050324"/>
+    <nd ref="5754792953" lat="43.9276731" lon="4.8050305"/>
+    <nd ref="5754789369" lat="43.9276744" lon="4.8050285"/>
+    <nd ref="5754792533" lat="43.9276758" lon="4.8050266"/>
+    <nd ref="5754793774" lat="43.9276771" lon="4.8050248"/>
+    <nd ref="5754789446" lat="43.9276786" lon="4.8050229"/>
+    <nd ref="5754790751" lat="43.9276801" lon="4.8050212"/>
+    <nd ref="5754788525" lat="43.9276816" lon="4.8050194"/>
+    <nd ref="5754788376" lat="43.9276831" lon="4.8050178"/>
+    <nd ref="5754786028" lat="43.9276848" lon="4.8050164"/>
+    <nd ref="5754784603" lat="43.9276864" lon="4.8050150"/>
+    <nd ref="5754789357" lat="43.9276880" lon="4.8050135"/>
+    <nd ref="5754790609" lat="43.9276897" lon="4.8050123"/>
+    <nd ref="5754789987" lat="43.9276914" lon="4.8050110"/>
+    <nd ref="5754787611" lat="43.9276931" lon="4.8050099"/>
+    <nd ref="5754793100" lat="43.9276950" lon="4.8050089"/>
+    <nd ref="5754786760" lat="43.9276968" lon="4.8050078"/>
+    <nd ref="5754792399" lat="43.9276986" lon="4.8050070"/>
+    <nd ref="5754793635" lat="43.9277004" lon="4.8050062"/>
+    <nd ref="5754786940" lat="43.9277023" lon="4.8050054"/>
+    <nd ref="5754789923" lat="43.9277041" lon="4.8050047"/>
+    <nd ref="5754792456" lat="43.9277060" lon="4.8050041"/>
+    <nd ref="5754785391" lat="43.9277079" lon="4.8050037"/>
+    <nd ref="5754785383" lat="43.9277098" lon="4.8050032"/>
+    <nd ref="5754793696" lat="43.9277117" lon="4.8050029"/>
+    <nd ref="5754791964" lat="43.9277137" lon="4.8050027"/>
+    <nd ref="5754791731" lat="43.9277156" lon="4.8050026"/>
+    <nd ref="5754793566" lat="43.9277176" lon="4.8050025"/>
+    <nd ref="5754793265" lat="43.9277195" lon="4.8050026"/>
+    <nd ref="5754785510" lat="43.9277214" lon="4.8050026"/>
+    <nd ref="5754792333" lat="43.9277233" lon="4.8050028"/>
+    <nd ref="5754788574" lat="43.9277270" lon="4.8049481"/>
+    <nd ref="5754787065" lat="43.9277277" lon="4.8049480"/>
+    <nd ref="5754793765" lat="43.9277286" lon="4.8049479"/>
+    <nd ref="5754792520" lat="43.9277293" lon="4.8049477"/>
+    <nd ref="5754786998" lat="43.9277301" lon="4.8049475"/>
+    <nd ref="5754785445" lat="43.9277308" lon="4.8049472"/>
+    <nd ref="5754787826" lat="43.9277315" lon="4.8049469"/>
+    <nd ref="5754786098" lat="43.9277324" lon="4.8049465"/>
+    <nd ref="5754790738" lat="43.9277331" lon="4.8049462"/>
+    <nd ref="5754789434" lat="43.9277338" lon="4.8049458"/>
+    <nd ref="5754787131" lat="43.9277344" lon="4.8049454"/>
+    <nd ref="5754785587" lat="43.9277352" lon="4.8049449"/>
+    <nd ref="5754790115" lat="43.9277358" lon="4.8049443"/>
+    <nd ref="5754788635" lat="43.9277365" lon="4.8049438"/>
+    <nd ref="5754791069" lat="43.9277372" lon="4.8049432"/>
+    <nd ref="5754789574" lat="43.9277378" lon="4.8049425"/>
+    <nd ref="5754793898" lat="43.9277384" lon="4.8049419"/>
+    <nd ref="5754792668" lat="43.9277390" lon="4.8049411"/>
+    <nd ref="5754789503" lat="43.9277395" lon="4.8049404"/>
+    <nd ref="5754787906" lat="43.9277400" lon="4.8049397"/>
+    <nd ref="5754792596" lat="43.9277406" lon="4.8049390"/>
+    <nd ref="5754790800" lat="43.9277411" lon="4.8049381"/>
+    <nd ref="5754793331" lat="43.9277416" lon="4.8049372"/>
+    <nd ref="5754792029" lat="43.9277421" lon="4.8049364"/>
+    <nd ref="5754786171" lat="43.9277425" lon="4.8049355"/>
+    <nd ref="5754784844" lat="43.9277429" lon="4.8049345"/>
+    <nd ref="5754792729" lat="43.9277434" lon="4.8049337"/>
+    <nd ref="5754791239" lat="43.9277437" lon="4.8049327"/>
+    <nd ref="5754785663" lat="43.9277440" lon="4.8049317"/>
+    <nd ref="5754794163" lat="43.9277443" lon="4.8049307"/>
+    <nd ref="5754786414" lat="43.9277446" lon="4.8049297"/>
+    <nd ref="5754784980" lat="43.9277449" lon="4.8049288"/>
+    <nd ref="5754789646" lat="43.9277452" lon="4.8049278"/>
+    <nd ref="5754788051" lat="43.9277454" lon="4.8049267"/>
+    <nd ref="5754784915" lat="43.9277455" lon="4.8049257"/>
+    <nd ref="5754793401" lat="43.9277457" lon="4.8049245"/>
+    <nd ref="5754787974" lat="43.9277458" lon="4.8049234"/>
+    <nd ref="5754786342" lat="43.9277459" lon="4.8049224"/>
+    <nd ref="5754788705" lat="43.9277459" lon="4.8049213"/>
+    <nd ref="5754787201" lat="43.9277459" lon="4.8049203"/>
+    <nd ref="5754792094" lat="43.9277460" lon="4.8049192"/>
+    <nd ref="5754790188" lat="43.9277460" lon="4.8049181"/>
+    <nd ref="5754788122" lat="43.9277459" lon="4.8049171"/>
+    <nd ref="5754786585" lat="43.9277458" lon="4.8049160"/>
+    <nd ref="5754791304" lat="43.9277457" lon="4.8049148"/>
+    <nd ref="5754789715" lat="43.9277455" lon="4.8049138"/>
+    <nd ref="5754792239" lat="43.9277453" lon="4.8049128"/>
+    <nd ref="5754790436" lat="43.9277452" lon="4.8049117"/>
+    <nd ref="5754785047" lat="43.9277449" lon="4.8049107"/>
+    <nd ref="5754793463" lat="43.9277447" lon="4.8049097"/>
+    <nd ref="5754790361" lat="43.9277444" lon="4.8049087"/>
+    <nd ref="5754788972" lat="43.9277441" lon="4.8049077"/>
+    <nd ref="5754793194" lat="43.9277437" lon="4.8049067"/>
+    <nd ref="5754792164" lat="43.9277434" lon="4.8049058"/>
+    <nd ref="5754794229" lat="43.9277429" lon="4.8049048"/>
+    <nd ref="5754792799" lat="43.9277425" lon="4.8049039"/>
+    <nd ref="5754787271" lat="43.9277421" lon="4.8049030"/>
+    <nd ref="5754785728" lat="43.9277416" lon="4.8049021"/>
+    <nd ref="5754793536" lat="43.9277411" lon="4.8049014"/>
+    <nd ref="5754792307" lat="43.9277407" lon="4.8049005"/>
+    <nd ref="5754786658" lat="43.9277402" lon="4.8048997"/>
+    <nd ref="5754785120" lat="43.9277395" lon="4.8048989"/>
+    <nd ref="5754787511" lat="43.9277390" lon="4.8048982"/>
+    <nd ref="5754785871" lat="43.9277384" lon="4.8048975"/>
+    <nd ref="5754790505" lat="43.9277378" lon="4.8048969"/>
+    <nd ref="5754789106" lat="43.9277371" lon="4.8048962"/>
+    <nd ref="5754785805" lat="43.9277365" lon="4.8048956"/>
+    <nd ref="5754794305" lat="43.9277358" lon="4.8048951"/>
+    <nd ref="5754789038" lat="43.9277351" lon="4.8048946"/>
+    <nd ref="5754787445" lat="43.9277345" lon="4.8048940"/>
+    <nd ref="5754789779" lat="43.9277338" lon="4.8048935"/>
+    <nd ref="5754788192" lat="43.9277331" lon="4.8048931"/>
+    <nd ref="5754792871" lat="43.9277323" lon="4.8048927"/>
+    <nd ref="5754791467" lat="43.9277315" lon="4.8048925"/>
+    <nd ref="5754789274" lat="43.9277308" lon="4.8048921"/>
+    <nd ref="5754787580" lat="43.9277300" lon="4.8048919"/>
+    <nd ref="5754792374" lat="43.9277293" lon="4.8048916"/>
+    <nd ref="5754790577" lat="43.9277285" lon="4.8048915"/>
+    <nd ref="5754793006" lat="43.9277278" lon="4.8048913"/>
+    <nd ref="5754791603" lat="43.9277270" lon="4.8048912"/>
+    <nd ref="5754785940" lat="43.9277262" lon="4.8048912"/>
+    <nd ref="5754794436" lat="43.9277254" lon="4.8048911"/>
+    <nd ref="5754791532" lat="43.9277246" lon="4.8048911"/>
+    <nd ref="5754789843" lat="43.9277238" lon="4.8048912"/>
+    <nd ref="5754794367" lat="43.9277231" lon="4.8048913"/>
+    <nd ref="5754792931" lat="43.9277223" lon="4.8048914"/>
+    <nd ref="5754785190" lat="43.9277216" lon="4.8048915"/>
+    <nd ref="5754793606" lat="43.9277208" lon="4.8048917"/>
+    <nd ref="5754787152" lat="43.9277245" lon="4.8048039"/>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="1139"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Chemin du Lavarin"/>
+    <tag k="amenity" v="clinic"/>
+    <tag k="building" v="yes"/>
+    <tag k="healthcare" v="clinic"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Institut de chirurgie osseuse et de la moelle épinière - Médipôle Montagard"/>
+    <tag k="phone" v="+33490279287"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2018"/>
+    <tag k="wall" v="no"/>
+    <tag k="website" v="https://www.chirurgie-orthopedique-medipole.fr/"/>
+  </way>
+  <way id="83769749">
+    <bounds minlat="43.9371328" minlon="4.8038832" maxlat="43.9372330" maxlon="4.8040314"/>
+    <nd ref="975264247" lat="43.9371502" lon="4.8038832"/>
+    <nd ref="974862259" lat="43.9371328" lon="4.8040124"/>
+    <nd ref="975040015" lat="43.9372164" lon="4.8040314"/>
+    <nd ref="975178667" lat="43.9372330" lon="4.8039034"/>
+    <nd ref="975264247" lat="43.9371502" lon="4.8038832"/>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Rue Ancienne Tannerie"/>
+    <tag k="building" v="yes"/>
+    <tag k="contact:website" v="https://roulonsavelo.fr/index.php/contact/"/>
+    <tag k="email" v="roulonsavelo@laposte.net"/>
+    <tag k="name" v="Roulons à Vélo"/>
+    <tag k="office" v="association"/>
+    <tag k="phone" v="+33 4 90 32 83 55"/>
+    <tag k="service:bicycle:diy" v="yes"/>
+    <tag k="service:bicycle:repair" v="yes"/>
+    <tag k="service:bicycle:second_hand" v="yes"/>
+    <tag k="shop" v="bicycle"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="website" v="https://roulonsavelo.fr/"/>
+    <tag k="wikidata" v="Q96994820"/>
+  </way>
+  <way id="83749340">
+    <bounds minlat="43.9428332" minlon="4.7979444" maxlat="43.9429215" maxlon="4.7980929"/>
+    <nd ref="974902312" lat="43.9428348" lon="4.7979444"/>
+    <nd ref="975429203" lat="43.9428332" lon="4.7980929"/>
+    <nd ref="974780378" lat="43.9428821" lon="4.7980893"/>
+    <nd ref="975325510" lat="43.9429215" lon="4.7980893"/>
+    <nd ref="974970213" lat="43.9429187" lon="4.7979444"/>
+    <nd ref="974902312" lat="43.9428348" lon="4.7979444"/>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Rue Paul Mérindol"/>
+    <tag k="building" v="hotel"/>
+    <tag k="city" v="Avignon"/>
+    <tag k="ele" v="21"/>
+    <tag k="name" v="Au Saint-Roch - Hôtel et Jardin"/>
+    <tag k="ref:INSEE:city" v="84007"/>
+    <tag k="short_name" v="CPH"/>
+    <tag k="source:geometry" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="source:modif" v="Apidae (2017-11-21), in Opendata PACA"/>
+    <tag k="start_date" v="1996-08-01"/>
+  </way>
+  <way id="83756483">
+    <bounds minlat="43.9418658" minlon="4.8025511" maxlat="43.9420219" maxlon="4.8031522"/>
+    <nd ref="974780678" lat="43.9420219" lon="4.8031518"/>
+    <nd ref="975189049" lat="43.9420194" lon="4.8027400"/>
+    <nd ref="4461838339" lat="43.9420188" lon="4.8026284"/>
+    <nd ref="975213272" lat="43.9420183" lon="4.8025511"/>
+    <nd ref="974715096" lat="43.9418658" lon="4.8025527"/>
+    <nd ref="975336871" lat="43.9418687" lon="4.8031522"/>
+    <nd ref="974780678" lat="43.9420219" lon="4.8031518"/>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:country" v="FR"/>
+    <tag k="addr:housenumber" v="5 bis"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="avenue du Blanchissage"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="height" v="16"/>
+    <tag k="name" v="Tri Postal"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="83782921">
+    <bounds minlat="43.9446027" minlon="4.8022363" maxlat="43.9447246" maxlon="4.8026186"/>
+    <nd ref="974967020" lat="43.9447246" lon="4.8022363"/>
+    <nd ref="975364399" lat="43.9446174" lon="4.8022381"/>
+    <nd ref="3478136482" lat="43.9446027" lon="4.8026129"/>
+    <nd ref="3478136451" lat="43.9447076" lon="4.8026186"/>
+    <nd ref="974967020" lat="43.9447246" lon="4.8022363"/>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Boulevard Raspail"/>
+    <tag k="amenity" v="police"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Gendarmerie nationale"/>
+    <tag k="phone" v="+33 4 90 80 50 00"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="83751995">
+    <bounds minlat="43.9431908" minlon="4.8049702" maxlat="43.9437822" maxlon="4.8053026"/>
+    <nd ref="974741028" lat="43.9437711" lon="4.8053026"/>
+    <nd ref="974924105" lat="43.9437822" lon="4.8050133"/>
+    <nd ref="975084203" lat="43.9435830" lon="4.8050212"/>
+    <nd ref="975359697" lat="43.9435396" lon="4.8049997"/>
+    <nd ref="975403959" lat="43.9435228" lon="4.8049979"/>
+    <nd ref="975228589" lat="43.9435218" lon="4.8049702"/>
+    <nd ref="975098070" lat="43.9433890" lon="4.8049737"/>
+    <nd ref="975328974" lat="43.9433810" lon="4.8049722"/>
+    <nd ref="975106023" lat="43.9433802" lon="4.8050201"/>
+    <nd ref="975098215" lat="43.9433263" lon="4.8050184"/>
+    <nd ref="974738671" lat="43.9433277" lon="4.8049744"/>
+    <nd ref="975020109" lat="43.9432803" lon="4.8049742"/>
+    <nd ref="974965001" lat="43.9432657" lon="4.8049750"/>
+    <nd ref="974891216" lat="43.9432067" lon="4.8049745"/>
+    <nd ref="975363020" lat="43.9431908" lon="4.8052397"/>
+    <nd ref="2486208252" lat="43.9435231" lon="4.8052757"/>
+    <nd ref="2486208250" lat="43.9435464" lon="4.8052782"/>
+    <nd ref="2486208254" lat="43.9436208" lon="4.8052863"/>
+    <nd ref="974741028" lat="43.9437711" lon="4.8053026"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Cours Jean Jaurès"/>
+    <tag k="building" v="public"/>
+    <tag k="name" v="Chambre de Commerce et d'Industrie"/>
+    <tag k="phone" v="+33 4 90 14 87 00"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="source:website" v="Avignon Côté Cité"/>
+    <tag k="website" v="http://www.avignonvaucluse.cci.fr"/>
+  </way>
+  <way id="83771952">
+    <bounds minlat="43.9448070" minlon="4.8056994" maxlat="43.9450983" maxlon="4.8059747"/>
+    <nd ref="974754086" lat="43.9450983" lon="4.8057269"/>
+    <nd ref="2555392337" lat="43.9449644" lon="4.8057139"/>
+    <nd ref="2555392336" lat="43.9449230" lon="4.8057099"/>
+    <nd ref="975202701" lat="43.9448150" lon="4.8056994"/>
+    <nd ref="974927339" lat="43.9448079" lon="4.8058239"/>
+    <nd ref="974902327" lat="43.9448070" lon="4.8058352"/>
+    <nd ref="974723871" lat="43.9448667" lon="4.8058433"/>
+    <nd ref="975082519" lat="43.9448628" lon="4.8059062"/>
+    <nd ref="974847347" lat="43.9450404" lon="4.8059254"/>
+    <nd ref="974973745" lat="43.9450353" lon="4.8059731"/>
+    <nd ref="975038191" lat="43.9450477" lon="4.8059747"/>
+    <nd ref="974754086" lat="43.9450983" lon="4.8057269"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Cours Jean Jaurès"/>
+    <tag k="building" v="yes"/>
+    <tag k="information" v="office"/>
+    <tag k="name" v="Office de Tourisme"/>
+    <tag k="phone" v="+33 4 32 74 32 74"/>
+    <tag k="pictogram" v="yes"/>
+    <tag k="source" v="Avignon Côté Cité"/>
+    <tag k="tourism" v="information"/>
+    <tag k="website" v="https://avignon-tourisme.com/"/>
+    <tag k="wikidata" v="Q24263541"/>
+  </way>
+  <way id="83774997">
+    <bounds minlat="43.9445685" minlon="4.8039416" maxlat="43.9450258" maxlon="4.8047406"/>
+    <nd ref="974795103" lat="43.9449652" lon="4.8043176"/>
+    <nd ref="975150273" lat="43.9449683" lon="4.8043051"/>
+    <nd ref="975006676" lat="43.9449640" lon="4.8043024"/>
+    <nd ref="975276532" lat="43.9450258" lon="4.8039907"/>
+    <nd ref="974882734" lat="43.9449589" lon="4.8039776"/>
+    <nd ref="975303363" lat="43.9448251" lon="4.8039513"/>
+    <nd ref="974943174" lat="43.9447757" lon="4.8039416"/>
+    <nd ref="974719506" lat="43.9447713" lon="4.8039868"/>
+    <nd ref="974974037" lat="43.9447393" lon="4.8039808"/>
+    <nd ref="974772245" lat="43.9447376" lon="4.8040021"/>
+    <nd ref="974847981" lat="43.9447223" lon="4.8039992"/>
+    <nd ref="975047445" lat="43.9447189" lon="4.8040318"/>
+    <nd ref="974760374" lat="43.9446919" lon="4.8040272"/>
+    <nd ref="975254240" lat="43.9446894" lon="4.8040523"/>
+    <nd ref="974895722" lat="43.9446399" lon="4.8040420"/>
+    <nd ref="975360922" lat="43.9446139" lon="4.8042100"/>
+    <nd ref="975384542" lat="43.9445888" lon="4.8042319"/>
+    <nd ref="975252093" lat="43.9445782" lon="4.8043046"/>
+    <nd ref="974790683" lat="43.9445937" lon="4.8043353"/>
+    <nd ref="975429091" lat="43.9445685" lon="4.8045020"/>
+    <nd ref="975264496" lat="43.9446164" lon="4.8045160"/>
+    <nd ref="975391085" lat="43.9446131" lon="4.8045373"/>
+    <nd ref="974808341" lat="43.9446044" lon="4.8045346"/>
+    <nd ref="975440765" lat="43.9445987" lon="4.8045747"/>
+    <nd ref="974855916" lat="43.9446060" lon="4.8045762"/>
+    <nd ref="975384584" lat="43.9445938" lon="4.8046513"/>
+    <nd ref="974756228" lat="43.9446758" lon="4.8046815"/>
+    <nd ref="974996786" lat="43.9447200" lon="4.8046980"/>
+    <nd ref="975323604" lat="43.9447642" lon="4.8047132"/>
+    <nd ref="975361486" lat="43.9448230" lon="4.8047326"/>
+    <nd ref="974953810" lat="43.9448464" lon="4.8047283"/>
+    <nd ref="974893860" lat="43.9448798" lon="4.8047406"/>
+    <nd ref="974987000" lat="43.9449339" lon="4.8044564"/>
+    <nd ref="975404900" lat="43.9449382" lon="4.8044578"/>
+    <nd ref="974860657" lat="43.9449399" lon="4.8044452"/>
+    <nd ref="975018872" lat="43.9449145" lon="4.8044369"/>
+    <nd ref="975306816" lat="43.9449137" lon="4.8044394"/>
+    <nd ref="974881277" lat="43.9449091" lon="4.8044506"/>
+    <nd ref="974779513" lat="43.9449039" lon="4.8044593"/>
+    <nd ref="975151824" lat="43.9448965" lon="4.8044678"/>
+    <nd ref="975279812" lat="43.9448957" lon="4.8044678"/>
+    <nd ref="975022830" lat="43.9448869" lon="4.8044738"/>
+    <nd ref="974869122" lat="43.9448781" lon="4.8044761"/>
+    <nd ref="975323701" lat="43.9448686" lon="4.8044758"/>
+    <nd ref="975370181" lat="43.9448599" lon="4.8044730"/>
+    <nd ref="975336971" lat="43.9448336" lon="4.8046158"/>
+    <nd ref="974785494" lat="43.9447063" lon="4.8045968"/>
+    <nd ref="974966105" lat="43.9447296" lon="4.8044565"/>
+    <nd ref="974809377" lat="43.9447289" lon="4.8044552"/>
+    <nd ref="975419519" lat="43.9447225" lon="4.8044462"/>
+    <nd ref="974857686" lat="43.9447190" lon="4.8044348"/>
+    <nd ref="975427776" lat="43.9447200" lon="4.8044222"/>
+    <nd ref="975029749" lat="43.9447200" lon="4.8044209"/>
+    <nd ref="5216331157" lat="43.9447500" lon="4.8042279"/>
+    <nd ref="974886738" lat="43.9447531" lon="4.8042167"/>
+    <nd ref="975209429" lat="43.9447569" lon="4.8042092"/>
+    <nd ref="975003231" lat="43.9447643" lon="4.8042032"/>
+    <nd ref="975218950" lat="43.9447709" lon="4.8042009"/>
+    <nd ref="975401019" lat="43.9447972" lon="4.8040594"/>
+    <nd ref="975394968" lat="43.9449285" lon="4.8041049"/>
+    <nd ref="974713235" lat="43.9449021" lon="4.8042489"/>
+    <nd ref="974879352" lat="43.9449108" lon="4.8042517"/>
+    <nd ref="975198293" lat="43.9449195" lon="4.8042582"/>
+    <nd ref="974987065" lat="43.9449259" lon="4.8042660"/>
+    <nd ref="974831691" lat="43.9449274" lon="4.8042673"/>
+    <nd ref="974960400" lat="43.9449330" lon="4.8042775"/>
+    <nd ref="975360884" lat="43.9449372" lon="4.8042890"/>
+    <nd ref="975426475" lat="43.9449392" lon="4.8043017"/>
+    <nd ref="975317552" lat="43.9449391" lon="4.8043067"/>
+    <nd ref="974795103" lat="43.9449652" lon="4.8043176"/>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Rue Violette"/>
+    <tag k="alt_name" v="Hôtel de Caumont"/>
+    <tag k="building" v="yes"/>
+    <tag k="description" v="Musée ouvert en 2000 par Yves Lambert pour partager sa collection d'art privée avec le public."/>
+    <tag k="email" v="information@collectionlambert.com"/>
+    <tag k="fax" v="+33 4 90 16 56 21"/>
+    <tag k="festival:Avignon_off:2015" v="yes"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="mhs"/>
+    <tag k="historic" v="building"/>
+    <tag k="mhs:inscription_date" v="1964-10-02"/>
+    <tag k="museum" v="art"/>
+    <tag k="name" v="Collection Lambert"/>
+    <tag k="phone" v="+33 4 90 16 56 20"/>
+    <tag k="ref:mhs" v="PA00081845"/>
+    <tag k="source" v="www.ot-avignon.fr"/>
+    <tag k="source:heritage" v="data.gouv.fr, Ministère de la Culture - 2016"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="http://www.collectionlambert.com/"/>
+    <tag k="wikidata" v="Q19437859"/>
+    <tag k="wikipedia" v="fr:Hôtel de Caumont (Avignon)"/>
+  </way>
+  <way id="83757683">
+    <bounds minlat="43.9422520" minlon="4.8026180" maxlat="43.9426736" maxlon="4.8044235"/>
+    <nd ref="974756660" lat="43.9422541" lon="4.8026262"/>
+    <nd ref="975386357" lat="43.9422535" lon="4.8027584"/>
+    <nd ref="974971058" lat="43.9422528" lon="4.8029384"/>
+    <nd ref="974974795" lat="43.9422520" lon="4.8029863"/>
+    <nd ref="975145271" lat="43.9422572" lon="4.8029864"/>
+    <nd ref="974986775" lat="43.9422582" lon="4.8031501"/>
+    <nd ref="7815150995" lat="43.9422608" lon="4.8034390"/>
+    <nd ref="975317838" lat="43.9422640" lon="4.8037963"/>
+    <nd ref="974735347" lat="43.9422663" lon="4.8040218"/>
+    <nd ref="974915829" lat="43.9422694" lon="4.8044235"/>
+    <nd ref="974991367" lat="43.9425183" lon="4.8044147"/>
+    <nd ref="975141376" lat="43.9425187" lon="4.8043908"/>
+    <nd ref="974898141" lat="43.9425848" lon="4.8044054"/>
+    <nd ref="975121111" lat="43.9425924" lon="4.8043389"/>
+    <nd ref="974742376" lat="43.9426129" lon="4.8041065"/>
+    <nd ref="975092866" lat="43.9426099" lon="4.8041065"/>
+    <nd ref="975344723" lat="43.9426109" lon="4.8040952"/>
+    <nd ref="975207298" lat="43.9426162" lon="4.8040336"/>
+    <nd ref="975278606" lat="43.9426198" lon="4.8040337"/>
+    <nd ref="975439345" lat="43.9426305" lon="4.8039119"/>
+    <nd ref="975435361" lat="43.9426472" lon="4.8037349"/>
+    <nd ref="974735013" lat="43.9426436" lon="4.8037335"/>
+    <nd ref="975231953" lat="43.9426498" lon="4.8036607"/>
+    <nd ref="975423493" lat="43.9426534" lon="4.8036620"/>
+    <nd ref="974873701" lat="43.9426736" lon="4.8034448"/>
+    <nd ref="974779687" lat="43.9426380" lon="4.8034387"/>
+    <nd ref="974775596" lat="43.9426459" lon="4.8033545"/>
+    <nd ref="974876282" lat="43.9424874" lon="4.8033220"/>
+    <nd ref="975012479" lat="43.9425136" lon="4.8030483"/>
+    <nd ref="975402869" lat="43.9425286" lon="4.8028876"/>
+    <nd ref="974903941" lat="43.9424988" lon="4.8028804"/>
+    <nd ref="975096559" lat="43.9425056" lon="4.8028164"/>
+    <nd ref="975373990" lat="43.9425066" lon="4.8028000"/>
+    <nd ref="975387854" lat="43.9425233" lon="4.8028069"/>
+    <nd ref="974859541" lat="43.9425391" lon="4.8027305"/>
+    <nd ref="975293892" lat="43.9425437" lon="4.8027118"/>
+    <nd ref="974715009" lat="43.9425479" lon="4.8026792"/>
+    <nd ref="975302888" lat="43.9425504" lon="4.8026591"/>
+    <nd ref="975027846" lat="43.9425529" lon="4.8026403"/>
+    <nd ref="974797158" lat="43.9423956" lon="4.8026229"/>
+    <nd ref="974984532" lat="43.9423585" lon="4.8026180"/>
+    <nd ref="974997441" lat="43.9423567" lon="4.8026394"/>
+    <nd ref="974756660" lat="43.9422541" lon="4.8026262"/>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Boulevard Saint-Roch"/>
+    <tag k="building" v="yes"/>
+    <tag k="city" v="Avignon"/>
+    <tag k="contact:email" v="reservationagh@cloitre-saint-louis.com"/>
+    <tag k="contact:fax" v="+33 4 90 80 98 10"/>
+    <tag k="contact:phone" v="+33 4 90 80 98 09"/>
+    <tag k="contact:website" v="http://www.avignon-grand-hotel.com/"/>
+    <tag k="description:FR" v="A une minute du centre-ville, au pied des remparts, Avignon Grand hôtel offre convivialité, charme et authenticité dans un décor moderne et provençal aux couleurs harmonieuses. Chambres très spacieuses entre 40 et 65 m2."/>
+    <tag k="ele" v="21"/>
+    <tag k="image" v="https://i.imgur.com/Aqba8Wo.jpg"/>
+    <tag k="image:0" v="https://i.imgur.com/cUBD0Fb.jpg"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Avignon Grand Hôtel"/>
+    <tag k="opening_day" v="Toute l'année."/>
+    <tag k="ref:FR:SIRET" v="49206298900016"/>
+    <tag k="ref:INSEE:city" v="84007"/>
+    <tag k="rooms" v="124"/>
+    <tag k="source:geometry" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="source:modif" v="Apidae (2017-11-21), in Opendata PACA"/>
+    <tag k="stars" v="4"/>
+    <tag k="start_date" v="2006-04-06"/>
+    <tag k="tourism" v="hotel"/>
+  </way>
+  <way id="83762862">
+    <bounds minlat="43.9451083" minlon="4.8056786" maxlat="43.9454066" maxlon="4.8060609"/>
+    <nd ref="974896521" lat="43.9454066" lon="4.8056909"/>
+    <nd ref="974912159" lat="43.9452478" lon="4.8056786"/>
+    <nd ref="975097015" lat="43.9452331" lon="4.8059161"/>
+    <nd ref="974963757" lat="43.9452433" lon="4.8059177"/>
+    <nd ref="975434372" lat="43.9452416" lon="4.8059340"/>
+    <nd ref="975339537" lat="43.9451412" lon="4.8059209"/>
+    <nd ref="974769646" lat="43.9451083" lon="4.8060609"/>
+    <nd ref="974993394" lat="43.9451901" lon="4.8060533"/>
+    <nd ref="974963220" lat="43.9453413" lon="4.8060378"/>
+    <nd ref="975370035" lat="43.9453616" lon="4.8059314"/>
+    <nd ref="974810671" lat="43.9454050" lon="4.8057035"/>
+    <nd ref="974896521" lat="43.9454066" lon="4.8056909"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Rue de la République"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="brand" v="BNP Paribas"/>
+    <tag k="brand:wikidata" v="Q499707"/>
+    <tag k="brand:wikipedia" v="en:BNP Paribas"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="BNP Paribas"/>
+    <tag k="phone" v="+33 4 90 14 73 64"/>
+    <tag k="source" v="Avignon Côté Cité"/>
+    <tag k="website" v="www.bnp.paribas.net"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="83778411">
+    <bounds minlat="43.9492463" minlon="4.8037158" maxlat="43.9494580" maxlon="4.8040129"/>
+    <nd ref="974729117" lat="43.9492989" lon="4.8037158"/>
+    <nd ref="974740129" lat="43.9492869" lon="4.8037797"/>
+    <nd ref="974888467" lat="43.9493195" lon="4.8037933"/>
+    <nd ref="974780563" lat="43.9492965" lon="4.8039110"/>
+    <nd ref="974797813" lat="43.9492646" lon="4.8038987"/>
+    <nd ref="974765237" lat="43.9492463" lon="4.8039926"/>
+    <nd ref="975250096" lat="43.9492942" lon="4.8040129"/>
+    <nd ref="974895368" lat="43.9493272" lon="4.8039976"/>
+    <nd ref="975381734" lat="43.9493577" lon="4.8040048"/>
+    <nd ref="974944879" lat="43.9493602" lon="4.8039872"/>
+    <nd ref="975039783" lat="43.9493776" lon="4.8039940"/>
+    <nd ref="975077266" lat="43.9493792" lon="4.8039840"/>
+    <nd ref="974737979" lat="43.9493824" lon="4.8039677"/>
+    <nd ref="975132705" lat="43.9493613" lon="4.8039608"/>
+    <nd ref="974973162" lat="43.9493676" lon="4.8039320"/>
+    <nd ref="975442236" lat="43.9493887" lon="4.8039402"/>
+    <nd ref="974761310" lat="43.9493902" lon="4.8039327"/>
+    <nd ref="974849125" lat="43.9494366" lon="4.8039517"/>
+    <nd ref="974928677" lat="43.9494445" lon="4.8039155"/>
+    <nd ref="974758059" lat="43.9494531" lon="4.8038754"/>
+    <nd ref="974871987" lat="43.9494580" lon="4.8038466"/>
+    <nd ref="974791671" lat="43.9494362" lon="4.8038384"/>
+    <nd ref="974745551" lat="43.9494474" lon="4.8037745"/>
+    <nd ref="974729117" lat="43.9492989" lon="4.8037158"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Rue Petite Fusterie"/>
+    <tag k="building" v="apartments"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="83786832">
+    <bounds minlat="43.9431955" minlon="4.8034168" maxlat="43.9438216" maxlon="4.8048453"/>
+    <nd ref="974930823" lat="43.9438216" lon="4.8034921"/>
+    <nd ref="975268664" lat="43.9433728" lon="4.8034168"/>
+    <nd ref="974773472" lat="43.9433334" lon="4.8034610"/>
+    <nd ref="974824242" lat="43.9432604" lon="4.8042030"/>
+    <nd ref="975138654" lat="43.9432459" lon="4.8042000"/>
+    <nd ref="974805721" lat="43.9432327" lon="4.8043406"/>
+    <nd ref="975267142" lat="43.9432247" lon="4.8043404"/>
+    <nd ref="974866130" lat="43.9431955" lon="4.8046644"/>
+    <nd ref="974821155" lat="43.9432224" lon="4.8046715"/>
+    <nd ref="975120491" lat="43.9432069" lon="4.8048184"/>
+    <nd ref="975396040" lat="43.9432789" lon="4.8048306"/>
+    <nd ref="975223378" lat="43.9433487" lon="4.8048453"/>
+    <nd ref="974839173" lat="43.9433739" lon="4.8045917"/>
+    <nd ref="974865053" lat="43.9433383" lon="4.8045843"/>
+    <nd ref="975421932" lat="43.9433547" lon="4.8044212"/>
+    <nd ref="974994478" lat="43.9433889" lon="4.8044272"/>
+    <nd ref="974749762" lat="43.9433967" lon="4.8043469"/>
+    <nd ref="974804003" lat="43.9433611" lon="4.8043395"/>
+    <nd ref="975377124" lat="43.9433758" lon="4.8041964"/>
+    <nd ref="975023376" lat="43.9433888" lon="4.8041993"/>
+    <nd ref="974901134" lat="43.9433950" lon="4.8041353"/>
+    <nd ref="974908054" lat="43.9433812" lon="4.8041323"/>
+    <nd ref="974942992" lat="43.9433846" lon="4.8040997"/>
+    <nd ref="975259322" lat="43.9434093" lon="4.8041042"/>
+    <nd ref="974739420" lat="43.9434138" lon="4.8040540"/>
+    <nd ref="975009926" lat="43.9433898" lon="4.8040495"/>
+    <nd ref="975326380" lat="43.9433950" lon="4.8039968"/>
+    <nd ref="975178207" lat="43.9434298" lon="4.8036414"/>
+    <nd ref="975352311" lat="43.9434850" lon="4.8036507"/>
+    <nd ref="975090876" lat="43.9434904" lon="4.8035904"/>
+    <nd ref="974725442" lat="43.9435974" lon="4.8036065"/>
+    <nd ref="975279104" lat="43.9437465" lon="4.8036296"/>
+    <nd ref="975414215" lat="43.9438134" lon="4.8036405"/>
+    <nd ref="974930823" lat="43.9438216" lon="4.8034921"/>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:country" v="FR"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Cours du Président Kennedy"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="atm" v="yes"/>
+    <tag k="brand" v="La Poste"/>
+    <tag k="brand:wikipedia" v="fr:La Poste (entreprise française)"/>
+    <tag k="building" v="yes"/>
+    <tag k="change_machine" v="yes"/>
+    <tag k="copy_facility" v="yes"/>
+    <tag k="name" v="Avignon République"/>
+    <tag k="opening_hours" v="Mo-Fr 8:30-12:30,13:30-18:00; Sa 09:15-12:00"/>
+    <tag k="operator" v="La Poste"/>
+    <tag k="operator:wikidata" v="Q373724"/>
+    <tag k="operator:wikipedia" v="fr:La Poste (entreprise française)"/>
+    <tag k="phone:FR" v="3631"/>
+    <tag k="ref:FR:LaPoste" v="15830A"/>
+    <tag k="source" v="LaPoste - 2021-06"/>
+    <tag k="stamping_machine" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="83752372">
+    <bounds minlat="43.9490063" minlon="4.8036118" maxlat="43.9491118" maxlon="4.8037774"/>
+    <nd ref="974896504" lat="43.9490234" lon="4.8036118"/>
+    <nd ref="974720685" lat="43.9490063" lon="4.8037246"/>
+    <nd ref="974776035" lat="43.9490403" lon="4.8037370"/>
+    <nd ref="974949047" lat="43.9490505" lon="4.8037411"/>
+    <nd ref="975227695" lat="43.9490599" lon="4.8037451"/>
+    <nd ref="974978855" lat="43.9490566" lon="4.8037665"/>
+    <nd ref="975254747" lat="43.9490871" lon="4.8037774"/>
+    <nd ref="975295723" lat="43.9491118" lon="4.8036434"/>
+    <nd ref="974896504" lat="43.9490234" lon="4.8036118"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Rue Joseph Vernet"/>
+    <tag k="building" v="apartments"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="83753573">
+    <bounds minlat="43.9489486" minlon="4.8031944" maxlat="43.9491449" maxlon="4.8035278"/>
+    <nd ref="975201281" lat="43.9490059" lon="4.8031944"/>
+    <nd ref="974828626" lat="43.9489486" lon="4.8034509"/>
+    <nd ref="974822607" lat="43.9491173" lon="4.8035278"/>
+    <nd ref="975325433" lat="43.9491382" lon="4.8034050"/>
+    <nd ref="974788204" lat="43.9491193" lon="4.8033994"/>
+    <nd ref="975385944" lat="43.9491449" lon="4.8032553"/>
+    <nd ref="975308422" lat="43.9491080" lon="4.8032391"/>
+    <nd ref="975024862" lat="43.9490947" lon="4.8032953"/>
+    <nd ref="975440645" lat="43.9490491" lon="4.8032751"/>
+    <nd ref="974986257" lat="43.9490546" lon="4.8032488"/>
+    <nd ref="974997383" lat="43.9490821" lon="4.8032610"/>
+    <nd ref="975001362" lat="43.9490892" lon="4.8032297"/>
+    <nd ref="974887844" lat="43.9490211" lon="4.8032012"/>
+    <nd ref="975201281" lat="43.9490059" lon="4.8031944"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Rue Joseph Vernet"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="83761602">
+    <bounds minlat="43.9492476" minlon="4.8035004" maxlat="43.9493440" maxlon="4.8036236"/>
+    <nd ref="974879172" lat="43.9493440" lon="4.8035371"/>
+    <nd ref="975417753" lat="43.9492599" lon="4.8035004"/>
+    <nd ref="974956986" lat="43.9492476" lon="4.8035871"/>
+    <nd ref="974879039" lat="43.9493295" lon="4.8036236"/>
+    <nd ref="974879172" lat="43.9493440" lon="4.8035371"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Rue Joseph Vernet"/>
+    <tag k="building" v="apartments"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="83769520">
+    <bounds minlat="43.9491173" minlon="4.8032659" maxlat="43.9494659" maxlon="4.8035871"/>
+    <nd ref="975325433" lat="43.9491382" lon="4.8034050"/>
+    <nd ref="974822607" lat="43.9491173" lon="4.8035278"/>
+    <nd ref="974956986" lat="43.9492476" lon="4.8035871"/>
+    <nd ref="975417753" lat="43.9492599" lon="4.8035004"/>
+    <nd ref="975401305" lat="43.9492608" lon="4.8034943"/>
+    <nd ref="975308948" lat="43.9494106" lon="4.8035554"/>
+    <nd ref="975345208" lat="43.9494477" lon="4.8035705"/>
+    <nd ref="975018473" lat="43.9494659" lon="4.8034388"/>
+    <nd ref="975120295" lat="43.9492270" lon="4.8033686"/>
+    <nd ref="975339162" lat="43.9492384" lon="4.8032959"/>
+    <nd ref="975175699" lat="43.9491623" lon="4.8032659"/>
+    <nd ref="975325433" lat="43.9491382" lon="4.8034050"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Rue Joseph Vernet"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="83786329">
+    <bounds minlat="43.9452603" minlon="4.7994497" maxlat="43.9453172" maxlon="4.7996270"/>
+    <nd ref="974807771" lat="43.9452741" lon="4.7996261"/>
+    <nd ref="974834778" lat="43.9453150" lon="4.7996223"/>
+    <nd ref="974901223" lat="43.9453172" lon="4.7996223"/>
+    <nd ref="975263200" lat="43.9453141" lon="4.7994497"/>
+    <nd ref="975340626" lat="43.9452732" lon="4.7994548"/>
+    <nd ref="974826312" lat="43.9452757" lon="4.7995279"/>
+    <nd ref="974848479" lat="43.9452603" lon="4.7995287"/>
+    <nd ref="974814128" lat="43.9452646" lon="4.7996270"/>
+    <nd ref="974807771" lat="43.9452741" lon="4.7996261"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Rue de la Velouterie"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="wall" v="no"/>
+  </way>
+  <way id="83788659">
+    <bounds minlat="43.9471794" minlon="4.8004556" maxlat="43.9473505" maxlon="4.8007876"/>
+    <nd ref="974859325" lat="43.9472424" lon="4.8005620"/>
+    <nd ref="974862552" lat="43.9472236" lon="4.8004556"/>
+    <nd ref="974982337" lat="43.9471826" lon="4.8004683"/>
+    <nd ref="975036291" lat="43.9471992" lon="4.8005733"/>
+    <nd ref="975028616" lat="43.9471794" lon="4.8005790"/>
+    <nd ref="974863760" lat="43.9472170" lon="4.8007829"/>
+    <nd ref="975376046" lat="43.9472654" lon="4.8007667"/>
+    <nd ref="975225805" lat="43.9472681" lon="4.8007781"/>
+    <nd ref="975297087" lat="43.9472850" lon="4.8007723"/>
+    <nd ref="975064320" lat="43.9472891" lon="4.8007876"/>
+    <nd ref="974764440" lat="43.9473500" lon="4.8007680"/>
+    <nd ref="975045462" lat="43.9473453" lon="4.8007389"/>
+    <nd ref="975335820" lat="43.9473505" lon="4.8007378"/>
+    <nd ref="975332994" lat="43.9473106" lon="4.8005363"/>
+    <nd ref="974859325" lat="43.9472424" lon="4.8005620"/>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Rue Victor Hugo"/>
+    <tag k="building" v="yes"/>
+    <tag k="description" v="« Maison du XVIIIe siècle » au cœur d’Avignon, cette demeure de collectionneur nous invite à découvrir un certain goût français avec son mobilier estampillé Migeon, Ellaume ou Tuart, son rare ensemble de faïences et de porcelaines, ses tapisseries, son ho"/>
+    <tag k="email" v="musee.vouland@wanadoo.fr"/>
+    <tag k="fax" v="+33 4 90 85 12 04"/>
+    <tag k="museum" v="art"/>
+    <tag k="name" v="Musée Louis Vouland"/>
+    <tag k="phone" v="+33 4 90 86 03 79"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="https://www.vouland.com/"/>
+    <tag k="wikidata" v="Q24649065"/>
+    <tag k="wikipedia" v="fr:Musée Louis Vouland"/>
+  </way>
+  <way id="83749877">
+    <bounds minlat="43.9455250" minlon="4.8057247" maxlat="43.9455425" maxlon="4.8058053"/>
+    <nd ref="975091638" lat="43.9455250" lon="4.8057247"/>
+    <nd ref="975269441" lat="43.9455251" lon="4.8058053"/>
+    <nd ref="975294795" lat="43.9455405" lon="4.8058033"/>
+    <nd ref="974872842" lat="43.9455425" lon="4.8057253"/>
+    <nd ref="975091638" lat="43.9455250" lon="4.8057247"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Rue de la République"/>
+    <tag k="building" v="yes"/>
+    <tag k="city" v="Avignon"/>
+    <tag k="contact:email" v="avignon.central.hotel@gmail.com"/>
+    <tag k="contact:fax" v="+33 4 90 27 99 54"/>
+    <tag k="contact:phone" v="+33 4 90 86 07 81"/>
+    <tag k="contact:website" v="http://www.hotel-central-avignon.com"/>
+    <tag k="description:FR" v="Charmant hôtel au cœur des remparts. Entièrement rénové et réhabilité. Au calme de l'agitation de la ville car séparé de la rue principale par une grande terrasse ombragée."/>
+    <tag k="ele" v="21"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Hôtel Central"/>
+    <tag k="opening_day" v="Toute l'année."/>
+    <tag k="ref:INSEE:city" v="84007"/>
+    <tag k="source" v="Avignon Côté Cité"/>
+    <tag k="source:modif" v="Apidae (2017-11-21), in Opendata PACA"/>
+    <tag k="stars" v="3"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="http://www.avignon-central-hotel.com/"/>
+  </way>
+  <way id="83756327">
+    <bounds minlat="43.9474749" minlon="4.8058910" maxlat="43.9477347" maxlon="4.8060612"/>
+    <nd ref="975312965" lat="43.9477299" lon="4.8060371"/>
+    <nd ref="974737053" lat="43.9477347" lon="4.8059164"/>
+    <nd ref="10751683090" lat="43.9475003" lon="4.8058932"/>
+    <nd ref="975339569" lat="43.9474776" lon="4.8058910"/>
+    <nd ref="974814407" lat="43.9474749" lon="4.8059249"/>
+    <nd ref="974867722" lat="43.9475113" lon="4.8059285"/>
+    <nd ref="975418750" lat="43.9475081" lon="4.8060367"/>
+    <nd ref="975287217" lat="43.9475482" lon="4.8060430"/>
+    <nd ref="975297124" lat="43.9476514" lon="4.8060612"/>
+    <nd ref="975312965" lat="43.9477299" lon="4.8060371"/>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Rue de la République"/>
+    <tag k="building" v="hotel"/>
+    <tag k="city" v="Avignon"/>
+    <tag k="contact:email" v="contact@hoteldanieli-avignon.fr"/>
+    <tag k="contact:fax" v="+33 4 90 27 09 24"/>
+    <tag k="contact:phone" v="+33 4 90 86 46 82"/>
+    <tag k="description:FR" v="Situé dans un bel immeuble du XVIIIe au coeur du centre historique de la ville, près du pont d'Avignon et du Palais des Papes."/>
+    <tag k="ele" v="21"/>
+    <tag k="email" v="hotel.danieli.avignon@gmail.com"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Hôtel Danieli"/>
+    <tag k="opening_day" v="Toute l'année."/>
+    <tag k="ref:FR:SIRET" v="50197602100029"/>
+    <tag k="ref:INSEE:city" v="84007"/>
+    <tag k="rooms" v="29"/>
+    <tag k="source:building" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="source:modif" v="Apidae (2017-11-21), in Opendata PACA"/>
+    <tag k="stars" v="3"/>
+    <tag k="start_date" v="2008-02-04"/>
+    <tag k="survey:date" v="2019-08-09"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://hoteldanieli-avignon.fr/"/>
+  </way>
+  <way id="83772586">
+    <bounds minlat="43.9461141" minlon="4.8045292" maxlat="43.9463682" maxlon="4.8049141"/>
+    <nd ref="974800095" lat="43.9461444" lon="4.8048796"/>
+    <nd ref="975081519" lat="43.9463670" lon="4.8049141"/>
+    <nd ref="975193922" lat="43.9463682" lon="4.8046081"/>
+    <nd ref="975431999" lat="43.9463355" lon="4.8045555"/>
+    <nd ref="974789158" lat="43.9462118" lon="4.8045392"/>
+    <nd ref="975276218" lat="43.9461332" lon="4.8045292"/>
+    <nd ref="974862604" lat="43.9461203" lon="4.8046976"/>
+    <nd ref="975169862" lat="43.9461161" lon="4.8047340"/>
+    <nd ref="974805186" lat="43.9461141" lon="4.8047641"/>
+    <nd ref="975052495" lat="43.9461498" lon="4.8047703"/>
+    <nd ref="975367327" lat="43.9461440" lon="4.8048570"/>
+    <nd ref="974800095" lat="43.9461444" lon="4.8048796"/>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Rue Pourquery de Boisserin"/>
+    <tag k="building" v="yes"/>
+    <tag k="festival" v="yes"/>
+    <tag k="festival:Avignon_Off:2015" v="http://www.festival-avignon.com/fr/les-lieux/hotel-de-la-mirande"/>
+    <tag k="name" v="Cinéma Pandora"/>
+    <tag k="old_alt_name" v="Cinéma Capitole centre"/>
+    <tag k="old_name" v="Le Capitole"/>
+    <tag k="source:building" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="source:festival" v="Mairie d'Avignon"/>
+    <tag k="website" v="https://lepandora.fr/"/>
+    <tag k="wheelchair" v="limited"/>
+  </way>
+  <way id="83774738">
+    <bounds minlat="43.9457980" minlon="4.8045336" maxlat="43.9459424" maxlon="4.8048839"/>
+    <nd ref="974979655" lat="43.9459333" lon="4.8048053"/>
+    <nd ref="975421172" lat="43.9459424" lon="4.8047375"/>
+    <nd ref="975388038" lat="43.9459324" lon="4.8046793"/>
+    <nd ref="975323895" lat="43.9459251" lon="4.8046829"/>
+    <nd ref="975306341" lat="43.9459316" lon="4.8046365"/>
+    <nd ref="974881967" lat="43.9459374" lon="4.8046392"/>
+    <nd ref="974951059" lat="43.9459369" lon="4.8046240"/>
+    <nd ref="974770260" lat="43.9459318" lon="4.8046226"/>
+    <nd ref="974947629" lat="43.9459403" lon="4.8045511"/>
+    <nd ref="975037464" lat="43.9458611" lon="4.8045336"/>
+    <nd ref="975256034" lat="43.9458555" lon="4.8045624"/>
+    <nd ref="975437412" lat="43.9458329" lon="4.8046977"/>
+    <nd ref="974793789" lat="43.9458068" lon="4.8046931"/>
+    <nd ref="974919462" lat="43.9457980" lon="4.8047407"/>
+    <nd ref="975052459" lat="43.9458249" lon="4.8047466"/>
+    <nd ref="975438492" lat="43.9458148" lon="4.8048319"/>
+    <nd ref="974786494" lat="43.9458139" lon="4.8048394"/>
+    <nd ref="975350852" lat="43.9458451" lon="4.8048492"/>
+    <nd ref="975057714" lat="43.9458449" lon="4.8048605"/>
+    <nd ref="974829825" lat="43.9458512" lon="4.8048771"/>
+    <nd ref="975118139" lat="43.9458679" lon="4.8048839"/>
+    <nd ref="975388621" lat="43.9458789" lon="4.8048817"/>
+    <nd ref="974734848" lat="43.9458907" lon="4.8048745"/>
+    <nd ref="974867795" lat="43.9459028" lon="4.8047980"/>
+    <nd ref="974979655" lat="43.9459333" lon="4.8048053"/>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Rue du Collège D'Annecy"/>
+    <tag k="building" v="chapel"/>
+    <tag k="festival" v="yes"/>
+    <tag k="festival:Avignon_Off:2015" v="yes"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="source:festival" v="Mairie d'Avignon"/>
+    <tag k="website" v="http://www.theatrenotredame.com/"/>
+  </way>
+  <way id="83778369">
+    <bounds minlat="43.9481221" minlon="4.8055862" maxlat="43.9482901" maxlon="4.8057792"/>
+    <nd ref="975097066" lat="43.9481425" lon="4.8055862"/>
+    <nd ref="974832032" lat="43.9481221" lon="4.8057657"/>
+    <nd ref="975352092" lat="43.9482364" lon="4.8057792"/>
+    <nd ref="975364414" lat="43.9482509" lon="4.8056953"/>
+    <nd ref="975097120" lat="43.9482784" lon="4.8057087"/>
+    <nd ref="975002639" lat="43.9482901" lon="4.8056612"/>
+    <nd ref="975098679" lat="43.9482698" lon="4.8056518"/>
+    <nd ref="975412915" lat="43.9482668" lon="4.8056592"/>
+    <nd ref="975097066" lat="43.9481425" lon="4.8055862"/>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Rue de la République"/>
+    <tag k="building" v="yes"/>
+    <tag k="city" v="Avignon"/>
+    <tag k="contact:email" v="info@regina-hotel.fr"/>
+    <tag k="contact:fax" v="+33 4 90 86 49 78"/>
+    <tag k="contact:phone" v="+33 4 90 86 49 45"/>
+    <tag k="contact:website" v="http://www.hotelregina-avignon.fr"/>
+    <tag k="description:FR" v="En centre ville, proche du palais des papes et de la place de l'horloge, l'hôtel Régina vous offre un emplacement idéal ainsi que tout le confort : TNT, canal +, service en chambre, surveillance de nuit, borne internet, ouverture 24h/24."/>
+    <tag k="ele" v="21"/>
+    <tag k="email" v="info@regina-hotel.fr"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Hôtel Regina Avignon"/>
+    <tag k="opening_day" v="Du 17/02 au 31/12/2017."/>
+    <tag k="ref:FR:SIRET" v="53217363000023"/>
+    <tag k="ref:INSEE:city" v="84007"/>
+    <tag k="rooms" v="30"/>
+    <tag k="source:building" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="source:modif" v="Apidae (2017-11-21), in Opendata PACA"/>
+    <tag k="source:ref:FR:SIRET" v="INSEE - 07/2017"/>
+    <tag k="stars" v="2"/>
+    <tag k="start_date" v="2015-12-23"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="http://www.regina-hotel-avignon.com/"/>
+  </way>
+  <way id="83778371">
+    <bounds minlat="43.9454579" minlon="4.8043872" maxlat="43.9458687" maxlon="4.8045624"/>
+    <nd ref="975256034" lat="43.9458555" lon="4.8045624"/>
+    <nd ref="975037464" lat="43.9458611" lon="4.8045336"/>
+    <nd ref="975035682" lat="43.9458671" lon="4.8044733"/>
+    <nd ref="975394214" lat="43.9458687" lon="4.8044633"/>
+    <nd ref="974837943" lat="43.9458534" lon="4.8044616"/>
+    <nd ref="975198930" lat="43.9458526" lon="4.8044716"/>
+    <nd ref="974785566" lat="43.9454768" lon="4.8043872"/>
+    <nd ref="9898882403" lat="43.9454720" lon="4.8044099"/>
+    <nd ref="974826299" lat="43.9454579" lon="4.8044760"/>
+    <nd ref="975256034" lat="43.9458555" lon="4.8045624"/>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="77"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Rue Joseph Vernet"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="83782219">
+    <bounds minlat="43.9472585" minlon="4.8058693" maxlat="43.9475691" maxlon="4.8063707"/>
+    <nd ref="975430389" lat="43.9475691" lon="4.8063320"/>
+    <nd ref="975104167" lat="43.9475472" lon="4.8061009"/>
+    <nd ref="975287217" lat="43.9475482" lon="4.8060430"/>
+    <nd ref="975418750" lat="43.9475081" lon="4.8060367"/>
+    <nd ref="974867722" lat="43.9475113" lon="4.8059285"/>
+    <nd ref="974814407" lat="43.9474749" lon="4.8059249"/>
+    <nd ref="975339569" lat="43.9474776" lon="4.8058910"/>
+    <nd ref="975049836" lat="43.9472628" lon="4.8058693"/>
+    <nd ref="975393137" lat="43.9472585" lon="4.8059095"/>
+    <nd ref="974987974" lat="43.9473547" lon="4.8059149"/>
+    <nd ref="975113994" lat="43.9473492" lon="4.8060823"/>
+    <nd ref="975286821" lat="43.9473474" lon="4.8061490"/>
+    <nd ref="975216947" lat="43.9473671" lon="4.8061483"/>
+    <nd ref="974744966" lat="43.9473639" lon="4.8062112"/>
+    <nd ref="975216250" lat="43.9473916" lon="4.8062107"/>
+    <nd ref="975399720" lat="43.9473920" lon="4.8063707"/>
+    <nd ref="974897029" lat="43.9474592" lon="4.8063652"/>
+    <nd ref="975421148" lat="43.9474746" lon="4.8063606"/>
+    <nd ref="975430389" lat="43.9475691" lon="4.8063320"/>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Rue de la République"/>
+    <tag k="brand" v="Fnac"/>
+    <tag k="brand:wikidata" v="Q676585"/>
+    <tag k="building" v="yes"/>
+    <tag k="check_date:opening_hours" v="2022-01-29"/>
+    <tag k="description" v="Chaîne française de distribution de livres, disques, DVD, matériel multimédia, électroménager et téléphonie."/>
+    <tag k="name" v="Fnac"/>
+    <tag k="opening_hours" v="Mo-Sa 10:00-19:00"/>
+    <tag k="shop" v="books"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010;local knowledge"/>
+    <tag k="source:modif" v="Apidae (2017-11-21), in Opendata PACA"/>
+    <tag k="survey:date" v="2019-08-09"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="83784740">
+    <bounds minlat="43.9457482" minlon="4.8057530" maxlat="43.9460257" maxlon="4.8063170"/>
+    <nd ref="974972896" lat="43.9459592" lon="4.8057530"/>
+    <nd ref="975240277" lat="43.9458823" lon="4.8057746"/>
+    <nd ref="974936930" lat="43.9458766" lon="4.8057669"/>
+    <nd ref="975409798" lat="43.9458648" lon="4.8057703"/>
+    <nd ref="975281507" lat="43.9458632" lon="4.8057791"/>
+    <nd ref="975271134" lat="43.9458427" lon="4.8057847"/>
+    <nd ref="975341879" lat="43.9458370" lon="4.8057783"/>
+    <nd ref="975338167" lat="43.9458245" lon="4.8057817"/>
+    <nd ref="974736718" lat="43.9458222" lon="4.8057904"/>
+    <nd ref="975373124" lat="43.9457482" lon="4.8058146"/>
+    <nd ref="974871163" lat="43.9458275" lon="4.8062880"/>
+    <nd ref="975096061" lat="43.9458803" lon="4.8062694"/>
+    <nd ref="975095955" lat="43.9459054" lon="4.8062941"/>
+    <nd ref="975438473" lat="43.9459007" lon="4.8063129"/>
+    <nd ref="975216912" lat="43.9459123" lon="4.8063170"/>
+    <nd ref="974897847" lat="43.9459170" lon="4.8062970"/>
+    <nd ref="974793954" lat="43.9459258" lon="4.8062935"/>
+    <nd ref="974808853" lat="43.9459271" lon="4.8063061"/>
+    <nd ref="975380932" lat="43.9459329" lon="4.8063113"/>
+    <nd ref="975255854" lat="43.9459387" lon="4.8063077"/>
+    <nd ref="974905801" lat="43.9459439" lon="4.8063029"/>
+    <nd ref="975177623" lat="43.9459463" lon="4.8062903"/>
+    <nd ref="975435043" lat="43.9459507" lon="4.8062892"/>
+    <nd ref="974876426" lat="43.9459624" lon="4.8062883"/>
+    <nd ref="975353998" lat="43.9459745" lon="4.8063063"/>
+    <nd ref="975259563" lat="43.9459863" lon="4.8062953"/>
+    <nd ref="975308466" lat="43.9459742" lon="4.8062786"/>
+    <nd ref="975168906" lat="43.9459811" lon="4.8062146"/>
+    <nd ref="975248953" lat="43.9460257" lon="4.8062033"/>
+    <nd ref="974972896" lat="43.9459592" lon="4.8057530"/>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Rue de la République"/>
+    <tag k="building" v="church"/>
+    <tag k="email" v="musee.calvet@mairie-avignon.com"/>
+    <tag k="fee" v="no"/>
+    <tag k="museum" v="archaeological"/>
+    <tag k="museum_type" v="private"/>
+    <tag k="name" v="Musée Lapidaire"/>
+    <tag k="operator" v="Fondation Calvet"/>
+    <tag k="phone" v="+33 4 90 14 62 45"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="https://www.musee-lapidaire.org/"/>
+    <tag k="wikidata" v="Q15952870"/>
+    <tag k="wikipedia" v="fr:Musée lapidaire d'Avignon"/>
+  </way>
+  <way id="83785236">
+    <bounds minlat="43.9453492" minlon="4.8047475" maxlat="43.9456237" maxlon="4.8050761"/>
+    <nd ref="975105208" lat="43.9456045" lon="4.8050761"/>
+    <nd ref="975024719" lat="43.9456237" lon="4.8049696"/>
+    <nd ref="974892607" lat="43.9455591" lon="4.8049501"/>
+    <nd ref="974736786" lat="43.9455646" lon="4.8049225"/>
+    <nd ref="974776712" lat="43.9455487" lon="4.8049170"/>
+    <nd ref="974820280" lat="43.9455724" lon="4.8048006"/>
+    <nd ref="974764805" lat="43.9453997" lon="4.8047475"/>
+    <nd ref="9898872364" lat="43.9453873" lon="4.8048070"/>
+    <nd ref="9898872365" lat="43.9453657" lon="4.8049102"/>
+    <nd ref="974969617" lat="43.9453492" lon="4.8049890"/>
+    <nd ref="975253345" lat="43.9454427" lon="4.8050234"/>
+    <nd ref="974792438" lat="43.9455617" lon="4.8050647"/>
+    <nd ref="975105208" lat="43.9456045" lon="4.8050761"/>
+    <tag k="addr:housenumber" v="102"/>
+    <tag k="addr:street" v="Rue Joseph Vernet"/>
+    <tag k="building" v="apartments"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="83786356">
+    <bounds minlat="43.9453997" minlon="4.8044760" maxlat="43.9458555" maxlon="4.8048319"/>
+    <nd ref="975438492" lat="43.9458148" lon="4.8048319"/>
+    <nd ref="975052459" lat="43.9458249" lon="4.8047466"/>
+    <nd ref="974919462" lat="43.9457980" lon="4.8047407"/>
+    <nd ref="974793789" lat="43.9458068" lon="4.8046931"/>
+    <nd ref="975437412" lat="43.9458329" lon="4.8046977"/>
+    <nd ref="975256034" lat="43.9458555" lon="4.8045624"/>
+    <nd ref="974826299" lat="43.9454579" lon="4.8044760"/>
+    <nd ref="974764805" lat="43.9453997" lon="4.8047475"/>
+    <nd ref="974820280" lat="43.9455724" lon="4.8048006"/>
+    <nd ref="975217593" lat="43.9456493" lon="4.8048243"/>
+    <nd ref="974880435" lat="43.9456719" lon="4.8048301"/>
+    <nd ref="974859571" lat="43.9456798" lon="4.8047862"/>
+    <nd ref="975028981" lat="43.9455355" lon="4.8047365"/>
+    <nd ref="975251829" lat="43.9455683" lon="4.8045524"/>
+    <nd ref="974721824" lat="43.9457900" lon="4.8046019"/>
+    <nd ref="974790053" lat="43.9457575" lon="4.8048125"/>
+    <nd ref="975438492" lat="43.9458148" lon="4.8048319"/>
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="Rue Joseph Vernet"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </way>
+  <way id="439848317">
+    <bounds minlat="43.9458559" minlon="4.8053251" maxlat="43.9461030" maxlon="4.8055702"/>
+    <nd ref="974756316" lat="43.9460766" lon="4.8055702"/>
+    <nd ref="975269051" lat="43.9461030" lon="4.8053783"/>
+    <nd ref="975022065" lat="43.9458850" lon="4.8053251"/>
+    <nd ref="4375261862" lat="43.9458722" lon="4.8054046"/>
+    <nd ref="4375261863" lat="43.9458559" lon="4.8055474"/>
+    <nd ref="974756316" lat="43.9460766" lon="4.8055702"/>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Rue de la République"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="4"/>
+  </way>
+  <relation id="6575339">
+    <bounds minlat="43.9325298" minlon="4.7835873" maxlat="43.9332505" maxlon="4.7845619"/>
+    <member type="way" ref="83782704" role="outer">
+      <nd lat="43.9331449" lon="4.7838281"/>
+      <nd lat="43.9327522" lon="4.7839901"/>
+      <nd lat="43.9325298" lon="4.7840816"/>
+      <nd lat="43.9326116" lon="4.7844617"/>
+      <nd lat="43.9326225" lon="4.7845124"/>
+      <nd lat="43.9326332" lon="4.7845619"/>
+      <nd lat="43.9332505" lon="4.7843059"/>
+      <nd lat="43.9331449" lon="4.7838281"/>
+    </member>
+    <member type="way" ref="83772680" role="outer">
+      <nd lat="43.9331449" lon="4.7838281"/>
+      <nd lat="43.9330918" lon="4.7835873"/>
+      <nd lat="43.9329658" lon="4.7836373"/>
+      <nd lat="43.9327716" lon="4.7837189"/>
+      <nd lat="43.9327006" lon="4.7837493"/>
+      <nd lat="43.9327522" lon="4.7839901"/>
+      <nd lat="43.9331449" lon="4.7838281"/>
+    </member>
+    <member type="way" ref="83756892" role="outer">
+      <nd lat="43.9326225" lon="4.7845124"/>
+      <nd lat="43.9326116" lon="4.7844617"/>
+      <nd lat="43.9325923" lon="4.7844675"/>
+      <nd lat="43.9326039" lon="4.7845182"/>
+      <nd lat="43.9326225" lon="4.7845124"/>
+    </member>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="372"/>
+    <tag k="addr:postcode" v="84097"/>
+    <tag k="addr:street" v="Rue de l'Aulanière"/>
+    <tag k="building" v="industrial"/>
+    <tag k="description" v="Société d'Etudes Chaudronnerie Mécanique et Maintenance Industrielle. SCOOP."/>
+    <tag k="email" v="contact@secmmi.com"/>
+    <tag k="name" v="SECMMI"/>
+    <tag k="phone" v="+33 4 90 16 60 40"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="wall" v="no"/>
+    <tag k="website" v="http://www.secmmi.com/"/>
+  </relation>
+  <relation id="1253095">
+    <bounds minlat="43.9490315" minlon="4.8036434" maxlat="43.9492989" maxlon="4.8041128"/>
+    <member type="way" ref="83768438" role="outer">
+      <nd lat="43.9491118" lon="4.8036434"/>
+      <nd lat="43.9490871" lon="4.8037774"/>
+      <nd lat="43.9490760" lon="4.8038338"/>
+      <nd lat="43.9490315" lon="4.8040642"/>
+      <nd lat="43.9492226" lon="4.8041128"/>
+      <nd lat="43.9492463" lon="4.8039926"/>
+      <nd lat="43.9492646" lon="4.8038987"/>
+      <nd lat="43.9492869" lon="4.8037797"/>
+      <nd lat="43.9492989" lon="4.8037158"/>
+      <nd lat="43.9491118" lon="4.8036434"/>
+    </member>
+    <member type="way" ref="83785287" role="inner">
+      <nd lat="43.9491996" lon="4.8038123"/>
+      <nd lat="43.9491666" lon="4.8039612"/>
+      <nd lat="43.9491042" lon="4.8039442"/>
+      <nd lat="43.9491343" lon="4.8037902"/>
+      <nd lat="43.9491996" lon="4.8038123"/>
+    </member>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Rue Joseph Vernet"/>
+    <tag k="building" v="yes"/>
+    <tag k="heritage" v="3"/>
+    <tag k="heritage:operator" v="mhs"/>
+    <tag k="historic" v="building"/>
+    <tag k="mhs:inscription_date" v="1949-11-23"/>
+    <tag k="name" v="Hôtel de Chanciergues"/>
+    <tag k="name:oc" v="Ostau nòble de Chanciergue"/>
+    <tag k="ref:mhs" v="PA00081846"/>
+    <tag k="source:heritage" v="data.gouv.fr, Ministère de la Culture - 2016"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="wikidata" v="Q22916632"/>
+  </relation>
+  <relation id="1253146">
+    <bounds minlat="43.9490778" minlon="4.8049750" maxlat="43.9495206" maxlon="4.8056576"/>
+    <member type="way" ref="341339886" role="outer">
+      <nd lat="43.9491228" lon="4.8056522"/>
+      <nd lat="43.9492457" lon="4.8056539"/>
+      <nd lat="43.9493109" lon="4.8056548"/>
+      <nd lat="43.9493697" lon="4.8056556"/>
+      <nd lat="43.9494923" lon="4.8056573"/>
+      <nd lat="43.9495139" lon="4.8056576"/>
+      <nd lat="43.9495141" lon="4.8056429"/>
+      <nd lat="43.9495198" lon="4.8056430"/>
+      <nd lat="43.9495206" lon="4.8055221"/>
+      <nd lat="43.9495153" lon="4.8055221"/>
+      <nd lat="43.9495169" lon="4.8052841"/>
+      <nd lat="43.9495197" lon="4.8052842"/>
+      <nd lat="43.9495206" lon="4.8051481"/>
+      <nd lat="43.9495151" lon="4.8051481"/>
+      <nd lat="43.9495162" lon="4.8049799"/>
+      <nd lat="43.9494397" lon="4.8049788"/>
+      <nd lat="43.9494385" lon="4.8051490"/>
+      <nd lat="43.9491614" lon="4.8051453"/>
+      <nd lat="43.9491626" lon="4.8049761"/>
+      <nd lat="43.9490856" lon="4.8049750"/>
+      <nd lat="43.9490843" lon="4.8051557"/>
+      <nd lat="43.9490786" lon="4.8051556"/>
+      <nd lat="43.9490778" lon="4.8052790"/>
+      <nd lat="43.9490821" lon="4.8052790"/>
+      <nd lat="43.9490796" lon="4.8056436"/>
+      <nd lat="43.9490845" lon="4.8056437"/>
+      <nd lat="43.9490845" lon="4.8056517"/>
+      <nd lat="43.9491228" lon="4.8056522"/>
+    </member>
+    <member type="way" ref="83773890" role="inner">
+      <nd lat="43.9493412" lon="4.8053745"/>
+      <nd lat="43.9493396" lon="4.8054714"/>
+      <nd lat="43.9492536" lon="4.8054688"/>
+      <nd lat="43.9492552" lon="4.8053718"/>
+      <nd lat="43.9493412" lon="4.8053745"/>
+    </member>
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Place de l'Horloge"/>
+    <tag k="amenity" v="townhall"/>
+    <tag k="building" v="yes"/>
+    <tag k="heritage" v="3"/>
+    <tag k="heritage:operator" v="mhs"/>
+    <tag k="historic" v="building"/>
+    <tag k="mapillary" v="150712863667734"/>
+    <tag k="mhs:inscription_date" v="1862"/>
+    <tag k="name" v="Hôtel de Ville"/>
+    <tag k="name:oc" v="Ostau de la Comuna"/>
+    <tag k="ref:mhs" v="PA00081880"/>
+    <tag k="source:heritage" v="data.gouv.fr, Ministère de la Culture - 2016"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="start_date" v="C19"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="website" v="http://www.avignon.fr"/>
+    <tag k="wikidata" v="Q22916675"/>
+    <tag k="wikipedia" v="fr:Avignon"/>
+  </relation>
+
+</osm>

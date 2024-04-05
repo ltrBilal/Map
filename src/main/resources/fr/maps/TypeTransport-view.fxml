@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="fr.maps.TypeTransportController">
+   <children>
+      <Text layoutX="182.0" layoutY="90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Veuillez choisir un type de transport" />
+      <RadioButton layoutX="52.0" layoutY="168.0" mnemonicParsing="false" text="CAR">
+         <toggleGroup>
+            <ToggleGroup fx:id="group" />
+         </toggleGroup></RadioButton>
+      <RadioButton layoutX="195.0" layoutY="168.0" mnemonicParsing="false" text="BUS" toggleGroup="$group" />
+      <RadioButton layoutX="337.0" layoutY="168.0" mnemonicParsing="false" text="BICYCLE" toggleGroup="$group" />
+      <RadioButton layoutX="473.0" layoutY="168.0" mnemonicParsing="false" text="PEDESTRIAN" toggleGroup="$group" />
+      <Button layoutX="254.0" layoutY="252.0" mnemonicParsing="false" onAction="#Chercher" style="-fx-background-color: #cfc4fc;" text="CHERCHER" />
+   </children>
+</AnchorPane>

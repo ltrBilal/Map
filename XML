@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itineraire>
+  <Type_de_transport>BICYCLE</Type_de_transport>
+  <depart>place pie</depart>
+  <arrivee>place des études</arrivee>
+  <noeudsIntermediaires>
+    <noeud Id="2808764353" lat="43.9480177" lon="4.8099993">rue de la petite meuse</noeud>
+    <noeud Id="309628841" lat="43.9479835" lon="4.8099856">rue de la petite meuse</noeud>
+    <noeud Id="6673610465" lat="43.9479543" lon="4.8099747">rue de la petite meuse</noeud>
+    <noeud Id="7573489268" lat="43.9474078" lon="4.8097774">rue de la petite meuse</noeud>
+    <noeud Id="309662621" lat="43.9472915" lon="4.8097338">rue de la bonneterie</noeud>
+    <noeud Id="7573489269" lat="43.9472712" lon="4.809701">rue grivolas</noeud>
+    <noeud Id="4946272058" lat="43.9472545" lon="4.809663">rue grivolas</noeud>
+    <noeud Id="309823000" lat="43.9472295" lon="4.8096151">rue grivolas</noeud>
+    <noeud Id="7573489270" lat="43.9471906" lon="4.809583">rue grivolas</noeud>
+    <noeud Id="9599573710" lat="43.9469149" lon="4.8094902">rue grivolas</noeud>
+    <noeud Id="4946204574" lat="43.9466896" lon="4.8094143">rue grivolas</noeud>
+    <noeud Id="309822991" lat="43.9465171" lon="4.8093252">rue grivolas</noeud>
+    <noeud Id="309662669" lat="43.9464625" lon="4.8094933">rue du roi rené</noeud>
+    <noeud Id="2495105336" lat="43.9464445" lon="4.8094858">ruines de la chapelle sainte-claire</noeud>
+    <noeud Id="2495105335" lat="43.9463639" lon="4.8094565">ruines de la chapelle sainte-claire</noeud>
+    <noeud Id="2082989194" lat="43.946317" lon="4.8094427" />
+    <noeud Id="9754544116" lat="43.9460693" lon="4.80936" />
+    <noeud Id="2513148162" lat="43.9459952" lon="4.8093982" />
+    <noeud Id="2513148161" lat="43.9458685" lon="4.8093998" />
+    <noeud Id="5201686176" lat="43.945849" lon="4.8094042" />
+    <noeud Id="2082989193" lat="43.9457152" lon="4.8094026" />
+    <noeud Id="7573489253" lat="43.9457118" lon="4.8093255" />
+    <noeud Id="6049200433" lat="43.9456893" lon="4.8093293" />
+    <noeud Id="7573489254" lat="43.9456886" lon="4.8092926" />
+    <noeud Id="2082989192" lat="43.9456821" lon="4.8092547">rue pétramale</noeud>
+    <noeud Id="309693676" lat="43.9456412" lon="4.809268">rue pétramale</noeud>
+    <noeud Id="6684123438" lat="43.9456364" lon="4.8091904">rue des études</noeud>
+    <noeud Id="309707018" lat="43.945625" lon="4.8085705">place des études</noeud>
+    <noeud Id="8330325713" lat="43.9456329" lon="4.8085185">rue des études</noeud>
+    <noeud Id="8330325716" lat="43.9456491" lon="4.8084321">rue des études</noeud>
+    <noeud Id="8330325714" lat="43.9456616" lon="4.8083394">rue des études</noeud>
+  </noeudsIntermediaires>
+  <Temps>00:02:42</Temps>
+  <Distance>406.4906396385318</Distance>
+</itineraire>

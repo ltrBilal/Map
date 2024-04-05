@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.text.*?>
+
+<BorderPane prefHeight="720.0" prefWidth="1080.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="fr.maps.HelloController">
+    <top>
+        <Pane fx:id="kk" prefHeight="56.0" prefWidth="580.0" style="-fx-background-color: #5d12e7;" BorderPane.alignment="CENTER">
+            <children>
+                <Label contentDisplay="CENTER" layoutX="353.0" layoutY="14.0" text="Maps" textFill="#eeecf5">
+                    <font>
+                        <Font size="21.0" />
+                    </font>
+                </Label>
+                <Label layoutX="38.0" layoutY="15.0" text="Dashboard" textFill="#dcd9e8">
+                    <font>
+                        <Font size="21.0" />
+                    </font>
+                </Label>
+            </children>
+        </Pane>
+    </top>
+    <left>
+        <Pane prefHeight="652.0" prefWidth="200.0" style="-fx-background-color: grey;" BorderPane.alignment="CENTER">
+            <children>
+                <VBox prefHeight="262.0" prefWidth="184.0" style="-fx-background-color: grey;">
+                    <children>
+                        <TextField fx:id="nameField" prefHeight="0.0" prefWidth="200.0" promptText="chercher une ville" style="-fx-background-color: #cfc4fc;">
+                            <VBox.margin>
+                                <Insets top="5.0" />
+                            </VBox.margin>
+                        </TextField>
+                        <Button mnemonicParsing="false" onAction="#execute" text="chercher">
+                            <VBox.margin>
+                                <Insets bottom="10.0" top="10.0" />
+                            </VBox.margin>
+                        </Button>
+                  <AnchorPane prefHeight="200.0" prefWidth="200.0">
+                     <children>
+                        <CheckBox fx:id="dessin_eau" layoutX="31.0" layoutY="32.0" mnemonicParsing="false" text="Eau" />
+                        <CheckBox fx:id="dessin_batiment" layoutX="31.0" layoutY="56.0" mnemonicParsing="false" text="Batiment" />
+                        <CheckBox fx:id="dessin_route" layoutX="31.0" layoutY="77.0" mnemonicParsing="false" text="Routes" />
+                        <CheckBox fx:id="dessin_park" layoutX="30.0" layoutY="102.0" mnemonicParsing="false" text="Park" />
+                        <CheckBox fx:id="dessin_point" layoutX="32.0" layoutY="127.0" mnemonicParsing="false" text="Point" />
+                        <CheckBox fx:id="dessin_foret" layoutX="32.0" layoutY="149.0" mnemonicParsing="false" text="Foret" />
+                        <Label layoutX="24.0" layoutY="6.0" text="Elément a dessiner" />
+                     </children>
+                  </AnchorPane>
+                    </children>
+                </VBox>
+                <TextFlow fx:id="textFlow" layoutX="2.0" layoutY="366.0" prefHeight="288.0" prefWidth="200.0" style="-fx-background-color: white;" />
+            </children>
+        </Pane>
+    </left>
+    <bottom>
+        <Pane id="rouger" fx:id="nn" prefHeight="149.0" prefWidth="580.0" style="-fx-background-color: #cfc4fc;" BorderPane.alignment="CENTER">
+         <children>
+            <TextArea fx:id="textFlow2" layoutY="-1.0" prefHeight="151.0" prefWidth="523.0" style="-fx-background-color: red; -fx-text-fill: green; -fx-control-inner-background: black;">
+               <font>
+                  <Font size="16.0" />
+               </font></TextArea>
+            <VBox layoutX="607.0" prefHeight="149.0" prefWidth="118.0" style="-fx-background-color: black;">
+               <children>
+                  <Text fill="#07a4ff" lineSpacing="1.0" strokeType="OUTSIDE" text="zone d 'eau" textAlignment="CENTER" />
+                  <Text fill="#aeaeae" lineSpacing="3.0" strokeType="OUTSIDE" text="batiment" />
+                  <Text fill="LIME" strokeType="OUTSIDE" text="park" />
+                  <Text fill="#0fae84" strokeType="OUTSIDE" strokeWidth="0.0" text="foret" />
+               </children>
+            </VBox>
+            <VBox layoutX="523.0" layoutY="-1.0" prefHeight="150.0" prefWidth="84.0" style="-fx-background-color: black;">
+               <children>
+                  <Circle fill="#2149ff" radius="11.0" stroke="BLACK" strokeType="INSIDE" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#859bae" height="20.0" stroke="BLACK" strokeType="INSIDE" width="20.0" />
+                  <Circle fill="#00ff09" radius="11.0" stroke="BLACK" strokeType="INSIDE" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#008763" height="20.0" stroke="BLACK" strokeType="INSIDE" width="20.0" />
+               </children>
+            </VBox>
+                  <TextField fx:id="depart" layoutX="736.0" layoutY="20.0" prefHeight="25.0" prefWidth="148.0" promptText="saisir adresse de depart" />
+                  <TextField fx:id="arrivee" layoutX="905.0" layoutY="20.0" promptText="saisir adresse d arrivee" />
+                  <Button fx:id="itebtn" layoutX="737.0" layoutY="62.0" mnemonicParsing="false" onAction="#ProposeTypeIte" prefHeight="25.0" prefWidth="146.0" text="Séléctioner un moyen" />
+                  <Button fx:id="itebtn1" layoutX="906.0" layoutY="61.0" mnemonicParsing="false" onAction="#iteniraire" prefHeight="25.0" prefWidth="147.0" text="chercher" />
+            <Button fx:id="aka" layoutX="869.0" layoutY="97.0" mnemonicParsing="false" onAction="#iteniraire" text="dessin" />
+         </children></Pane>
+    </bottom>
+    <center>
+        <BorderPane prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+            <right>
+                <VBox prefHeight="262.0" prefWidth="0.0" BorderPane.alignment="CENTER">
+                    <children>
+
+                        <Button fx:id="Zoom" mnemonicParsing="false" onAction="#Zoom" prefHeight="35.0" prefWidth="46.0">
+                            <graphic>
+                                <ImageView fitHeight="29.0" fitWidth="31.0">
+
+                                </ImageView>
+
+                            </graphic>
+                        </Button>
+                        <Button fx:id="Dezoom" mnemonicParsing="false" onAction="#Dezoom" prefHeight="37.0" prefWidth="47.0">
+                            <graphic>
+                                <ImageView fitHeight="25.0" fitWidth="31.0">
+
+                                </ImageView>
+
+                            </graphic>
+                        </Button>
+                    </children>
+                </VBox>
+            </right>
+            <center>
+                <ScrollPane fx:id="scrolpanee" BorderPane.alignment="CENTER" />
+            </center>
+        </BorderPane>
+    </center>
+</BorderPane>
